@@ -1,0 +1,32 @@
+{
+  "version": "0.1",
+  "announcements": {
+    "10.0.0.0/8": {
+      "ext_A": {
+        "lp": 5,
+        "aspl": 2,
+        "origin": 0,
+        "med": 0
+      },
+      "ext_C": {
+        "lp": 10,
+        "aspl": 3,
+        "origin": 0,
+        "med": 50
+      }
+    }
+  },
+  "failures": {
+    "type": "NodeFailureModel",
+    "p_link_failure": 0.001,
+    "p_node_failure": 0.002
+  },
+  "properties": [{
+    "type": "Waypoint",
+    "flow": {
+      "src": "node_A",
+      "dst": "10.0.0.0/8"
+    },
+    "waypoint": "node_B"
+  }]
+}

@@ -1,0 +1,22 @@
+{"ctx": ["AS-3549-Xcongest-5"], "topology": {"name": "AS-3549", "nof_nodes": 107, "nof_links": 235}}
+{"ctx": ["AS-3549-Xcongest-5", 5], "rrs": [41, 84]}
+{"ctx": ["AS-3549-Xcongest-5", 5], "property": "Congestion([src: 67.17.105.46, dst: dst0]*376 [src: 67.17.108.62, dst: dst1]*249 [src: 67.17.80.156, dst: dst2]*948 [src: 67.16.130.218, dst: dst3]*73 [src: 67.17.81.251, dst: dst4]*342 , (57, 0), 500)"}
+{"ctx": ["AS-3549-Xcongest-5", 5], "time-explore": 5324.35085272789}
+{"ctx": ["AS-3549-Xcongest-5", 5], "finished": {"precision": 9.998339101913162e-05, "p_property": 0.9999000166089809, "num_explored": 6709}}
+{"ctx": ["AS-3549-Xcongest-5", 6], "rrs": [53, 90]}
+{"ctx": ["AS-3549-Xcongest-5", 6], "property": "Congestion([src: 67.17.81.151, dst: dst0]*862 [src: 67.17.80.179, dst: dst1]*192 [src: 67.17.80.76, dst: dst2]*823 [src: 67.17.81.251, dst: dst3]*843 [src: 67.17.80.108, dst: dst4]*200 , (69, 63), 500)"}
+{"ctx": ["AS-3549-Xcongest-5", 6], "timeout_after_seconds": 7200.0}
+{"ctx": ["AS-3549-Xcongest-5", 6], "time-explore": 7200.341953992844}
+{"ctx": ["AS-3549-Xcongest-5", 6], "finished": {"precision": 0.00023907743634832274, "p_property": 0.9997609225636517, "num_explored": 7109}}
+{"ctx": ["AS-3549-Xcongest-5", 7], "rrs": [53, 28]}
+{"ctx": ["AS-3549-Xcongest-5", 7], "property": "Congestion([src: 67.17.80.98, dst: dst0]*235 [src: 67.17.81.239, dst: dst1]*412 [src: 67.17.81.245, dst: dst2]*320 [src: 67.17.107.194, dst: dst3]*96 [src: 67.17.108.6, dst: dst4]*148 , (45, 21), 500)"}
+{"ctx": ["AS-3549-Xcongest-5", 7], "time-explore": 4384.586238861084}
+{"ctx": ["AS-3549-Xcongest-5", 7], "finished": {"precision": 9.99182953593803e-05, "p_property": 0.9999000817046406, "num_explored": 6509}}
+{"ctx": ["AS-3549-Xcongest-5", 8], "rrs": [33, 38]}
+{"ctx": ["AS-3549-Xcongest-5", 8], "property": "Congestion([src: 67.16.128.13, dst: dst0]*637 [src: 67.17.80.123, dst: dst1]*398 [src: 64.215.28.17, dst: dst2]*23 [src: 67.17.65.202, dst: dst3]*735 [src: 67.17.80.217, dst: dst4]*696 , (13, 91), 500)"}
+{"ctx": ["AS-3549-Xcongest-5", 8], "time-explore": 4027.535980463028}
+{"ctx": ["AS-3549-Xcongest-5", 8], "finished": {"precision": 9.993845963518494e-05, "p_property": 0.9999000615403648, "num_explored": 6644}}
+{"ctx": ["AS-3549-Xcongest-5", 9], "rrs": [63, 35]}
+{"ctx": ["AS-3549-Xcongest-5", 9], "property": "Congestion([src: 67.17.80.108, dst: dst0]*836 [src: 64.208.110.222, dst: dst1]*139 [src: 64.208.110.253, dst: dst2]*217 [src: 67.17.80.7, dst: dst3]*303 [src: 67.17.80.76, dst: dst4]*504 , (22, 19), 500)"}
+{"ctx": ["AS-3549-Xcongest-5", 9], "time-explore": 2880.703174829483}
+{"ctx": ["AS-3549-Xcongest-5", 9], "finished": {"precision": 9.991056979019584e-05, "p_property": 0.9999000894302098, "num_explored": 5879}}

@@ -1,0 +1,408 @@
+{"ctx": ["Uninett2010-br6"], "topology": {"name": "Uninett2010", "nof_nodes": 74, "nof_links": 101}}
+{"ctx": ["Uninett2010-br6", 0], "rrs": [66, 31]}
+{"ctx": ["Uninett2010-br6", 0], "brs": [72, 53, 37, 50, 59, 8]}
+{"ctx": ["Uninett2010-br6", 0], "property": "Waypoint([src: 52, dst: XXX], 23)"}
+{"ctx": ["Uninett2010-br6", 0], "time-explore": 49.90470361709595}
+{"ctx": ["Uninett2010-br6", 0], "finished": {"precision": 9.948196822262556e-05, "p_property": 0, "num_explored": 360}}
+{"ctx": ["Uninett2010-br6", 1], "rrs": [56, 9]}
+{"ctx": ["Uninett2010-br6", 1], "brs": [73, 53, 28, 13, 23, 33]}
+{"ctx": ["Uninett2010-br6", 1], "property": "Waypoint([src: 12, dst: XXX], 19)"}
+{"ctx": ["Uninett2010-br6", 1], "time-explore": 52.03195309638977}
+{"ctx": ["Uninett2010-br6", 1], "finished": {"precision": 9.92203691101424e-05, "p_property": 0, "num_explored": 391}}
+{"ctx": ["Uninett2010-br6", 2], "rrs": [44, 34]}
+{"ctx": ["Uninett2010-br6", 2], "brs": [60, 48, 4, 21, 12, 71]}
+{"ctx": ["Uninett2010-br6", 2], "property": "Waypoint([src: 73, dst: XXX], 54)"}
+{"ctx": ["Uninett2010-br6", 2], "time-explore": 136.81173992156982}
+{"ctx": ["Uninett2010-br6", 2], "finished": {"precision": 9.973518732087075e-05, "p_property": 0, "num_explored": 517}}
+{"ctx": ["Uninett2010-br6", 3], "rrs": [1, 68]}
+{"ctx": ["Uninett2010-br6", 3], "brs": [51, 28, 62, 72, 54, 13]}
+{"ctx": ["Uninett2010-br6", 3], "property": "Waypoint([src: 40, dst: XXX], 70)"}
+{"ctx": ["Uninett2010-br6", 3], "time-explore": 87.19907307624817}
+{"ctx": ["Uninett2010-br6", 3], "finished": {"precision": 9.988541202199383e-05, "p_property": 0, "num_explored": 512}}
+{"ctx": ["Uninett2010-br6", 4], "rrs": [14, 11]}
+{"ctx": ["Uninett2010-br6", 4], "brs": [53, 28, 23, 57, 56, 12]}
+{"ctx": ["Uninett2010-br6", 4], "property": "Waypoint([src: 10, dst: XXX], 68)"}
+{"ctx": ["Uninett2010-br6", 4], "time-explore": 13.662933349609375}
+{"ctx": ["Uninett2010-br6", 4], "finished": {"precision": 9.957425232509648e-05, "p_property": 0, "num_explored": 164}}
+{"ctx": ["Uninett2010-br6", 5], "rrs": [8, 66]}
+{"ctx": ["Uninett2010-br6", 5], "brs": [57, 37, 20, 64, 30, 53]}
+{"ctx": ["Uninett2010-br6", 5], "property": "Waypoint([src: 27, dst: XXX], 44)"}
+{"ctx": ["Uninett2010-br6", 5], "time-explore": 35.61375665664673}
+{"ctx": ["Uninett2010-br6", 5], "finished": {"precision": 9.970884838739201e-05, "p_property": 0, "num_explored": 309}}
+{"ctx": ["Uninett2010-br6", 6], "rrs": [26, 35]}
+{"ctx": ["Uninett2010-br6", 6], "brs": [15, 55, 4, 19, 36, 63]}
+{"ctx": ["Uninett2010-br6", 6], "property": "Waypoint([src: 32, dst: XXX], 3)"}
+{"ctx": ["Uninett2010-br6", 6], "time-explore": 43.877934217453}
+{"ctx": ["Uninett2010-br6", 6], "finished": {"precision": 9.976258353416866e-05, "p_property": 0, "num_explored": 310}}
+{"ctx": ["Uninett2010-br6", 7], "rrs": [1, 18]}
+{"ctx": ["Uninett2010-br6", 7], "brs": [38, 30, 73, 58, 63, 28]}
+{"ctx": ["Uninett2010-br6", 7], "property": "Waypoint([src: 37, dst: XXX], 16)"}
+{"ctx": ["Uninett2010-br6", 7], "time-explore": 7.167711019515991}
+{"ctx": ["Uninett2010-br6", 7], "finished": {"precision": 9.98543108632344e-05, "p_property": 0, "num_explored": 96}}
+{"ctx": ["Uninett2010-br6", 8], "rrs": [17, 1]}
+{"ctx": ["Uninett2010-br6", 8], "brs": [70, 31, 29, 18, 53, 64]}
+{"ctx": ["Uninett2010-br6", 8], "property": "Waypoint([src: 26, dst: XXX], 67)"}
+{"ctx": ["Uninett2010-br6", 8], "time-explore": 110.2692654132843}
+{"ctx": ["Uninett2010-br6", 8], "finished": {"precision": 9.909644532279936e-05, "p_property": 0.0010896326702735909, "num_explored": 548}}
+{"ctx": ["Uninett2010-br6", 9], "rrs": [61, 67]}
+{"ctx": ["Uninett2010-br6", 9], "brs": [24, 64, 71, 6, 23, 52]}
+{"ctx": ["Uninett2010-br6", 9], "property": "Waypoint([src: 70, dst: XXX], 26)"}
+{"ctx": ["Uninett2010-br6", 9], "time-explore": 27.684714555740356}
+{"ctx": ["Uninett2010-br6", 9], "finished": {"precision": 9.90723037305186e-05, "p_property": 0, "num_explored": 272}}
+{"ctx": ["Uninett2010-br8"], "topology": {"name": "Uninett2010", "nof_nodes": 74, "nof_links": 101}}
+{"ctx": ["Uninett2010-br8", 0], "rrs": [37, 32]}
+{"ctx": ["Uninett2010-br8", 0], "brs": [55, 28, 50, 53, 4, 62, 47, 60]}
+{"ctx": ["Uninett2010-br8", 0], "property": "Waypoint([src: 44, dst: XXX], 41)"}
+{"ctx": ["Uninett2010-br8", 0], "time-explore": 72.3487286567688}
+{"ctx": ["Uninett2010-br8", 0], "finished": {"precision": 9.968093735213127e-05, "p_property": 0, "num_explored": 449}}
+{"ctx": ["Uninett2010-br8", 1], "rrs": [67, 10]}
+{"ctx": ["Uninett2010-br8", 1], "brs": [21, 62, 28, 23, 59, 27, 46, 64]}
+{"ctx": ["Uninett2010-br8", 1], "property": "Waypoint([src: 22, dst: XXX], 63)"}
+{"ctx": ["Uninett2010-br8", 1], "time-explore": 125.53508186340332}
+{"ctx": ["Uninett2010-br8", 1], "finished": {"precision": 9.963305735249958e-05, "p_property": 0, "num_explored": 618}}
+{"ctx": ["Uninett2010-br8", 2], "rrs": [69, 8]}
+{"ctx": ["Uninett2010-br8", 2], "brs": [55, 24, 49, 53, 54, 29, 4, 63]}
+{"ctx": ["Uninett2010-br8", 2], "property": "Waypoint([src: 6, dst: XXX], 36)"}
+{"ctx": ["Uninett2010-br8", 2], "time-explore": 88.56558084487915}
+{"ctx": ["Uninett2010-br8", 2], "finished": {"precision": 9.935083501388946e-05, "p_property": 0, "num_explored": 467}}
+{"ctx": ["Uninett2010-br8", 3], "rrs": [49, 17]}
+{"ctx": ["Uninett2010-br8", 3], "brs": [28, 7, 48, 8, 53, 64, 33, 27]}
+{"ctx": ["Uninett2010-br8", 3], "property": "Waypoint([src: 67, dst: XXX], 71)"}
+{"ctx": ["Uninett2010-br8", 3], "time-explore": 270.93628191947937}
+{"ctx": ["Uninett2010-br8", 3], "finished": {"precision": 9.971528575214433e-05, "p_property": 0, "num_explored": 857}}
+{"ctx": ["Uninett2010-br8", 4], "rrs": [1, 61]}
+{"ctx": ["Uninett2010-br8", 4], "brs": [71, 53, 60, 28, 4, 59, 24, 58]}
+{"ctx": ["Uninett2010-br8", 4], "property": "Waypoint([src: 57, dst: XXX], 17)"}
+{"ctx": ["Uninett2010-br8", 4], "time-explore": 174.80943846702576}
+{"ctx": ["Uninett2010-br8", 4], "finished": {"precision": 9.941449668826595e-05, "p_property": 0, "num_explored": 757}}
+{"ctx": ["Uninett2010-br8", 5], "rrs": [35, 69]}
+{"ctx": ["Uninett2010-br8", 5], "brs": [24, 19, 55, 18, 21, 30, 4, 31]}
+{"ctx": ["Uninett2010-br8", 5], "property": "Waypoint([src: 14, dst: XXX], 51)"}
+{"ctx": ["Uninett2010-br8", 5], "time-explore": 150.3639464378357}
+{"ctx": ["Uninett2010-br8", 5], "finished": {"precision": 9.961844530992357e-05, "p_property": 0, "num_explored": 670}}
+{"ctx": ["Uninett2010-br8", 6], "rrs": [43, 11]}
+{"ctx": ["Uninett2010-br8", 6], "brs": [62, 49, 52, 72, 57, 50, 55, 39]}
+{"ctx": ["Uninett2010-br8", 6], "property": "Waypoint([src: 37, dst: XXX], 42)"}
+{"ctx": ["Uninett2010-br8", 6], "time-explore": 198.1075644493103}
+{"ctx": ["Uninett2010-br8", 6], "finished": {"precision": 9.917116849356153e-05, "p_property": 0, "num_explored": 678}}
+{"ctx": ["Uninett2010-br8", 7], "rrs": [8, 45]}
+{"ctx": ["Uninett2010-br8", 7], "brs": [62, 49, 39, 61, 19, 53, 30, 48]}
+{"ctx": ["Uninett2010-br8", 7], "property": "Waypoint([src: 7, dst: XXX], 27)"}
+{"ctx": ["Uninett2010-br8", 7], "time-explore": 316.5038595199585}
+{"ctx": ["Uninett2010-br8", 7], "finished": {"precision": 9.925193909166018e-05, "p_property": 0, "num_explored": 924}}
+{"ctx": ["Uninett2010-br8", 8], "rrs": [47, 51]}
+{"ctx": ["Uninett2010-br8", 8], "brs": [73, 12, 53, 33, 48, 62, 31, 58]}
+{"ctx": ["Uninett2010-br8", 8], "property": "Waypoint([src: 57, dst: XXX], 34)"}
+{"ctx": ["Uninett2010-br8", 8], "time-explore": 29.53285312652588}
+{"ctx": ["Uninett2010-br8", 8], "finished": {"precision": 9.971918418305582e-05, "p_property": 0, "num_explored": 256}}
+{"ctx": ["Uninett2010-br8", 9], "rrs": [34, 67]}
+{"ctx": ["Uninett2010-br8", 9], "brs": [38, 18, 20, 12, 53, 4, 73, 14]}
+{"ctx": ["Uninett2010-br8", 9], "property": "Waypoint([src: 54, dst: XXX], 43)"}
+{"ctx": ["Uninett2010-br8", 9], "time-explore": 87.73986554145813}
+{"ctx": ["Uninett2010-br8", 9], "finished": {"precision": 9.927039892854157e-05, "p_property": 0, "num_explored": 525}}
+{"ctx": ["Uninett2010-br10"], "topology": {"name": "Uninett2010", "nof_nodes": 74, "nof_links": 101}}
+{"ctx": ["Uninett2010-br10", 0], "rrs": [34, 54]}
+{"ctx": ["Uninett2010-br10", 0], "brs": [60, 62, 64, 8, 59, 57, 70, 28, 48, 4]}
+{"ctx": ["Uninett2010-br10", 0], "property": "Waypoint([src: 36, dst: XXX], 11)"}
+{"ctx": ["Uninett2010-br10", 0], "time-explore": 360.8292329311371}
+{"ctx": ["Uninett2010-br10", 0], "finished": {"precision": 9.995552979036322e-05, "p_property": 0, "num_explored": 960}}
+{"ctx": ["Uninett2010-br10", 1], "rrs": [40, 3]}
+{"ctx": ["Uninett2010-br10", 1], "brs": [49, 73, 50, 4, 13, 18, 71, 32, 7, 27]}
+{"ctx": ["Uninett2010-br10", 1], "property": "Waypoint([src: 31, dst: XXX], 42)"}
+{"ctx": ["Uninett2010-br10", 1], "time-explore": 182.88633561134338}
+{"ctx": ["Uninett2010-br10", 1], "finished": {"precision": 9.973896756965133e-05, "p_property": 0, "num_explored": 724}}
+{"ctx": ["Uninett2010-br10", 2], "rrs": [65, 64]}
+{"ctx": ["Uninett2010-br10", 2], "brs": [53, 57, 33, 56, 13, 28, 6, 20, 31, 52]}
+{"ctx": ["Uninett2010-br10", 2], "property": "Waypoint([src: 43, dst: XXX], 50)"}
+{"ctx": ["Uninett2010-br10", 2], "time-explore": 265.366660118103}
+{"ctx": ["Uninett2010-br10", 2], "finished": {"precision": 9.990186266928269e-05, "p_property": 0, "num_explored": 923}}
+{"ctx": ["Uninett2010-br10", 3], "rrs": [35, 1]}
+{"ctx": ["Uninett2010-br10", 3], "brs": [11, 39, 27, 62, 19, 13, 10, 32, 52, 63]}
+{"ctx": ["Uninett2010-br10", 3], "property": "Waypoint([src: 50, dst: XXX], 37)"}
+{"ctx": ["Uninett2010-br10", 3], "time-explore": 240.35601425170898}
+{"ctx": ["Uninett2010-br10", 3], "finished": {"precision": 9.906459263309128e-05, "p_property": 0, "num_explored": 898}}
+{"ctx": ["Uninett2010-br10", 4], "rrs": [66, 42]}
+{"ctx": ["Uninett2010-br10", 4], "brs": [59, 72, 38, 18, 71, 13, 33, 19, 24, 39]}
+{"ctx": ["Uninett2010-br10", 4], "property": "Waypoint([src: 34, dst: XXX], 1)"}
+{"ctx": ["Uninett2010-br10", 4], "time-explore": 229.26970529556274}
+{"ctx": ["Uninett2010-br10", 4], "finished": {"precision": 9.957205674160359e-05, "p_property": 9.50066092569798e-05, "num_explored": 773}}
+{"ctx": ["Uninett2010-br10", 5], "rrs": [10, 26]}
+{"ctx": ["Uninett2010-br10", 5], "brs": [4, 50, 6, 46, 73, 28, 71, 27, 13, 18]}
+{"ctx": ["Uninett2010-br10", 5], "property": "Waypoint([src: 69, dst: XXX], 0)"}
+{"ctx": ["Uninett2010-br10", 5], "time-explore": 201.6598927974701}
+{"ctx": ["Uninett2010-br10", 5], "finished": {"precision": 9.958432302004105e-05, "p_property": 4.014063413266033e-06, "num_explored": 784}}
+{"ctx": ["Uninett2010-br10", 6], "rrs": [46, 66]}
+{"ctx": ["Uninett2010-br10", 6], "brs": [23, 55, 56, 13, 62, 1, 60, 28, 22, 33]}
+{"ctx": ["Uninett2010-br10", 6], "property": "Waypoint([src: 54, dst: XXX], 18)"}
+{"ctx": ["Uninett2010-br10", 6], "time-explore": 40.43917202949524}
+{"ctx": ["Uninett2010-br10", 6], "finished": {"precision": 9.939010902404448e-05, "p_property": 0, "num_explored": 327}}
+{"ctx": ["Uninett2010-br10", 7], "rrs": [42, 25]}
+{"ctx": ["Uninett2010-br10", 7], "brs": [33, 5, 53, 59, 19, 30, 32, 48, 61, 7]}
+{"ctx": ["Uninett2010-br10", 7], "property": "Waypoint([src: 35, dst: XXX], 54)"}
+{"ctx": ["Uninett2010-br10", 7], "time-explore": 701.7275071144104}
+{"ctx": ["Uninett2010-br10", 7], "finished": {"precision": 9.990029613871076e-05, "p_property": 0, "num_explored": 1537}}
+{"ctx": ["Uninett2010-br10", 8], "rrs": [3, 23]}
+{"ctx": ["Uninett2010-br10", 8], "brs": [16, 20, 49, 27, 36, 38, 62, 39, 33, 4]}
+{"ctx": ["Uninett2010-br10", 8], "property": "Waypoint([src: 51, dst: XXX], 32)"}
+{"ctx": ["Uninett2010-br10", 8], "time-explore": 149.8807408809662}
+{"ctx": ["Uninett2010-br10", 8], "finished": {"precision": 9.984003034380075e-05, "p_property": 9.604833060979212e-07, "num_explored": 696}}
+{"ctx": ["Uninett2010-br10", 9], "rrs": [66, 58]}
+{"ctx": ["Uninett2010-br10", 9], "brs": [47, 69, 71, 13, 37, 59, 62, 49, 50, 54]}
+{"ctx": ["Uninett2010-br10", 9], "property": "Waypoint([src: 34, dst: XXX], 35)"}
+{"ctx": ["Uninett2010-br10", 9], "time-explore": 270.53964400291443}
+{"ctx": ["Uninett2010-br10", 9], "finished": {"precision": 9.980397167663743e-05, "p_property": 0, "num_explored": 857}}
+{"ctx": ["Uninett2010-br12"], "topology": {"name": "Uninett2010", "nof_nodes": 74, "nof_links": 101}}
+{"ctx": ["Uninett2010-br12", 0], "rrs": [42, 21]}
+{"ctx": ["Uninett2010-br12", 0], "brs": [57, 18, 47, 38, 20, 0, 8, 71, 28, 13, 22, 27]}
+{"ctx": ["Uninett2010-br12", 0], "property": "Waypoint([src: 73, dst: XXX], 68)"}
+{"ctx": ["Uninett2010-br12", 0], "time-explore": 427.5006320476532}
+{"ctx": ["Uninett2010-br12", 0], "finished": {"precision": 9.993374988259701e-05, "p_property": 0, "num_explored": 1109}}
+{"ctx": ["Uninett2010-br12", 1], "rrs": [14, 37]}
+{"ctx": ["Uninett2010-br12", 1], "brs": [2, 57, 8, 58, 28, 24, 40, 52, 59, 41, 61, 54]}
+{"ctx": ["Uninett2010-br12", 1], "property": "Waypoint([src: 42, dst: XXX], 46)"}
+{"ctx": ["Uninett2010-br12", 1], "time-explore": 201.9878478050232}
+{"ctx": ["Uninett2010-br12", 1], "finished": {"precision": 9.920988698230984e-05, "p_property": 9.754214842573292e-05, "num_explored": 787}}
+{"ctx": ["Uninett2010-br12", 2], "rrs": [51, 66]}
+{"ctx": ["Uninett2010-br12", 2], "brs": [50, 70, 5, 14, 19, 53, 62, 32, 49, 28, 0, 21]}
+{"ctx": ["Uninett2010-br12", 2], "property": "Waypoint([src: 52, dst: XXX], 56)"}
+{"ctx": ["Uninett2010-br12", 2], "time-explore": 305.68393754959106}
+{"ctx": ["Uninett2010-br12", 2], "finished": {"precision": 9.995795469952555e-05, "p_property": 0, "num_explored": 1010}}
+{"ctx": ["Uninett2010-br12", 3], "rrs": [34, 36]}
+{"ctx": ["Uninett2010-br12", 3], "brs": [30, 24, 33, 6, 43, 11, 63, 53, 18, 61, 28, 20]}
+{"ctx": ["Uninett2010-br12", 3], "property": "Waypoint([src: 3, dst: XXX], 54)"}
+{"ctx": ["Uninett2010-br12", 3], "time-explore": 279.4313294887543}
+{"ctx": ["Uninett2010-br12", 3], "finished": {"precision": 9.955701833119784e-05, "p_property": 0, "num_explored": 938}}
+{"ctx": ["Uninett2010-br12", 4], "rrs": [22, 32]}
+{"ctx": ["Uninett2010-br12", 4], "brs": [48, 23, 39, 71, 38, 4, 64, 49, 5, 27, 44, 24]}
+{"ctx": ["Uninett2010-br12", 4], "property": "Waypoint([src: 25, dst: XXX], 9)"}
+{"ctx": ["Uninett2010-br12", 4], "time-explore": 1058.382406949997}
+{"ctx": ["Uninett2010-br12", 4], "finished": {"precision": 9.996321031990883e-05, "p_property": 0, "num_explored": 2004}}
+{"ctx": ["Uninett2010-br12", 5], "rrs": [47, 17]}
+{"ctx": ["Uninett2010-br12", 5], "brs": [56, 44, 29, 16, 4, 53, 62, 28, 12, 55, 9, 21]}
+{"ctx": ["Uninett2010-br12", 5], "property": "Waypoint([src: 32, dst: XXX], 1)"}
+{"ctx": ["Uninett2010-br12", 5], "time-explore": 382.99953413009644}
+{"ctx": ["Uninett2010-br12", 5], "finished": {"precision": 9.991155649446971e-05, "p_property": 2.0894398137761437e-06, "num_explored": 1110}}
+{"ctx": ["Uninett2010-br12", 6], "rrs": [68, 32]}
+{"ctx": ["Uninett2010-br12", 6], "brs": [31, 47, 51, 11, 18, 48, 53, 54, 21, 60, 63, 57]}
+{"ctx": ["Uninett2010-br12", 6], "property": "Waypoint([src: 67, dst: XXX], 6)"}
+{"ctx": ["Uninett2010-br12", 6], "time-explore": 122.92417883872986}
+{"ctx": ["Uninett2010-br12", 6], "finished": {"precision": 9.94002246785808e-05, "p_property": 0, "num_explored": 601}}
+{"ctx": ["Uninett2010-br12", 7], "rrs": [26, 3]}
+{"ctx": ["Uninett2010-br12", 7], "brs": [22, 49, 56, 54, 24, 43, 39, 55, 64, 18, 73, 70]}
+{"ctx": ["Uninett2010-br12", 7], "property": "Waypoint([src: 13, dst: XXX], 2)"}
+{"ctx": ["Uninett2010-br12", 7], "time-explore": 319.6649057865143}
+{"ctx": ["Uninett2010-br12", 7], "finished": {"precision": 9.991720216462332e-05, "p_property": 0, "num_explored": 907}}
+{"ctx": ["Uninett2010-br12", 8], "rrs": [69, 66]}
+{"ctx": ["Uninett2010-br12", 8], "brs": [60, 57, 19, 41, 36, 28, 71, 52, 53, 62, 31, 5]}
+{"ctx": ["Uninett2010-br12", 8], "property": "Waypoint([src: 20, dst: XXX], 0)"}
+{"ctx": ["Uninett2010-br12", 8], "time-explore": 277.1798405647278}
+{"ctx": ["Uninett2010-br12", 8], "finished": {"precision": 9.979469543952566e-05, "p_property": 0.9921820919216521, "num_explored": 841}}
+{"ctx": ["Uninett2010-br12", 9], "rrs": [14, 44]}
+{"ctx": ["Uninett2010-br12", 9], "brs": [37, 57, 27, 31, 7, 64, 60, 50, 29, 58, 62, 4]}
+{"ctx": ["Uninett2010-br12", 9], "property": "Waypoint([src: 11, dst: XXX], 66)"}
+{"ctx": ["Uninett2010-br12", 9], "time-explore": 379.686646938324}
+{"ctx": ["Uninett2010-br12", 9], "finished": {"precision": 9.996404907053327e-05, "p_property": 0.0011922013341250876, "num_explored": 988}}
+{"ctx": ["Uninett2010-br14"], "topology": {"name": "Uninett2010", "nof_nodes": 74, "nof_links": 101}}
+{"ctx": ["Uninett2010-br14", 0], "rrs": [57, 16]}
+{"ctx": ["Uninett2010-br14", 0], "brs": [13, 48, 62, 24, 23, 32, 17, 55, 64, 30, 52, 72, 6, 60]}
+{"ctx": ["Uninett2010-br14", 0], "property": "Waypoint([src: 28, dst: XXX], 71)"}
+{"ctx": ["Uninett2010-br14", 0], "time-explore": 680.8223731517792}
+{"ctx": ["Uninett2010-br14", 0], "finished": {"precision": 9.995991458600079e-05, "p_property": 0, "num_explored": 1517}}
+{"ctx": ["Uninett2010-br14", 1], "rrs": [32, 29]}
+{"ctx": ["Uninett2010-br14", 1], "brs": [69, 59, 61, 57, 38, 18, 53, 48, 4, 58, 17, 64, 65, 55]}
+{"ctx": ["Uninett2010-br14", 1], "property": "Waypoint([src: 41, dst: XXX], 33)"}
+{"ctx": ["Uninett2010-br14", 1], "time-explore": 759.0106472969055}
+{"ctx": ["Uninett2010-br14", 1], "finished": {"precision": 9.996244760579472e-05, "p_property": 9.604302771156017e-08, "num_explored": 1713}}
+{"ctx": ["Uninett2010-br14", 2], "rrs": [22, 51]}
+{"ctx": ["Uninett2010-br14", 2], "brs": [43, 18, 4, 54, 31, 60, 49, 64, 20, 71, 72, 52, 39, 28]}
+{"ctx": ["Uninett2010-br14", 2], "property": "Waypoint([src: 44, dst: XXX], 42)"}
+{"ctx": ["Uninett2010-br14", 2], "time-explore": 2018.724279642105}
+{"ctx": ["Uninett2010-br14", 2], "finished": {"precision": 9.996386907218382e-05, "p_property": 0.9975200342827437, "num_explored": 2957}}
+{"ctx": ["Uninett2010-br14", 3], "rrs": [26, 8]}
+{"ctx": ["Uninett2010-br14", 3], "brs": [64, 19, 18, 63, 15, 58, 59, 62, 13, 22, 9, 65, 31, 30]}
+{"ctx": ["Uninett2010-br14", 3], "property": "Waypoint([src: 67, dst: XXX], 73)"}
+{"ctx": ["Uninett2010-br14", 3], "time-explore": 239.03211045265198}
+{"ctx": ["Uninett2010-br14", 3], "finished": {"precision": 9.911890322888975e-05, "p_property": 0, "num_explored": 885}}
+{"ctx": ["Uninett2010-br14", 4], "rrs": [61, 10]}
+{"ctx": ["Uninett2010-br14", 4], "brs": [22, 53, 24, 57, 50, 0, 54, 71, 6, 69, 65, 60, 52, 15]}
+{"ctx": ["Uninett2010-br14", 4], "property": "Waypoint([src: 19, dst: XXX], 16)"}
+{"ctx": ["Uninett2010-br14", 4], "time-explore": 777.743893623352}
+{"ctx": ["Uninett2010-br14", 4], "finished": {"precision": 9.997085806967569e-05, "p_property": 0, "num_explored": 1880}}
+{"ctx": ["Uninett2010-br14", 5], "rrs": [56, 31]}
+{"ctx": ["Uninett2010-br14", 5], "brs": [49, 70, 55, 27, 52, 71, 24, 20, 4, 6, 7, 28, 25, 58]}
+{"ctx": ["Uninett2010-br14", 5], "property": "Waypoint([src: 46, dst: XXX], 66)"}
+{"ctx": ["Uninett2010-br14", 5], "time-explore": 202.899493932724}
+{"ctx": ["Uninett2010-br14", 5], "finished": {"precision": 9.989628016460197e-05, "p_property": 0.0031684717222457003, "num_explored": 1023}}
+{"ctx": ["Uninett2010-br14", 6], "rrs": [44, 10]}
+{"ctx": ["Uninett2010-br14", 6], "brs": [62, 14, 50, 30, 21, 0, 4, 54, 48, 7, 68, 73, 63, 19]}
+{"ctx": ["Uninett2010-br14", 6], "property": "Waypoint([src: 55, dst: XXX], 38)"}
+{"ctx": ["Uninett2010-br14", 6], "time-explore": 267.59416794776917}
+{"ctx": ["Uninett2010-br14", 6], "finished": {"precision": 9.990510365553977e-05, "p_property": 0, "num_explored": 1171}}
+{"ctx": ["Uninett2010-br14", 7], "rrs": [22, 61]}
+{"ctx": ["Uninett2010-br14", 7], "brs": [70, 53, 46, 28, 11, 27, 62, 71, 60, 7, 72, 19, 21, 16]}
+{"ctx": ["Uninett2010-br14", 7], "property": "Waypoint([src: 36, dst: XXX], 48)"}
+{"ctx": ["Uninett2010-br14", 7], "time-explore": 1235.7794787883759}
+{"ctx": ["Uninett2010-br14", 7], "finished": {"precision": 9.996667824152539e-05, "p_property": 0, "num_explored": 2192}}
+{"ctx": ["Uninett2010-br14", 8], "rrs": [32, 45]}
+{"ctx": ["Uninett2010-br14", 8], "brs": [4, 39, 62, 56, 7, 25, 24, 34, 1, 13, 16, 52, 20, 0]}
+{"ctx": ["Uninett2010-br14", 8], "property": "Waypoint([src: 6, dst: XXX], 21)"}
+{"ctx": ["Uninett2010-br14", 8], "time-explore": 557.4663429260254}
+{"ctx": ["Uninett2010-br14", 8], "finished": {"precision": 9.994806478519357e-05, "p_property": 0, "num_explored": 1443}}
+{"ctx": ["Uninett2010-br14", 9], "rrs": [34, 25]}
+{"ctx": ["Uninett2010-br14", 9], "brs": [7, 62, 54, 48, 33, 49, 63, 58, 20, 1, 60, 24, 59, 29]}
+{"ctx": ["Uninett2010-br14", 9], "property": "Waypoint([src: 52, dst: XXX], 8)"}
+{"ctx": ["Uninett2010-br14", 9], "time-explore": 640.8399043083191}
+{"ctx": ["Uninett2010-br14", 9], "finished": {"precision": 9.993755854142974e-05, "p_property": 0, "num_explored": 1453}}
+{"ctx": ["Uninett2010-br16"], "topology": {"name": "Uninett2010", "nof_nodes": 74, "nof_links": 101}}
+{"ctx": ["Uninett2010-br16", 0], "rrs": [11, 0]}
+{"ctx": ["Uninett2010-br16", 0], "brs": [55, 13, 18, 71, 39, 7, 19, 38, 37, 40, 60, 20, 53, 72, 24, 52]}
+{"ctx": ["Uninett2010-br16", 0], "property": "Waypoint([src: 48, dst: XXX], 34)"}
+{"ctx": ["Uninett2010-br16", 0], "time-explore": 1183.8564274311066}
+{"ctx": ["Uninett2010-br16", 0], "finished": {"precision": 9.995968213216696e-05, "p_property": 0, "num_explored": 2223}}
+{"ctx": ["Uninett2010-br16", 1], "rrs": [56, 1]}
+{"ctx": ["Uninett2010-br16", 1], "brs": [55, 4, 62, 15, 48, 28, 50, 6, 2, 57, 53, 70, 73, 40, 72, 59]}
+{"ctx": ["Uninett2010-br16", 1], "property": "Waypoint([src: 46, dst: XXX], 61)"}
+{"ctx": ["Uninett2010-br16", 1], "time-explore": 227.22236967086792}
+{"ctx": ["Uninett2010-br16", 1], "finished": {"precision": 9.993384920303774e-05, "p_property": 0, "num_explored": 783}}
+{"ctx": ["Uninett2010-br16", 2], "rrs": [34, 3]}
+{"ctx": ["Uninett2010-br16", 2], "brs": [24, 6, 28, 70, 30, 62, 57, 52, 72, 18, 8, 25, 11, 59, 19, 63]}
+{"ctx": ["Uninett2010-br16", 2], "property": "Waypoint([src: 48, dst: XXX], 32)"}
+{"ctx": ["Uninett2010-br16", 2], "time-explore": 1043.3673136234283}
+{"ctx": ["Uninett2010-br16", 2], "finished": {"precision": 9.990386283520442e-05, "p_property": 0, "num_explored": 1949}}
+{"ctx": ["Uninett2010-br16", 3], "rrs": [47, 10]}
+{"ctx": ["Uninett2010-br16", 3], "brs": [33, 60, 48, 28, 61, 18, 57, 19, 31, 62, 15, 72, 39, 71, 7, 24]}
+{"ctx": ["Uninett2010-br16", 3], "property": "Waypoint([src: 50, dst: XXX], 9)"}
+{"ctx": ["Uninett2010-br16", 3], "time-explore": 2349.4818766117096}
+{"ctx": ["Uninett2010-br16", 3], "finished": {"precision": 9.990812715598991e-05, "p_property": 0, "num_explored": 3416}}
+{"ctx": ["Uninett2010-br16", 4], "rrs": [17, 3]}
+{"ctx": ["Uninett2010-br16", 4], "brs": [12, 7, 20, 49, 59, 50, 61, 11, 27, 38, 55, 73, 39, 60, 33, 4]}
+{"ctx": ["Uninett2010-br16", 4], "property": "Waypoint([src: 14, dst: XXX], 41)"}
+{"ctx": ["Uninett2010-br16", 4], "time-explore": 250.48792934417725}
+{"ctx": ["Uninett2010-br16", 4], "finished": {"precision": 9.994017614112229e-05, "p_property": 0, "num_explored": 851}}
+{"ctx": ["Uninett2010-br16", 5], "rrs": [51, 46]}
+{"ctx": ["Uninett2010-br16", 5], "brs": [5, 31, 43, 72, 14, 28, 50, 18, 64, 61, 33, 2, 60, 10, 19, 24]}
+{"ctx": ["Uninett2010-br16", 5], "property": "Waypoint([src: 34, dst: XXX], 67)"}
+{"ctx": ["Uninett2010-br16", 5], "time-explore": 1262.1915531158447}
+{"ctx": ["Uninett2010-br16", 5], "finished": {"precision": 9.993684007303386e-05, "p_property": 0.001091297150578204, "num_explored": 2727}}
+{"ctx": ["Uninett2010-br16", 6], "rrs": [11, 73]}
+{"ctx": ["Uninett2010-br16", 6], "brs": [29, 13, 55, 1, 20, 49, 62, 71, 39, 10, 27, 53, 48, 32, 28, 56]}
+{"ctx": ["Uninett2010-br16", 6], "property": "Waypoint([src: 66, dst: XXX], 24)"}
+{"ctx": ["Uninett2010-br16", 6], "time-explore": 210.75887727737427}
+{"ctx": ["Uninett2010-br16", 6], "finished": {"precision": 9.94934299977102e-05, "p_property": 0, "num_explored": 753}}
+{"ctx": ["Uninett2010-br16", 7], "rrs": [35, 20]}
+{"ctx": ["Uninett2010-br16", 7], "brs": [33, 5, 71, 46, 24, 48, 54, 4, 39, 25, 19, 21, 13, 55, 52, 29]}
+{"ctx": ["Uninett2010-br16", 7], "property": "Waypoint([src: 59, dst: XXX], 11)"}
+{"ctx": ["Uninett2010-br16", 7], "time-explore": 3099.4937336444855}
+{"ctx": ["Uninett2010-br16", 7], "finished": {"precision": 9.992119252222321e-05, "p_property": 0.00217667352018315, "num_explored": 3868}}
+{"ctx": ["Uninett2010-br16", 8], "rrs": [31, 37]}
+{"ctx": ["Uninett2010-br16", 8], "brs": [48, 59, 55, 57, 51, 62, 20, 28, 32, 27, 23, 33, 53, 64, 18, 73]}
+{"ctx": ["Uninett2010-br16", 8], "property": "Waypoint([src: 43, dst: XXX], 50)"}
+{"ctx": ["Uninett2010-br16", 8], "time-explore": 709.1107003688812}
+{"ctx": ["Uninett2010-br16", 8], "finished": {"precision": 9.989909253715902e-05, "p_property": 0, "num_explored": 1527}}
+{"ctx": ["Uninett2010-br16", 9], "rrs": [32, 3]}
+{"ctx": ["Uninett2010-br16", 9], "brs": [61, 71, 62, 22, 13, 33, 70, 19, 27, 56, 29, 28, 39, 60, 1, 51]}
+{"ctx": ["Uninett2010-br16", 9], "property": "Waypoint([src: 25, dst: XXX], 64)"}
+{"ctx": ["Uninett2010-br16", 9], "time-explore": 1158.0699207782745}
+{"ctx": ["Uninett2010-br16", 9], "finished": {"precision": 9.999144230155016e-05, "p_property": 0, "num_explored": 2103}}
+{"ctx": ["Uninett2010-br18"], "topology": {"name": "Uninett2010", "nof_nodes": 74, "nof_links": 101}}
+{"ctx": ["Uninett2010-br18", 0], "rrs": [57, 14]}
+{"ctx": ["Uninett2010-br18", 0], "brs": [50, 58, 24, 60, 55, 20, 33, 49, 48, 7, 6, 53, 4, 31, 72, 52, 73, 40]}
+{"ctx": ["Uninett2010-br18", 0], "property": "Waypoint([src: 9, dst: XXX], 62)"}
+{"ctx": ["Uninett2010-br18", 0], "time-explore": 1192.492981672287}
+{"ctx": ["Uninett2010-br18", 0], "finished": {"precision": 9.99269961847738e-05, "p_property": 0, "num_explored": 2435}}
+{"ctx": ["Uninett2010-br18", 1], "rrs": [31, 51]}
+{"ctx": ["Uninett2010-br18", 1], "brs": [60, 64, 61, 4, 58, 55, 62, 65, 8, 72, 21, 5, 39, 32, 38, 47, 57, 63]}
+{"ctx": ["Uninett2010-br18", 1], "property": "Waypoint([src: 48, dst: XXX], 6)"}
+{"ctx": ["Uninett2010-br18", 1], "time-explore": 646.3777558803558}
+{"ctx": ["Uninett2010-br18", 1], "finished": {"precision": 9.996930329525532e-05, "p_property": 0, "num_explored": 1551}}
+{"ctx": ["Uninett2010-br18", 2], "rrs": [65, 51]}
+{"ctx": ["Uninett2010-br18", 2], "brs": [55, 62, 71, 53, 9, 61, 30, 31, 18, 57, 72, 23, 28, 58, 39, 27, 12, 49]}
+{"ctx": ["Uninett2010-br18", 2], "property": "Waypoint([src: 36, dst: XXX], 6)"}
+{"ctx": ["Uninett2010-br18", 2], "time-explore": 1940.5736532211304}
+{"ctx": ["Uninett2010-br18", 2], "finished": {"precision": 9.994619143549591e-05, "p_property": 0, "num_explored": 3073}}
+{"ctx": ["Uninett2010-br18", 3], "rrs": [25, 11]}
+{"ctx": ["Uninett2010-br18", 3], "brs": [56, 16, 55, 12, 13, 18, 54, 57, 65, 37, 7, 4, 28, 71, 27, 61, 58, 30]}
+{"ctx": ["Uninett2010-br18", 3], "property": "Waypoint([src: 72, dst: XXX], 26)"}
+{"ctx": ["Uninett2010-br18", 3], "time-explore": 1343.4391601085663}
+{"ctx": ["Uninett2010-br18", 3], "finished": {"precision": 9.998067833316689e-05, "p_property": 0, "num_explored": 2670}}
+{"ctx": ["Uninett2010-br18", 4], "rrs": [66, 46]}
+{"ctx": ["Uninett2010-br18", 4], "brs": [28, 54, 20, 36, 7, 12, 59, 48, 57, 43, 45, 14, 53, 61, 50, 55, 5, 49]}
+{"ctx": ["Uninett2010-br18", 4], "property": "Waypoint([src: 16, dst: XXX], 33)"}
+{"ctx": ["Uninett2010-br18", 4], "time-explore": 808.2131314277649}
+{"ctx": ["Uninett2010-br18", 4], "finished": {"precision": 9.997366742842131e-05, "p_property": 0, "num_explored": 2834}}
+{"ctx": ["Uninett2010-br18", 5], "rrs": [59, 47]}
+{"ctx": ["Uninett2010-br18", 5], "brs": [53, 49, 12, 6, 19, 56, 30, 28, 20, 62, 13, 58, 27, 64, 0, 73, 52, 7]}
+{"ctx": ["Uninett2010-br18", 5], "property": "Waypoint([src: 24, dst: XXX], 32)"}
+{"ctx": ["Uninett2010-br18", 5], "time-explore": 398.164635181427}
+{"ctx": ["Uninett2010-br18", 5], "finished": {"precision": 9.99799345590136e-05, "p_property": 0, "num_explored": 1692}}
+{"ctx": ["Uninett2010-br18", 6], "rrs": [23, 22]}
+{"ctx": ["Uninett2010-br18", 6], "brs": [14, 57, 33, 18, 5, 52, 25, 46, 4, 28, 19, 59, 62, 36, 27, 15, 31, 60]}
+{"ctx": ["Uninett2010-br18", 6], "property": "Waypoint([src: 21, dst: XXX], 45)"}
+{"ctx": ["Uninett2010-br18", 6], "time-explore": 499.495174407959}
+{"ctx": ["Uninett2010-br18", 6], "finished": {"precision": 9.99565374799615e-05, "p_property": 0, "num_explored": 2089}}
+{"ctx": ["Uninett2010-br18", 7], "rrs": [66, 2]}
+{"ctx": ["Uninett2010-br18", 7], "brs": [47, 39, 64, 38, 50, 30, 59, 44, 8, 7, 53, 60, 69, 18, 65, 28, 13, 55]}
+{"ctx": ["Uninett2010-br18", 7], "property": "Waypoint([src: 16, dst: XXX], 51)"}
+{"ctx": ["Uninett2010-br18", 7], "time-explore": 556.210373878479}
+{"ctx": ["Uninett2010-br18", 7], "finished": {"precision": 9.993927967300037e-05, "p_property": 0, "num_explored": 2057}}
+{"ctx": ["Uninett2010-br18", 8], "rrs": [63, 67]}
+{"ctx": ["Uninett2010-br18", 8], "brs": [57, 6, 73, 50, 38, 13, 30, 69, 2, 4, 7, 71, 15, 72, 60, 48, 51, 20]}
+{"ctx": ["Uninett2010-br18", 8], "property": "Waypoint([src: 29, dst: XXX], 46)"}
+{"ctx": ["Uninett2010-br18", 8], "time-explore": 116.54106855392456}
+{"ctx": ["Uninett2010-br18", 8], "finished": {"precision": 9.954284313740132e-05, "p_property": 0, "num_explored": 802}}
+{"ctx": ["Uninett2010-br18", 9], "rrs": [9, 16]}
+{"ctx": ["Uninett2010-br18", 9], "brs": [37, 51, 54, 48, 24, 23, 7, 70, 13, 31, 21, 25, 52, 10, 27, 15, 71, 63]}
+{"ctx": ["Uninett2010-br18", 9], "property": "Waypoint([src: 45, dst: XXX], 73)"}
+{"ctx": ["Uninett2010-br18", 9], "time-explore": 510.30073523521423}
+{"ctx": ["Uninett2010-br18", 9], "finished": {"precision": 9.999723938469715e-05, "p_property": 0, "num_explored": 2068}}
+{"ctx": ["Uninett2010-br20"], "topology": {"name": "Uninett2010", "nof_nodes": 74, "nof_links": 101}}
+{"ctx": ["Uninett2010-br20", 0], "rrs": [20, 26]}
+{"ctx": ["Uninett2010-br20", 0], "brs": [70, 4, 33, 48, 45, 60, 29, 19, 53, 23, 5, 49, 30, 52, 7, 72, 62, 67, 12, 59]}
+{"ctx": ["Uninett2010-br20", 0], "property": "Waypoint([src: 56, dst: XXX], 54)"}
+{"ctx": ["Uninett2010-br20", 0], "time-explore": 943.6848630905151}
+{"ctx": ["Uninett2010-br20", 0], "finished": {"precision": 9.990632694856231e-05, "p_property": 0, "num_explored": 2942}}
+{"ctx": ["Uninett2010-br20", 1], "rrs": [25, 66]}
+{"ctx": ["Uninett2010-br20", 1], "brs": [73, 19, 48, 20, 28, 13, 16, 54, 33, 31, 60, 4, 55, 29, 7, 18, 23, 39, 41, 72]}
+{"ctx": ["Uninett2010-br20", 1], "property": "Waypoint([src: 61, dst: XXX], 40)"}
+{"ctx": ["Uninett2010-br20", 1], "time-explore": 477.4141411781311}
+{"ctx": ["Uninett2010-br20", 1], "finished": {"precision": 9.991541034870549e-05, "p_property": 0.998697382389206, "num_explored": 1830}}
+{"ctx": ["Uninett2010-br20", 2], "rrs": [37, 35]}
+{"ctx": ["Uninett2010-br20", 2], "brs": [53, 39, 38, 27, 4, 24, 58, 52, 49, 71, 19, 2, 12, 25, 21, 70, 31, 33, 48, 60]}
+{"ctx": ["Uninett2010-br20", 2], "property": "Waypoint([src: 26, dst: XXX], 50)"}
+{"ctx": ["Uninett2010-br20", 2], "time-explore": 1472.8537738323212}
+{"ctx": ["Uninett2010-br20", 2], "finished": {"precision": 9.991745368831412e-05, "p_property": 0, "num_explored": 3925}}
+{"ctx": ["Uninett2010-br20", 3], "rrs": [67, 34]}
+{"ctx": ["Uninett2010-br20", 3], "brs": [60, 23, 51, 2, 20, 59, 48, 7, 53, 69, 33, 36, 11, 64, 18, 43, 72, 5, 73, 71]}
+{"ctx": ["Uninett2010-br20", 3], "property": "Waypoint([src: 22, dst: XXX], 16)"}
+{"ctx": ["Uninett2010-br20", 3], "time-explore": 1741.8721692562103}
+{"ctx": ["Uninett2010-br20", 3], "finished": {"precision": 9.993827173293549e-05, "p_property": 0, "num_explored": 4249}}
+{"ctx": ["Uninett2010-br20", 4], "rrs": [42, 16]}
+{"ctx": ["Uninett2010-br20", 4], "brs": [60, 31, 32, 49, 6, 55, 28, 13, 15, 54, 44, 7, 33, 62, 4, 27, 0, 19, 30, 45]}
+{"ctx": ["Uninett2010-br20", 4], "property": "Waypoint([src: 72, dst: XXX], 66)"}
+{"ctx": ["Uninett2010-br20", 4], "time-explore": 571.8338921070099}
+{"ctx": ["Uninett2010-br20", 4], "finished": {"precision": 9.997170988362838e-05, "p_property": 1.1287584576464604e-07, "num_explored": 2230}}
+{"ctx": ["Uninett2010-br20", 5], "rrs": [9, 3]}
+{"ctx": ["Uninett2010-br20", 5], "brs": [4, 73, 33, 57, 65, 59, 54, 55, 71, 50, 28, 30, 58, 43, 31, 52, 24, 12, 20, 53]}
+{"ctx": ["Uninett2010-br20", 5], "property": "Waypoint([src: 10, dst: XXX], 14)"}
+{"ctx": ["Uninett2010-br20", 5], "time-explore": 1026.3912765979767}
+{"ctx": ["Uninett2010-br20", 5], "finished": {"precision": 9.994356191078696e-05, "p_property": 0, "num_explored": 2979}}
+{"ctx": ["Uninett2010-br20", 6], "rrs": [66, 1]}
+{"ctx": ["Uninett2010-br20", 6], "brs": [43, 40, 62, 14, 15, 29, 28, 54, 52, 20, 50, 4, 55, 61, 57, 7, 6, 71, 19, 48]}
+{"ctx": ["Uninett2010-br20", 6], "property": "Waypoint([src: 34, dst: XXX], 36)"}
+{"ctx": ["Uninett2010-br20", 6], "time-explore": 1057.4532239437103}
+{"ctx": ["Uninett2010-br20", 6], "finished": {"precision": 9.995441417331988e-05, "p_property": 0, "num_explored": 3043}}
+{"ctx": ["Uninett2010-br20", 7], "rrs": [26, 44]}
+{"ctx": ["Uninett2010-br20", 7], "brs": [4, 70, 20, 54, 31, 29, 41, 30, 37, 71, 50, 14, 48, 55, 53, 52, 27, 1, 33, 28]}
+{"ctx": ["Uninett2010-br20", 7], "property": "Waypoint([src: 39, dst: XXX], 3)"}
+{"ctx": ["Uninett2010-br20", 7], "time-explore": 666.2664465904236}
+{"ctx": ["Uninett2010-br20", 7], "finished": {"precision": 9.99056584291002e-05, "p_property": 0, "num_explored": 2358}}
+{"ctx": ["Uninett2010-br20", 8], "rrs": [12, 17]}
+{"ctx": ["Uninett2010-br20", 8], "brs": [0, 43, 54, 27, 71, 50, 19, 57, 23, 6, 47, 72, 24, 40, 21, 30, 62, 39, 60, 41]}
+{"ctx": ["Uninett2010-br20", 8], "property": "Waypoint([src: 73, dst: XXX], 53)"}
+{"ctx": ["Uninett2010-br20", 8], "time-explore": 1182.3660025596619}
+{"ctx": ["Uninett2010-br20", 8], "finished": {"precision": 9.999941487937042e-05, "p_property": 0, "num_explored": 3410}}
+{"ctx": ["Uninett2010-br20", 9], "rrs": [37, 14]}
+{"ctx": ["Uninett2010-br20", 9], "brs": [27, 39, 19, 8, 49, 33, 7, 2, 53, 57, 72, 71, 43, 59, 50, 21, 48, 18, 28, 61]}
+{"ctx": ["Uninett2010-br20", 9], "property": "Waypoint([src: 22, dst: XXX], 63)"}
+{"ctx": ["Uninett2010-br20", 9], "time-explore": 1267.6832525730133}
+{"ctx": ["Uninett2010-br20", 9], "finished": {"precision": 9.998055450743956e-05, "p_property": 0, "num_explored": 3653}}

@@ -1,0 +1,124 @@
+{
+  "version": "0.1",
+  "topology": {
+    "file": "paper_example.txt",
+    "static_routes": [],
+    "bgp": {
+      "as": 100,
+      "auto": "full_mesh",
+      "external_routers": [
+        {
+          "name": "X",
+          "peers_with": "2",
+          "peer_id": 90,
+          "as": 200
+        }
+      ]
+    }
+  },
+  "announcements": {
+    "XYZ": {
+      "X": {
+        "lp": 0,
+        "aspl": 0,
+        "origin": 0,
+        "med": 0
+      }
+    }
+  },
+  "failures": {
+    "type": "LinkFailureModel",
+    "p_link_failure": 0.2
+  },
+  "properties": [
+    {
+      "type": "Egress",
+      "flow": {
+        "src": "3",
+        "dst": "XYZ"
+      },
+      "egress": "0"
+    },
+    {
+      "type": "Loop",
+      "flow": {
+        "src": "3",
+        "dst": "XYZ"
+      }
+    },
+    {
+      "type": "Reachable",
+      "flow": {
+        "src": "3",
+        "dst": "XYZ"
+      }
+    },
+    {
+      "type": "PathLength",
+      "flow": {
+        "src": "3",
+        "dst": "XYZ"
+      },
+      "length": 3
+    },
+    {
+      "type": "Waypoint",
+      "flow": {
+        "src": "3",
+        "dst": "XYZ"
+      },
+      "waypoint": "4"
+    },
+    {
+      "type": "Congestion",
+      "flows": [{
+          "src": "3",
+          "dst": "XYZ",
+          "volume": 10
+        },
+        {
+          "src": "2",
+          "dst": "XYZ",
+          "volume": 25
+        }],
+      "link": {
+        "u": "1",
+        "v": "2"
+      },
+      "threshold": 30
+    },
+    {
+      "type": "Balanced",
+      "flows": [{
+          "src": "3",
+          "dst": "XYZ",
+          "volume": 10
+        },
+        {
+          "src": "2",
+          "dst": "XYZ",
+          "volume": 25
+        }],
+      "links": [{
+          "u": "1",
+          "v": "2"
+        },
+        {
+          "u": "1",
+          "v": "4"
+        }],
+      "delta": 3
+    },
+    {
+      "type": "Isolation",
+      "flows": [{
+          "src": "3",
+          "dst": "XYZ"
+        },
+        {
+          "src": "2",
+          "dst": "XYZ"
+        }]
+    }
+  ]
+}

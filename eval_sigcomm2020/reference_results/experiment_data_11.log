@@ -1,0 +1,41 @@
+{"ctx": ["AS-3549-Xcongest-1"], "topology": {"name": "AS-3549", "nof_nodes": 107, "nof_links": 235}}
+{"ctx": ["AS-3549-Xcongest-1", 0], "rrs": [39, 63]}
+{"ctx": ["AS-3549-Xcongest-1", 0], "property": "Congestion([src: 67.17.95.2, dst: dst0]*356 , (7, 64), 500)"}
+{"ctx": ["AS-3549-Xcongest-1", 0], "time-explore": 2081.870049715042}
+{"ctx": ["AS-3549-Xcongest-1", 0], "finished": {"precision": 9.993565114296828e-05, "p_property": 0.999900064348857, "num_explored": 4081}}
+{"ctx": ["AS-3549-Xcongest-1", 1], "rrs": [3, 99]}
+{"ctx": ["AS-3549-Xcongest-1", 1], "property": "Congestion([src: 67.17.81.240, dst: dst0]*94 , (22, 81), 500)"}
+{"ctx": ["AS-3549-Xcongest-1", 1], "time-explore": 1890.8441445827484}
+{"ctx": ["AS-3549-Xcongest-1", 1], "finished": {"precision": 9.999027425766634e-05, "p_property": 0.9999000097257423, "num_explored": 3825}}
+{"ctx": ["AS-3549-Xcongest-1", 2], "rrs": [65, 75]}
+{"ctx": ["AS-3549-Xcongest-1", 2], "property": "Congestion([src: 67.17.81.228, dst: dst0]*564 , (54, 20), 500)"}
+{"ctx": ["AS-3549-Xcongest-1", 2], "time-explore": 871.5680732727051}
+{"ctx": ["AS-3549-Xcongest-1", 2], "finished": {"precision": 9.999645896108246e-05, "p_property": 0.9999000035410389, "num_explored": 2428}}
+{"ctx": ["AS-3549-Xcongest-1", 3], "rrs": [106, 74]}
+{"ctx": ["AS-3549-Xcongest-1", 3], "property": "Congestion([src: 67.17.82.65, dst: dst0]*802 , (40, 106), 500)"}
+{"ctx": ["AS-3549-Xcongest-1", 3], "time-explore": 640.0676848888397}
+{"ctx": ["AS-3549-Xcongest-1", 3], "finished": {"precision": 9.999574872798797e-05, "p_property": 0.9998990498028695, "num_explored": 2075}}
+{"ctx": ["AS-3549-Xcongest-1", 4], "rrs": [35, 73]}
+{"ctx": ["AS-3549-Xcongest-1", 4], "property": "Congestion([src: 67.17.80.128, dst: dst0]*738 , (10, 63), 500)"}
+{"ctx": ["AS-3549-Xcongest-1", 4], "time-explore": 2275.2108323574066}
+{"ctx": ["AS-3549-Xcongest-1", 4], "finished": {"precision": 9.998420969425931e-05, "p_property": 0.9999000157903057, "num_explored": 4398}}
+{"ctx": ["AS-3549-Xcongest-1", 5], "rrs": [106, 53]}
+{"ctx": ["AS-3549-Xcongest-1", 5], "property": "Congestion([src: 67.17.80.182, dst: dst0]*126 , (61, 2), 500)"}
+{"ctx": ["AS-3549-Xcongest-1", 5], "time-explore": 1678.5021448135376}
+{"ctx": ["AS-3549-Xcongest-1", 5], "finished": {"precision": 9.991797115671544e-05, "p_property": 0.9999000820288433, "num_explored": 4160}}
+{"ctx": ["AS-3549-Xcongest-1", 6], "rrs": [61, 23]}
+{"ctx": ["AS-3549-Xcongest-1", 6], "property": "Congestion([src: 67.17.80.179, dst: dst0]*739 , (69, 63), 500)"}
+{"ctx": ["AS-3549-Xcongest-1", 6], "time-explore": 1146.0464589595795}
+{"ctx": ["AS-3549-Xcongest-1", 6], "finished": {"precision": 9.997884116097472e-05, "p_property": 0.999900021158839, "num_explored": 2951}}
+{"ctx": ["AS-3549-Xcongest-1", 7], "rrs": [84, 63]}
+{"ctx": ["AS-3549-Xcongest-1", 7], "property": "Congestion([src: 67.17.81.80, dst: dst0]*555 , (41, 18), 500)"}
+{"ctx": ["AS-3549-Xcongest-1", 7], "time-explore": 1717.8068294525146}
+{"ctx": ["AS-3549-Xcongest-1", 7], "finished": {"precision": 9.99672019588171e-05, "p_property": 0.9999000327980412, "num_explored": 3797}}
+{"ctx": ["AS-3549-Xcongest-1", 8], "rrs": [30, 73]}
+{"ctx": ["AS-3549-Xcongest-1", 8], "property": "Congestion([src: 67.17.81.241, dst: dst0]*855 , (73, 70), 500)"}
+{"ctx": ["AS-3549-Xcongest-1", 8], "time-explore": 2222.5627088546753}
+{"ctx": ["AS-3549-Xcongest-1", 8], "finished": {"precision": 9.99121789571067e-05, "p_property": 0.9999000878210429, "num_explored": 4421}}
+{"ctx": ["AS-3549-Xcongest-1", 9], "rrs": [59, 92]}
+{"ctx": ["AS-3549-Xcongest-1", 9], "property": "Congestion([src: 67.17.80.123, dst: dst0]*410 , (36, 44), 500)"}
+{"ctx": ["AS-3549-Xcongest-1", 9], "time-explore": 2105.729880094528}
+{"ctx": ["AS-3549-Xcongest-1", 9], "finished": {"precision": 9.993777458172645e-05, "p_property": 0.9999000622254183, "num_explored": 4116}}

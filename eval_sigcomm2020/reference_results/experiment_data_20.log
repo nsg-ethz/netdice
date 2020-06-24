@@ -1,0 +1,44 @@
+{"ctx": ["AS-3549-Xcongest-8"], "topology": {"name": "AS-3549", "nof_nodes": 107, "nof_links": 235}}
+{"ctx": ["AS-3549-Xcongest-8", 0], "rrs": [36, 29]}
+{"ctx": ["AS-3549-Xcongest-8", 0], "property": "Congestion([src: 67.17.81.183, dst: dst0]*4 [src: 67.17.81.177, dst: dst1]*493 [src: 67.17.80.182, dst: dst2]*276 [src: 67.17.108.62, dst: dst3]*350 [src: 64.208.110.222, dst: dst4]*285 [src: 67.17.80.209, dst: dst5]*435 [src: 67.16.128.13, dst: dst6]*76 [src: 67.17.82.53, dst: dst7]*385 , (8, 106), 500)"}
+{"ctx": ["AS-3549-Xcongest-8", 0], "timeout_after_seconds": 7200.0}
+{"ctx": ["AS-3549-Xcongest-8", 0], "time-explore": 7200.213077545166}
+{"ctx": ["AS-3549-Xcongest-8", 0], "finished": {"precision": 0.000272482772736171, "p_property": 0.9997275172272638, "num_explored": 5186}}
+{"ctx": ["AS-3549-Xcongest-8", 1], "rrs": [4, 63]}
+{"ctx": ["AS-3549-Xcongest-8", 1], "property": "Congestion([src: 67.17.81.11, dst: dst0]*376 [src: 67.17.81.255, dst: dst1]*641 [src: 67.17.80.147, dst: dst2]*96 [src: 67.17.80.209, dst: dst3]*226 [src: 67.17.107.10, dst: dst4]*730 [src: 67.17.81.252, dst: dst5]*569 [src: 64.213.78.237, dst: dst6]*806 [src: 67.17.81.236, dst: dst7]*755 , (82, 38), 500)"}
+{"ctx": ["AS-3549-Xcongest-8", 1], "time-explore": 7048.708210468292}
+{"ctx": ["AS-3549-Xcongest-8", 1], "finished": {"precision": 9.990872804854785e-05, "p_property": 0.9999000912719515, "num_explored": 7363}}
+{"ctx": ["AS-3549-Xcongest-8", 2], "rrs": [16, 80]}
+{"ctx": ["AS-3549-Xcongest-8", 2], "property": "Congestion([src: 67.17.81.225, dst: dst0]*516 [src: 67.17.81.228, dst: dst1]*49 [src: 67.17.80.148, dst: dst2]*362 [src: 67.17.81.80, dst: dst3]*858 [src: 67.17.81.183, dst: dst4]*159 [src: 67.17.82.54, dst: dst5]*300 [src: 67.16.130.38, dst: dst6]*533 [src: 67.17.110.17, dst: dst7]*285 , (36, 17), 500)"}
+{"ctx": ["AS-3549-Xcongest-8", 2], "time-explore": 7141.358950614929}
+{"ctx": ["AS-3549-Xcongest-8", 2], "finished": {"precision": 9.990956874483817e-05, "p_property": 0.9999000904312552, "num_explored": 7102}}
+{"ctx": ["AS-3549-Xcongest-8", 3], "rrs": [65, 57]}
+{"ctx": ["AS-3549-Xcongest-8", 3], "property": "Congestion([src: 67.17.81.183, dst: dst0]*152 [src: 67.17.81.151, dst: dst1]*883 [src: 67.17.81.239, dst: dst2]*85 [src: 67.17.107.102, dst: dst3]*5 [src: 67.17.67.18, dst: dst4]*156 [src: 67.17.108.242, dst: dst5]*18 [src: 67.17.82.59, dst: dst6]*666 [src: 67.17.80.98, dst: dst7]*919 , (97, 33), 500)"}
+{"ctx": ["AS-3549-Xcongest-8", 3], "time-explore": 7064.154466629028}
+{"ctx": ["AS-3549-Xcongest-8", 3], "finished": {"precision": 9.992735995323354e-05, "p_property": 0.9999000726400468, "num_explored": 10001}}
+{"ctx": ["AS-3549-Xcongest-8", 4], "rrs": [13, 64]}
+{"ctx": ["AS-3549-Xcongest-8", 4], "property": "Congestion([src: 67.17.67.18, dst: dst0]*877 [src: 67.17.95.2, dst: dst1]*888 [src: 67.17.106.254, dst: dst2]*745 [src: 67.17.82.40, dst: dst3]*244 [src: 67.17.80.148, dst: dst4]*652 [src: 67.17.108.6, dst: dst5]*800 [src: 67.17.81.199, dst: dst6]*437 [src: 67.17.81.80, dst: dst7]*623 , (98, 96), 500)"}
+{"ctx": ["AS-3549-Xcongest-8", 4], "time-explore": 4534.036214590073}
+{"ctx": ["AS-3549-Xcongest-8", 4], "finished": {"precision": 9.992675442871403e-05, "p_property": 0.9999000711080762, "num_explored": 7144}}
+{"ctx": ["AS-3549-Xcongest-8", 5], "rrs": [82, 67]}
+{"ctx": ["AS-3549-Xcongest-8", 5], "property": "Congestion([src: 67.17.81.245, dst: dst0]*338 [src: 67.17.81.87, dst: dst1]*780 [src: 67.17.108.62, dst: dst2]*965 [src: 67.17.80.76, dst: dst3]*331 [src: 67.17.80.152, dst: dst4]*128 [src: 67.17.80.151, dst: dst5]*780 [src: 67.17.81.183, dst: dst6]*10 [src: 67.17.107.194, dst: dst7]*660 , (78, 106), 500)"}
+{"ctx": ["AS-3549-Xcongest-8", 5], "timeout_after_seconds": 7200.0}
+{"ctx": ["AS-3549-Xcongest-8", 5], "time-explore": 7200.595656871796}
+{"ctx": ["AS-3549-Xcongest-8", 5], "finished": {"precision": 0.0003120878491208456, "p_property": 0.9996879121508792, "num_explored": 5844}}
+{"ctx": ["AS-3549-Xcongest-8", 6], "rrs": [59, 81]}
+{"ctx": ["AS-3549-Xcongest-8", 6], "property": "Congestion([src: 67.17.80.209, dst: dst0]*181 [src: 67.16.130.78, dst: dst1]*844 [src: 67.17.108.6, dst: dst2]*531 [src: 67.17.66.242, dst: dst3]*533 [src: 67.17.81.180, dst: dst4]*840 [src: 67.17.82.68, dst: dst5]*287 [src: 67.17.81.177, dst: dst6]*565 [src: 67.17.94.126, dst: dst7]*20 , (29, 41), 500)"}
+{"ctx": ["AS-3549-Xcongest-8", 6], "timeout_after_seconds": 7200.0}
+{"ctx": ["AS-3549-Xcongest-8", 6], "time-explore": 7200.935124158859}
+{"ctx": ["AS-3549-Xcongest-8", 6], "finished": {"precision": 0.0004956884729622189, "p_property": 0.9995043115270378, "num_explored": 5124}}
+{"ctx": ["AS-3549-Xcongest-8", 7], "rrs": [75, 72]}
+{"ctx": ["AS-3549-Xcongest-8", 7], "property": "Congestion([src: 67.17.82.65, dst: dst0]*172 [src: 67.17.80.128, dst: dst1]*893 [src: 64.215.28.17, dst: dst2]*348 [src: 67.16.131.22, dst: dst3]*197 [src: 67.17.80.190, dst: dst4]*202 [src: 67.17.81.197, dst: dst5]*532 [src: 67.17.80.151, dst: dst6]*457 [src: 67.17.81.19, dst: dst7]*428 , (105, 21), 500)"}
+{"ctx": ["AS-3549-Xcongest-8", 7], "time-explore": 4748.4843900203705}
+{"ctx": ["AS-3549-Xcongest-8", 7], "finished": {"precision": 9.993242615580208e-05, "p_property": 0.9999000675738442, "num_explored": 8395}}
+{"ctx": ["AS-3549-Xcongest-8", 8], "rrs": [2, 69]}
+{"ctx": ["AS-3549-Xcongest-8", 8], "property": "Congestion([src: 67.17.80.122, dst: dst0]*435 [src: 67.17.82.68, dst: dst1]*436 [src: 67.17.82.65, dst: dst2]*825 [src: 67.17.81.254, dst: dst3]*734 [src: 67.17.81.21, dst: dst4]*201 [src: 67.17.80.193, dst: dst5]*920 [src: 67.17.81.251, dst: dst6]*428 [src: 67.17.81.253, dst: dst7]*507 , (98, 96), 500)"}
+{"ctx": ["AS-3549-Xcongest-8", 8], "time-explore": 4566.397459745407}
+{"ctx": ["AS-3549-Xcongest-8", 8], "finished": {"precision": 9.996377357734951e-05, "p_property": 0.9999000362264227, "num_explored": 8388}}
+{"ctx": ["AS-3549-Xcongest-8", 9], "rrs": [5, 80]}
+{"ctx": ["AS-3549-Xcongest-8", 9], "property": "Congestion([src: 67.17.81.244, dst: dst0]*60 [src: 67.17.81.11, dst: dst1]*795 [src: 67.17.81.183, dst: dst2]*563 [src: 67.17.80.243, dst: dst3]*413 [src: 67.17.107.194, dst: dst4]*89 [src: 67.17.81.252, dst: dst5]*900 [src: 67.17.81.148, dst: dst6]*662 [src: 67.17.82.65, dst: dst7]*776 , (62, 35), 500)"}
+{"ctx": ["AS-3549-Xcongest-8", 9], "time-explore": 5579.599757909775}
+{"ctx": ["AS-3549-Xcongest-8", 9], "finished": {"precision": 9.999181724607015e-05, "p_property": 0.9999000081827539, "num_explored": 9232}}

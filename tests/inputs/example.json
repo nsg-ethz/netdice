@@ -1,0 +1,101 @@
+{
+  "version": "0.1",
+  "topology": {
+    "nodes": [
+      "node_A",
+      "node_B",
+      "node_C"
+    ],
+    "links": [
+      {
+        "u": "node_A",
+        "v": "node_B",
+        "w_uv": 2,
+        "w_vu": 2
+      },
+      {
+        "u": "node_B",
+        "v": "node_C",
+        "w_uv": 1,
+        "w_vu": 3
+      }
+    ],
+    "static_routes": [
+      {
+        "u": "node_B",
+        "v": "node_C",
+        "dst": "192.168.0.0/16"
+      }
+    ],
+    "bgp": {
+      "as": 1000,
+      "internal_routers": [
+        {
+          "node": "node_B",
+          "peer_id": 11
+        },
+        {
+          "node": "node_C",
+          "peer_id": 12
+        },
+        {
+          "node": "node_A",
+          "peer_id": 10
+        }
+      ],
+      "external_routers": [
+        {
+          "name": "ext_A",
+          "peers_with": "node_A",
+          "peer_id": 90,
+          "as": 9001
+        },
+        {
+          "name": "ext_C",
+          "peers_with": "node_C",
+          "peer_id": 91,
+          "as": 9002
+        }
+      ],
+      "internal_sessions": [
+        {
+          "route_reflector": "node_B",
+          "client": "node_A"
+        },
+        {
+          "peer_1": "node_B",
+          "peer_2": "node_C"
+        }
+      ]
+    }
+  },
+  "announcements": {
+    "10.0.0.0/8": {
+      "ext_A": {
+        "lp": 5,
+        "aspl": 2,
+        "origin": 0,
+        "med": 0
+      },
+      "ext_C": {
+        "lp": 10,
+        "aspl": 3,
+        "origin": 0,
+        "med": 50
+      }
+    }
+  },
+  "failures": {
+    "type": "NodeFailureModel",
+    "p_link_failure": 0.001,
+    "p_node_failure": 0.002
+  },
+  "properties": [{
+    "type": "Waypoint",
+    "flow": {
+      "src": "node_A",
+      "dst": "10.0.0.0/8"
+    },
+    "waypoint": "node_B"
+  }]
+}

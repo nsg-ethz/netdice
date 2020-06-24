@@ -1,0 +1,41 @@
+{"ctx": ["AS-3549-Xcongest-3"], "topology": {"name": "AS-3549", "nof_nodes": 107, "nof_links": 235}}
+{"ctx": ["AS-3549-Xcongest-3", 0], "rrs": [2, 3]}
+{"ctx": ["AS-3549-Xcongest-3", 0], "property": "Congestion([src: 67.17.82.65, dst: dst0]*977 [src: 67.17.80.24, dst: dst1]*500 [src: 67.17.81.199, dst: dst2]*706 , (85, 88), 500)"}
+{"ctx": ["AS-3549-Xcongest-3", 0], "time-explore": 1916.9817297458649}
+{"ctx": ["AS-3549-Xcongest-3", 0], "finished": {"precision": 9.998744169337216e-05, "p_property": 0.9999000125583066, "num_explored": 4203}}
+{"ctx": ["AS-3549-Xcongest-3", 1], "rrs": [54, 46]}
+{"ctx": ["AS-3549-Xcongest-3", 1], "property": "Congestion([src: 67.17.81.197, dst: dst0]*306 [src: 67.17.81.227, dst: dst1]*236 [src: 67.17.80.153, dst: dst2]*949 , (35, 13), 500)"}
+{"ctx": ["AS-3549-Xcongest-3", 1], "time-explore": 4754.9775512218475}
+{"ctx": ["AS-3549-Xcongest-3", 1], "finished": {"precision": 9.996476080242905e-05, "p_property": 0.9999000352391976, "num_explored": 6601}}
+{"ctx": ["AS-3549-Xcongest-3", 2], "rrs": [65, 61]}
+{"ctx": ["AS-3549-Xcongest-3", 2], "property": "Congestion([src: 67.17.81.177, dst: dst0]*149 [src: 67.17.81.236, dst: dst1]*639 [src: 67.17.81.11, dst: dst2]*200 , (28, 18), 500)"}
+{"ctx": ["AS-3549-Xcongest-3", 2], "time-explore": 2453.056296825409}
+{"ctx": ["AS-3549-Xcongest-3", 2], "finished": {"precision": 9.99984090389594e-05, "p_property": 0.999900001590961, "num_explored": 4550}}
+{"ctx": ["AS-3549-Xcongest-3", 3], "rrs": [47, 72]}
+{"ctx": ["AS-3549-Xcongest-3", 3], "property": "Congestion([src: 67.17.81.19, dst: dst0]*178 [src: 67.17.81.252, dst: dst1]*533 [src: 67.17.108.242, dst: dst2]*372 , (8, 30), 500)"}
+{"ctx": ["AS-3549-Xcongest-3", 3], "time-explore": 4523.826266050339}
+{"ctx": ["AS-3549-Xcongest-3", 3], "finished": {"precision": 9.992820875515125e-05, "p_property": 0.9999000717912448, "num_explored": 6960}}
+{"ctx": ["AS-3549-Xcongest-3", 4], "rrs": [73, 61]}
+{"ctx": ["AS-3549-Xcongest-3", 4], "property": "Congestion([src: 67.17.80.108, dst: dst0]*528 [src: 67.17.80.209, dst: dst1]*614 [src: 67.17.81.177, dst: dst2]*124 , (93, 27), 500)"}
+{"ctx": ["AS-3549-Xcongest-3", 4], "time-explore": 2644.8572821617126}
+{"ctx": ["AS-3549-Xcongest-3", 4], "finished": {"precision": 9.998982123538007e-05, "p_property": 0.9999000101787646, "num_explored": 4707}}
+{"ctx": ["AS-3549-Xcongest-3", 5], "rrs": [92, 78]}
+{"ctx": ["AS-3549-Xcongest-3", 5], "property": "Congestion([src: 67.17.81.19, dst: dst0]*536 [src: 67.17.80.136, dst: dst1]*952 [src: 67.17.110.254, dst: dst2]*113 , (62, 3), 500)"}
+{"ctx": ["AS-3549-Xcongest-3", 5], "time-explore": 2462.0214099884033}
+{"ctx": ["AS-3549-Xcongest-3", 5], "finished": {"precision": 9.990870198817171e-05, "p_property": 0.9999000912980118, "num_explored": 4827}}
+{"ctx": ["AS-3549-Xcongest-3", 6], "rrs": [82, 36]}
+{"ctx": ["AS-3549-Xcongest-3", 6], "property": "Congestion([src: 67.17.80.24, dst: dst0]*896 [src: 67.17.81.253, dst: dst1]*602 [src: 67.17.106.254, dst: dst2]*560 , (38, 2), 500)"}
+{"ctx": ["AS-3549-Xcongest-3", 6], "time-explore": 2008.2341389656067}
+{"ctx": ["AS-3549-Xcongest-3", 6], "finished": {"precision": 9.996100191544954e-05, "p_property": 0.9999000389980846, "num_explored": 4871}}
+{"ctx": ["AS-3549-Xcongest-3", 7], "rrs": [38, 19]}
+{"ctx": ["AS-3549-Xcongest-3", 7], "property": "Congestion([src: 67.17.80.24, dst: dst0]*653 [src: 67.17.81.241, dst: dst1]*519 [src: 67.17.81.245, dst: dst2]*966 , (18, 4), 500)"}
+{"ctx": ["AS-3549-Xcongest-3", 7], "time-explore": 1599.5816087722778}
+{"ctx": ["AS-3549-Xcongest-3", 7], "finished": {"precision": 9.993903982785664e-05, "p_property": 0.9999000609601721, "num_explored": 4173}}
+{"ctx": ["AS-3549-Xcongest-3", 8], "rrs": [5, 71]}
+{"ctx": ["AS-3549-Xcongest-3", 8], "property": "Congestion([src: 67.17.81.245, dst: dst0]*600 [src: 67.17.80.152, dst: dst1]*968 [src: 67.17.81.19, dst: dst2]*369 , (57, 41), 500)"}
+{"ctx": ["AS-3549-Xcongest-3", 8], "time-explore": 1560.0285437107086}
+{"ctx": ["AS-3549-Xcongest-3", 8], "finished": {"precision": 9.99456079079364e-05, "p_property": 0.9999000543920921, "num_explored": 4589}}
+{"ctx": ["AS-3549-Xcongest-3", 9], "rrs": [33, 69]}
+{"ctx": ["AS-3549-Xcongest-3", 9], "property": "Congestion([src: 67.17.80.156, dst: dst0]*637 [src: 67.17.81.241, dst: dst1]*821 [src: 67.17.108.6, dst: dst2]*412 , (62, 75), 500)"}
+{"ctx": ["AS-3549-Xcongest-3", 9], "time-explore": 1415.9711039066315}
+{"ctx": ["AS-3549-Xcongest-3", 9], "finished": {"precision": 9.998982598569122e-05, "p_property": 0.9999000101740143, "num_explored": 3792}}

@@ -1,0 +1,15 @@
+name: netdice
+channels:
+  - defaults
+dependencies:
+  - matplotlib=3.2.2
+  - matplotlib-base=3.2.2
+  - networkx=2.4
+  - numpy=1.18.5
+  - numpy-base=1.18.5
+  - pandas=1.0.5
+  - pip
+  - python=3.7.7
+  - scipy=1.4.1
+  - pip:
+    - probpy==1.1

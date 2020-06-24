@@ -1,0 +1,41 @@
+{
+  "version": "0.1",
+  "topology": {
+    "file": "asymmetric.txt",
+    "static_routes": [],
+    "bgp": {
+      "as": 1000,
+      "auto": "full_mesh",
+      "external_routers": [
+        {
+          "name": "ext_4",
+          "peers_with": "4",
+          "peer_id": 990004,
+          "as": 4
+        }
+      ]
+    }
+  },
+  "announcements": {
+    "XYZ": {
+      "ext_4": {
+        "lp": 0,
+        "aspl": 0,
+        "origin": 0,
+        "med": 0
+      }
+    }
+  },
+  "failures": {
+    "type": "LinkFailureModel",
+    "p_link_failure": 0.01
+  },
+  "properties": [{
+    "type": "Waypoint",
+    "flow": {
+      "src": "4",
+      "dst": "XYZ"
+    },
+    "waypoint": "3"
+  }]
+}

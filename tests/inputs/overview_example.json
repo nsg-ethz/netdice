@@ -1,0 +1,41 @@
+{
+  "version": "0.1",
+  "topology": {
+    "file": "paper_example.txt",
+    "static_routes": [],
+    "bgp": {
+      "as": 100,
+      "auto": "full_mesh",
+      "external_routers": [
+        {
+          "name": "X",
+          "peers_with": "2",
+          "peer_id": 90,
+          "as": 200
+        }
+      ]
+    }
+  },
+  "announcements": {
+    "XYZ": {
+      "X": {
+        "lp": 0,
+        "aspl": 0,
+        "origin": 0,
+        "med": 0
+      }
+    }
+  },
+  "failures": {
+    "type": "LinkFailureModel",
+    "p_link_failure": 0.2
+  },
+  "properties": [{
+    "type": "Waypoint",
+    "flow": {
+      "src": "3",
+      "dst": "XYZ"
+    },
+    "waypoint": "4"
+  }]
+}

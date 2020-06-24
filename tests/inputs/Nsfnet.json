@@ -1,0 +1,66 @@
+{
+  "version": "0.1",
+  "topology": {
+    "file": "Nsfnet.txt",
+    "static_routes": [],
+    "bgp": {
+      "as": 1000,
+      "auto": "full_mesh",
+      "external_routers": [
+        {
+          "name": "ext_1",
+          "peers_with": "1",
+          "peer_id": 990001,
+          "as": 1
+        },
+        {
+          "name": "ext_5",
+          "peers_with": "5",
+          "peer_id": 990005,
+          "as": 5
+        },
+        {
+          "name": "ext_9",
+          "peers_with": "9",
+          "peer_id": 990009,
+          "as": 9
+        }
+      ]
+    }
+  },
+  "announcements": {
+    "XYZ": {
+      "ext_1": {
+        "lp": 0,
+        "aspl": 0,
+        "origin": 0,
+        "med": 0
+      },
+      "ext_5": {
+        "lp": 2,
+        "aspl": 0,
+        "origin": 0,
+        "med": 0
+      },
+      "ext_9": {
+        "lp": 2,
+        "aspl": 0,
+        "origin": 0,
+        "med": 0
+      }
+    }
+  },
+  "failures": {
+    "type": "NodeFailureModel",
+    "p_link_failure": 0.01,
+    "p_node_failure": 0.002
+  },
+  "properties": [{
+    "type": "Waypoint",
+    "flow": {
+      "src": "0",
+      "dst": "XYZ"
+    },
+    "waypoint": "5"
+  }]
+}

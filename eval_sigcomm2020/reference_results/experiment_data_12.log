@@ -1,0 +1,41 @@
+{"ctx": ["AS-3549-Xcongest-2"], "topology": {"name": "AS-3549", "nof_nodes": 107, "nof_links": 235}}
+{"ctx": ["AS-3549-Xcongest-2", 0], "rrs": [61, 38]}
+{"ctx": ["AS-3549-Xcongest-2", 0], "property": "Congestion([src: 67.17.80.147, dst: dst0]*960 [src: 67.17.81.70, dst: dst1]*484 , (7, 20), 500)"}
+{"ctx": ["AS-3549-Xcongest-2", 0], "time-explore": 1587.444616317749}
+{"ctx": ["AS-3549-Xcongest-2", 0], "finished": {"precision": 9.991622984195644e-05, "p_property": 0.999900083770158, "num_explored": 3568}}
+{"ctx": ["AS-3549-Xcongest-2", 1], "rrs": [84, 20]}
+{"ctx": ["AS-3549-Xcongest-2", 1], "property": "Congestion([src: 67.17.107.102, dst: dst0]*675 [src: 67.17.110.254, dst: dst1]*161 , (98, 1), 500)"}
+{"ctx": ["AS-3549-Xcongest-2", 1], "time-explore": 1609.0458660125732}
+{"ctx": ["AS-3549-Xcongest-2", 1], "finished": {"precision": 9.997549196061324e-05, "p_property": 0.9999000245080394, "num_explored": 3297}}
+{"ctx": ["AS-3549-Xcongest-2", 2], "rrs": [44, 74]}
+{"ctx": ["AS-3549-Xcongest-2", 2], "property": "Congestion([src: 67.17.81.237, dst: dst0]*53 [src: 67.17.65.202, dst: dst1]*551 , (65, 2), 500)"}
+{"ctx": ["AS-3549-Xcongest-2", 2], "time-explore": 3143.9146752357483}
+{"ctx": ["AS-3549-Xcongest-2", 2], "finished": {"precision": 9.996811377710467e-05, "p_property": 0.9999000318862229, "num_explored": 5254}}
+{"ctx": ["AS-3549-Xcongest-2", 3], "rrs": [44, 35]}
+{"ctx": ["AS-3549-Xcongest-2", 3], "property": "Congestion([src: 67.17.108.6, dst: dst0]*421 [src: 67.17.80.213, dst: dst1]*477 , (97, 70), 500)"}
+{"ctx": ["AS-3549-Xcongest-2", 3], "time-explore": 2601.9620649814606}
+{"ctx": ["AS-3549-Xcongest-2", 3], "finished": {"precision": 9.999281014860806e-05, "p_property": 0.9999000071898514, "num_explored": 4817}}
+{"ctx": ["AS-3549-Xcongest-2", 4], "rrs": [48, 106]}
+{"ctx": ["AS-3549-Xcongest-2", 4], "property": "Congestion([src: 67.17.81.68, dst: dst0]*130 [src: 67.17.82.40, dst: dst1]*817 , (38, 15), 500)"}
+{"ctx": ["AS-3549-Xcongest-2", 4], "time-explore": 4533.588601589203}
+{"ctx": ["AS-3549-Xcongest-2", 4], "finished": {"precision": 9.999360514467709e-05, "p_property": 0.9998946063866536, "num_explored": 6203}}
+{"ctx": ["AS-3549-Xcongest-2", 5], "rrs": [53, 69]}
+{"ctx": ["AS-3549-Xcongest-2", 5], "property": "Congestion([src: 67.17.80.217, dst: dst0]*713 [src: 67.17.80.141, dst: dst1]*423 , (24, 48), 500)"}
+{"ctx": ["AS-3549-Xcongest-2", 5], "time-explore": 2449.2693140506744}
+{"ctx": ["AS-3549-Xcongest-2", 5], "finished": {"precision": 9.992444756856683e-05, "p_property": 0.9999000755524314, "num_explored": 4844}}
+{"ctx": ["AS-3549-Xcongest-2", 6], "rrs": [101, 51]}
+{"ctx": ["AS-3549-Xcongest-2", 6], "property": "Congestion([src: 67.17.81.87, dst: dst0]*532 [src: 67.17.108.62, dst: dst1]*934 , (37, 44), 500)"}
+{"ctx": ["AS-3549-Xcongest-2", 6], "time-explore": 2668.1090133190155}
+{"ctx": ["AS-3549-Xcongest-2", 6], "finished": {"precision": 9.998014017564838e-05, "p_property": 0.9999000198598244, "num_explored": 4979}}
+{"ctx": ["AS-3549-Xcongest-2", 7], "rrs": [59, 17]}
+{"ctx": ["AS-3549-Xcongest-2", 7], "property": "Congestion([src: 67.17.82.41, dst: dst0]*579 [src: 67.17.80.7, dst: dst1]*663 , (31, 66), 500)"}
+{"ctx": ["AS-3549-Xcongest-2", 7], "time-explore": 2194.897951602936}
+{"ctx": ["AS-3549-Xcongest-2", 7], "finished": {"precision": 9.993552378695378e-05, "p_property": 0.999900064476213, "num_explored": 4937}}
+{"ctx": ["AS-3549-Xcongest-2", 8], "rrs": [13, 2]}
+{"ctx": ["AS-3549-Xcongest-2", 8], "property": "Congestion([src: 67.17.107.10, dst: dst0]*605 [src: 64.208.110.253, dst: dst1]*659 , (33, 70), 500)"}
+{"ctx": ["AS-3549-Xcongest-2", 8], "time-explore": 1097.7726140022278}
+{"ctx": ["AS-3549-Xcongest-2", 8], "finished": {"precision": 9.99331705727747e-05, "p_property": 0.9999000668294272, "num_explored": 3398}}
+{"ctx": ["AS-3549-Xcongest-2", 9], "rrs": [61, 63]}
+{"ctx": ["AS-3549-Xcongest-2", 9], "property": "Congestion([src: 67.17.81.19, dst: dst0]*213 [src: 67.16.128.13, dst: dst1]*696 , (85, 81), 500)"}
+{"ctx": ["AS-3549-Xcongest-2", 9], "time-explore": 1285.9455351829529}
+{"ctx": ["AS-3549-Xcongest-2", 9], "finished": {"precision": 9.995690461306335e-05, "p_property": 0.9999000430953869, "num_explored": 3738}}

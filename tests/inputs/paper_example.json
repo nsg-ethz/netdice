@@ -1,0 +1,138 @@
+{
+  "version": "0.1",
+  "topology": {
+    "file": "paper_example.txt",
+    "static_routes": [],
+    "bgp": {
+      "as": 100,
+      "internal_routers": [
+        {
+          "node": "0",
+          "peer_id": 10
+        },
+        {
+          "node": "1",
+          "peer_id": 11
+        },
+        {
+          "node": "2",
+          "peer_id": 12
+        },
+        {
+          "node": "3",
+          "peer_id": 13
+        },
+        {
+          "node": "4",
+          "peer_id": 14
+        },
+        {
+          "node": "5",
+          "peer_id": 15
+        }
+      ],
+      "external_routers": [
+        {
+          "name": "X",
+          "peers_with": "0",
+          "peer_id": 90,
+          "as": 200
+        },
+        {
+          "name": "Y",
+          "peers_with": "4",
+          "peer_id": 91,
+          "as": 300
+        },
+        {
+          "name": "Z",
+          "peers_with": "5",
+          "peer_id": 92,
+          "as": 400
+        },
+        {
+          "name": "W",
+          "peers_with": "5",
+          "peer_id": 93,
+          "as": 400
+        }
+      ],
+      "internal_sessions": [
+        {
+          "route_reflector": "1",
+          "client": "0"
+        },
+        {
+          "route_reflector": "1",
+          "client": "3"
+        },
+        {
+          "route_reflector": "1",
+          "client": "4"
+        },
+        {
+          "route_reflector": "2",
+          "client": "5"
+        },
+        {
+          "peer_1": "1",
+          "peer_2": "2"
+        }
+      ]
+    }
+  },
+  "announcements": {
+    "42.42.0.0/16": {
+      "X": {
+        "lp": 3,
+        "aspl": 5,
+        "origin": 0,
+        "med": 0
+      },
+      "Y": {
+        "lp": 2,
+        "aspl": 5,
+        "origin": 0,
+        "med": 0
+      },
+      "Z": {
+        "lp": 1,
+        "aspl": 5,
+        "origin": 0,
+        "med": 0
+      },
+      "W": {
+        "lp": 3,
+        "aspl": 5,
+        "origin": 0,
+        "med": 0
+      }
+    },
+    "99.99.99.0/24": {
+      "Y": {
+        "lp": 2,
+        "aspl": 5,
+        "origin": 0,
+        "med": 0
+      },
+      "Z": {
+        "lp": 2,
+        "aspl": 5,
+        "origin": 0,
+        "med": 0
+      }
+    }
+  },
+  "failures": {
+    "type": "LinkFailureModel",
+    "p_link_failure": 0.1
+  },
+  "properties": [{
+    "type": "Waypoint",
+    "flow": {
+      "src": "3",
+      "dst": "42.42.0.0/16"
+    },
+    "waypoint": "4"
+  }]
+}

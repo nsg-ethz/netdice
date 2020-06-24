@@ -1,0 +1,1515 @@
+{"ctx": ["Deltacom-default"], "topology": {"name": "Deltacom", "nof_nodes": 113, "nof_links": 183}}
+{"ctx": ["Deltacom-default", 0], "rrs": [98, 66]}
+{"ctx": ["Deltacom-default", 0], "brs": [110, 69, 108, 107, 75, 7, 11, 29, 61, 64]}
+{"ctx": ["Deltacom-default", 0], "property": "Waypoint([src: 112, dst: XXX], 10)"}
+{"ctx": ["Deltacom-default", 0], "fraction_hot": 0.3224043715846995}
+{"ctx": ["Deltacom-default", 0], "fraction_hot": 0.31693989071038253}
+{"ctx": ["Deltacom-default", 0], "fraction_hot": 0.3114754098360656}
+{"ctx": ["Deltacom-default", 0], "fraction_hot": 0.2568306010928962}
+{"ctx": ["Deltacom-default", 0], "fraction_hot": 0.3114754098360656}
+{"ctx": ["Deltacom-default", 0], "fraction_hot": 0.28415300546448086}
+{"ctx": ["Deltacom-default", 0], "fraction_hot": 0.31693989071038253}
+{"ctx": ["Deltacom-default", 0], "fraction_hot": 0.32786885245901637}
+{"ctx": ["Deltacom-default", 0], "fraction_hot": 0.3442622950819672}
+{"ctx": ["Deltacom-default", 0], "fraction_hot": 0.30601092896174864}
+{"ctx": ["Deltacom-default", 0], "time-explore": 2809.3792181015015}
+{"ctx": ["Deltacom-default", 0], "finished": {"precision": 9.998818990109008e-05, "p_property": 0, "num_explored": 3617}}
+{"ctx": ["Deltacom-default", 1], "rrs": [53, 20]}
+{"ctx": ["Deltacom-default", 1], "brs": [61, 23, 63, 30, 39, 71, 105, 46, 91, 75]}
+{"ctx": ["Deltacom-default", 1], "property": "Waypoint([src: 107, dst: XXX], 87)"}
+{"ctx": ["Deltacom-default", 1], "fraction_hot": 0.2896174863387978}
+{"ctx": ["Deltacom-default", 1], "fraction_hot": 0.2677595628415301}
+{"ctx": ["Deltacom-default", 1], "fraction_hot": 0.3005464480874317}
+{"ctx": ["Deltacom-default", 1], "fraction_hot": 0.28415300546448086}
+{"ctx": ["Deltacom-default", 1], "fraction_hot": 0.29508196721311475}
+{"ctx": ["Deltacom-default", 1], "fraction_hot": 0.3005464480874317}
+{"ctx": ["Deltacom-default", 1], "fraction_hot": 0.2677595628415301}
+{"ctx": ["Deltacom-default", 1], "fraction_hot": 0.29508196721311475}
+{"ctx": ["Deltacom-default", 1], "fraction_hot": 0.273224043715847}
+{"ctx": ["Deltacom-default", 1], "fraction_hot": 0.25136612021857924}
+{"ctx": ["Deltacom-default", 1], "time-explore": 1835.8958611488342}
+{"ctx": ["Deltacom-default", 1], "finished": {"precision": 9.994422455883437e-05, "p_property": 0, "num_explored": 2579}}
+{"ctx": ["Deltacom-default", 2], "rrs": [66, 89]}
+{"ctx": ["Deltacom-default", 2], "brs": [3, 100, 108, 1, 33, 35, 13, 6, 36, 34]}
+{"ctx": ["Deltacom-default", 2], "property": "Waypoint([src: 48, dst: XXX], 17)"}
+{"ctx": ["Deltacom-default", 2], "fraction_hot": 0.34972677595628415}
+{"ctx": ["Deltacom-default", 2], "fraction_hot": 0.34972677595628415}
+{"ctx": ["Deltacom-default", 2], "fraction_hot": 0.3551912568306011}
+{"ctx": ["Deltacom-default", 2], "fraction_hot": 0.3114754098360656}
+{"ctx": ["Deltacom-default", 2], "fraction_hot": 0.3114754098360656}
+{"ctx": ["Deltacom-default", 2], "fraction_hot": 0.33879781420765026}
+{"ctx": ["Deltacom-default", 2], "fraction_hot": 0.3551912568306011}
+{"ctx": ["Deltacom-default", 2], "fraction_hot": 0.3114754098360656}
+{"ctx": ["Deltacom-default", 2], "fraction_hot": 0.3114754098360656}
+{"ctx": ["Deltacom-default", 2], "fraction_hot": 0.33879781420765026}
+{"ctx": ["Deltacom-default", 2], "timeout_after_seconds": 3600.0}
+{"ctx": ["Deltacom-default", 2], "time-explore": 3600.3147990703583}
+{"ctx": ["Deltacom-default", 2], "finished": {"precision": 0.00014029707671336933, "p_property": 0, "num_explored": 3797}}
+{"ctx": ["Deltacom-default", 3], "rrs": [92, 75]}
+{"ctx": ["Deltacom-default", 3], "brs": [58, 30, 21, 77, 110, 31, 53, 0, 33, 22]}
+{"ctx": ["Deltacom-default", 3], "property": "Waypoint([src: 42, dst: XXX], 8)"}
+{"ctx": ["Deltacom-default", 3], "fraction_hot": 0.37158469945355194}
+{"ctx": ["Deltacom-default", 3], "fraction_hot": 0.36065573770491804}
+{"ctx": ["Deltacom-default", 3], "fraction_hot": 0.39344262295081966}
+{"ctx": ["Deltacom-default", 3], "fraction_hot": 0.3551912568306011}
+{"ctx": ["Deltacom-default", 3], "fraction_hot": 0.31693989071038253}
+{"ctx": ["Deltacom-default", 3], "fraction_hot": 0.3442622950819672}
+{"ctx": ["Deltacom-default", 3], "fraction_hot": 0.366120218579235}
+{"ctx": ["Deltacom-default", 3], "fraction_hot": 0.3770491803278688}
+{"ctx": ["Deltacom-default", 3], "fraction_hot": 0.366120218579235}
+{"ctx": ["Deltacom-default", 3], "fraction_hot": 0.34972677595628415}
+{"ctx": ["Deltacom-default", 3], "timeout_after_seconds": 3600.0}
+{"ctx": ["Deltacom-default", 3], "time-explore": 3601.105348110199}
+{"ctx": ["Deltacom-default", 3], "finished": {"precision": 0.00021789356115131672, "p_property": 0, "num_explored": 3209}}
+{"ctx": ["Deltacom-default", 4], "rrs": [75, 50]}
+{"ctx": ["Deltacom-default", 4], "brs": [70, 31, 71, 33, 34, 94, 82, 58, 1, 20]}
+{"ctx": ["Deltacom-default", 4], "property": "Waypoint([src: 42, dst: XXX], 2)"}
+{"ctx": ["Deltacom-default", 4], "fraction_hot": 0.39344262295081966}
+{"ctx": ["Deltacom-default", 4], "fraction_hot": 0.36065573770491804}
+{"ctx": ["Deltacom-default", 4], "fraction_hot": 0.3825136612021858}
+{"ctx": ["Deltacom-default", 4], "fraction_hot": 0.3825136612021858}
+{"ctx": ["Deltacom-default", 4], "fraction_hot": 0.3879781420765027}
+{"ctx": ["Deltacom-default", 4], "fraction_hot": 0.36065573770491804}
+{"ctx": ["Deltacom-default", 4], "fraction_hot": 0.3879781420765027}
+{"ctx": ["Deltacom-default", 4], "fraction_hot": 0.3770491803278688}
+{"ctx": ["Deltacom-default", 4], "fraction_hot": 0.366120218579235}
+{"ctx": ["Deltacom-default", 4], "fraction_hot": 0.3879781420765027}
+{"ctx": ["Deltacom-default", 4], "timeout_after_seconds": 3600.0}
+{"ctx": ["Deltacom-default", 4], "time-explore": 3601.5310604572296}
+{"ctx": ["Deltacom-default", 4], "finished": {"precision": 0.000268601148195491, "p_property": 0, "num_explored": 2973}}
+{"ctx": ["Deltacom-default", 5], "rrs": [93, 100]}
+{"ctx": ["Deltacom-default", 5], "brs": [106, 105, 71, 34, 39, 31, 86, 103, 110, 85]}
+{"ctx": ["Deltacom-default", 5], "property": "Waypoint([src: 69, dst: XXX], 90)"}
+{"ctx": ["Deltacom-default", 5], "fraction_hot": 0.33879781420765026}
+{"ctx": ["Deltacom-default", 5], "fraction_hot": 0.32786885245901637}
+{"ctx": ["Deltacom-default", 5], "fraction_hot": 0.31693989071038253}
+{"ctx": ["Deltacom-default", 5], "fraction_hot": 0.30601092896174864}
+{"ctx": ["Deltacom-default", 5], "fraction_hot": 0.3224043715846995}
+{"ctx": ["Deltacom-default", 5], "fraction_hot": 0.3333333333333333}
+{"ctx": ["Deltacom-default", 5], "fraction_hot": 0.31693989071038253}
+{"ctx": ["Deltacom-default", 5], "fraction_hot": 0.30601092896174864}
+{"ctx": ["Deltacom-default", 5], "fraction_hot": 0.31693989071038253}
+{"ctx": ["Deltacom-default", 5], "fraction_hot": 0.31693989071038253}
+{"ctx": ["Deltacom-default", 5], "timeout_after_seconds": 3600.0}
+{"ctx": ["Deltacom-default", 5], "time-explore": 3600.907319545746}
+{"ctx": ["Deltacom-default", 5], "finished": {"precision": 0.00021843374744112703, "p_property": 0, "num_explored": 2926}}
+{"ctx": ["Deltacom-default", 6], "rrs": [4, 14]}
+{"ctx": ["Deltacom-default", 6], "brs": [19, 58, 23, 39, 107, 85, 83, 5, 110, 82]}
+{"ctx": ["Deltacom-default", 6], "property": "Waypoint([src: 87, dst: XXX], 95)"}
+{"ctx": ["Deltacom-default", 6], "fraction_hot": 0.25136612021857924}
+{"ctx": ["Deltacom-default", 6], "fraction_hot": 0.26229508196721313}
+{"ctx": ["Deltacom-default", 6], "fraction_hot": 0.2568306010928962}
+{"ctx": ["Deltacom-default", 6], "fraction_hot": 0.24043715846994534}
+{"ctx": ["Deltacom-default", 6], "fraction_hot": 0.24043715846994534}
+{"ctx": ["Deltacom-default", 6], "fraction_hot": 0.2677595628415301}
+{"ctx": ["Deltacom-default", 6], "fraction_hot": 0.273224043715847}
+{"ctx": ["Deltacom-default", 6], "fraction_hot": 0.21311475409836064}
+{"ctx": ["Deltacom-default", 6], "fraction_hot": 0.21311475409836064}
+{"ctx": ["Deltacom-default", 6], "fraction_hot": 0.2459016393442623}
+{"ctx": ["Deltacom-default", 6], "time-explore": 1301.424118757248}
+{"ctx": ["Deltacom-default", 6], "finished": {"precision": 9.996363685582649e-05, "p_property": 0, "num_explored": 2052}}
+{"ctx": ["Deltacom-default", 7], "rrs": [84, 75]}
+{"ctx": ["Deltacom-default", 7], "brs": [47, 70, 109, 74, 96, 81, 108, 35, 71, 86]}
+{"ctx": ["Deltacom-default", 7], "property": "Waypoint([src: 48, dst: XXX], 31)"}
+{"ctx": ["Deltacom-default", 7], "fraction_hot": 0.2677595628415301}
+{"ctx": ["Deltacom-default", 7], "fraction_hot": 0.2185792349726776}
+{"ctx": ["Deltacom-default", 7], "fraction_hot": 0.20765027322404372}
+{"ctx": ["Deltacom-default", 7], "fraction_hot": 0.2896174863387978}
+{"ctx": ["Deltacom-default", 7], "fraction_hot": 0.2568306010928962}
+{"ctx": ["Deltacom-default", 7], "fraction_hot": 0.2185792349726776}
+{"ctx": ["Deltacom-default", 7], "fraction_hot": 0.3005464480874317}
+{"ctx": ["Deltacom-default", 7], "fraction_hot": 0.30601092896174864}
+{"ctx": ["Deltacom-default", 7], "fraction_hot": 0.25136612021857924}
+{"ctx": ["Deltacom-default", 7], "fraction_hot": 0.2896174863387978}
+{"ctx": ["Deltacom-default", 7], "time-explore": 1722.5252611637115}
+{"ctx": ["Deltacom-default", 7], "finished": {"precision": 9.998524074950063e-05, "p_property": 0, "num_explored": 2546}}
+{"ctx": ["Deltacom-default", 8], "rrs": [49, 15]}
+{"ctx": ["Deltacom-default", 8], "brs": [105, 100, 108, 1, 110, 38, 103, 59, 112, 106]}
+{"ctx": ["Deltacom-default", 8], "property": "Waypoint([src: 83, dst: XXX], 44)"}
+{"ctx": ["Deltacom-default", 8], "fraction_hot": 0.3442622950819672}
+{"ctx": ["Deltacom-default", 8], "fraction_hot": 0.30601092896174864}
+{"ctx": ["Deltacom-default", 8], "fraction_hot": 0.32786885245901637}
+{"ctx": ["Deltacom-default", 8], "fraction_hot": 0.3442622950819672}
+{"ctx": ["Deltacom-default", 8], "fraction_hot": 0.32786885245901637}
+{"ctx": ["Deltacom-default", 8], "fraction_hot": 0.3551912568306011}
+{"ctx": ["Deltacom-default", 8], "fraction_hot": 0.3442622950819672}
+{"ctx": ["Deltacom-default", 8], "fraction_hot": 0.34972677595628415}
+{"ctx": ["Deltacom-default", 8], "fraction_hot": 0.3442622950819672}
+{"ctx": ["Deltacom-default", 8], "fraction_hot": 0.3005464480874317}
+{"ctx": ["Deltacom-default", 8], "timeout_after_seconds": 3600.0}
+{"ctx": ["Deltacom-default", 8], "time-explore": 3601.2883656024933}
+{"ctx": ["Deltacom-default", 8], "finished": {"precision": 0.00016135049760768175, "p_property": 0, "num_explored": 3440}}
+{"ctx": ["Deltacom-default", 9], "rrs": [1, 17]}
+{"ctx": ["Deltacom-default", 9], "brs": [93, 8, 85, 105, 22, 107, 11, 108, 76, 110]}
+{"ctx": ["Deltacom-default", 9], "property": "Waypoint([src: 103, dst: XXX], 64)"}
+{"ctx": ["Deltacom-default", 9], "fraction_hot": 0.32786885245901637}
+{"ctx": ["Deltacom-default", 9], "fraction_hot": 0.2677595628415301}
+{"ctx": ["Deltacom-default", 9], "fraction_hot": 0.3005464480874317}
+{"ctx": ["Deltacom-default", 9], "fraction_hot": 0.31693989071038253}
+{"ctx": ["Deltacom-default", 9], "fraction_hot": 0.3005464480874317}
+{"ctx": ["Deltacom-default", 9], "fraction_hot": 0.31693989071038253}
+{"ctx": ["Deltacom-default", 9], "fraction_hot": 0.28415300546448086}
+{"ctx": ["Deltacom-default", 9], "fraction_hot": 0.33879781420765026}
+{"ctx": ["Deltacom-default", 9], "fraction_hot": 0.3224043715846995}
+{"ctx": ["Deltacom-default", 9], "fraction_hot": 0.32786885245901637}
+{"ctx": ["Deltacom-default", 9], "time-explore": 3115.6093411445618}
+{"ctx": ["Deltacom-default", 9], "finished": {"precision": 9.99900290763466e-05, "p_property": 0, "num_explored": 3727}}
+{"ctx": ["Missouri-default"], "topology": {"name": "Missouri", "nof_nodes": 67, "nof_links": 83}}
+{"ctx": ["Missouri-default", 0], "rrs": [33, 32]}
+{"ctx": ["Missouri-default", 0], "brs": [20, 11, 43, 23, 7, 28, 4, 21, 54, 52]}
+{"ctx": ["Missouri-default", 0], "property": "Waypoint([src: 2, dst: XXX], 57)"}
+{"ctx": ["Missouri-default", 0], "fraction_hot": 0.5421686746987951}
+{"ctx": ["Missouri-default", 0], "fraction_hot": 0.46987951807228917}
+{"ctx": ["Missouri-default", 0], "fraction_hot": 0.5783132530120482}
+{"ctx": ["Missouri-default", 0], "fraction_hot": 0.5180722891566265}
+{"ctx": ["Missouri-default", 0], "fraction_hot": 0.5060240963855421}
+{"ctx": ["Missouri-default", 0], "fraction_hot": 0.5180722891566265}
+{"ctx": ["Missouri-default", 0], "fraction_hot": 0.46987951807228917}
+{"ctx": ["Missouri-default", 0], "fraction_hot": 0.5180722891566265}
+{"ctx": ["Missouri-default", 0], "fraction_hot": 0.5060240963855421}
+{"ctx": ["Missouri-default", 0], "fraction_hot": 0.5060240963855421}
+{"ctx": ["Missouri-default", 0], "time-explore": 438.3590612411499}
+{"ctx": ["Missouri-default", 0], "finished": {"precision": 9.999967568019577e-05, "p_property": 1.3457388344434825e-05, "num_explored": 1143}}
+{"ctx": ["Missouri-default", 1], "rrs": [50, 65]}
+{"ctx": ["Missouri-default", 1], "brs": [0, 4, 21, 19, 40, 8, 33, 43, 57, 9]}
+{"ctx": ["Missouri-default", 1], "property": "Waypoint([src: 30, dst: XXX], 52)"}
+{"ctx": ["Missouri-default", 1], "fraction_hot": 0.5301204819277109}
+{"ctx": ["Missouri-default", 1], "fraction_hot": 0.5662650602409639}
+{"ctx": ["Missouri-default", 1], "fraction_hot": 0.5180722891566265}
+{"ctx": ["Missouri-default", 1], "fraction_hot": 0.4939759036144578}
+{"ctx": ["Missouri-default", 1], "fraction_hot": 0.4819277108433735}
+{"ctx": ["Missouri-default", 1], "fraction_hot": 0.4939759036144578}
+{"ctx": ["Missouri-default", 1], "fraction_hot": 0.5542168674698795}
+{"ctx": ["Missouri-default", 1], "fraction_hot": 0.5060240963855421}
+{"ctx": ["Missouri-default", 1], "fraction_hot": 0.4939759036144578}
+{"ctx": ["Missouri-default", 1], "fraction_hot": 0.5060240963855421}
+{"ctx": ["Missouri-default", 1], "time-explore": 593.2359714508057}
+{"ctx": ["Missouri-default", 1], "finished": {"precision": 9.996816176638387e-05, "p_property": 0, "num_explored": 1381}}
+{"ctx": ["Missouri-default", 2], "rrs": [7, 19]}
+{"ctx": ["Missouri-default", 2], "brs": [2, 52, 13, 8, 18, 34, 0, 9, 42, 3]}
+{"ctx": ["Missouri-default", 2], "property": "Waypoint([src: 37, dst: XXX], 6)"}
+{"ctx": ["Missouri-default", 2], "fraction_hot": 0.5542168674698795}
+{"ctx": ["Missouri-default", 2], "fraction_hot": 0.5301204819277109}
+{"ctx": ["Missouri-default", 2], "fraction_hot": 0.5662650602409639}
+{"ctx": ["Missouri-default", 2], "fraction_hot": 0.6024096385542169}
+{"ctx": ["Missouri-default", 2], "fraction_hot": 0.5060240963855421}
+{"ctx": ["Missouri-default", 2], "fraction_hot": 0.5060240963855421}
+{"ctx": ["Missouri-default", 2], "fraction_hot": 0.5421686746987951}
+{"ctx": ["Missouri-default", 2], "fraction_hot": 0.5180722891566265}
+{"ctx": ["Missouri-default", 2], "fraction_hot": 0.5180722891566265}
+{"ctx": ["Missouri-default", 2], "fraction_hot": 0.5421686746987951}
+{"ctx": ["Missouri-default", 2], "time-explore": 489.51010608673096}
+{"ctx": ["Missouri-default", 2], "finished": {"precision": 9.996190978944769e-05, "p_property": 0, "num_explored": 1339}}
+{"ctx": ["Missouri-default", 3], "rrs": [53, 49]}
+{"ctx": ["Missouri-default", 3], "brs": [7, 43, 34, 36, 10, 59, 41, 5, 2, 22]}
+{"ctx": ["Missouri-default", 3], "property": "Waypoint([src: 62, dst: XXX], 0)"}
+{"ctx": ["Missouri-default", 3], "fraction_hot": 0.3855421686746988}
+{"ctx": ["Missouri-default", 3], "fraction_hot": 0.4578313253012048}
+{"ctx": ["Missouri-default", 3], "fraction_hot": 0.42168674698795183}
+{"ctx": ["Missouri-default", 3], "fraction_hot": 0.3132530120481928}
+{"ctx": ["Missouri-default", 3], "fraction_hot": 0.3855421686746988}
+{"ctx": ["Missouri-default", 3], "fraction_hot": 0.3373493975903614}
+{"ctx": ["Missouri-default", 3], "fraction_hot": 0.3855421686746988}
+{"ctx": ["Missouri-default", 3], "fraction_hot": 0.3373493975903614}
+{"ctx": ["Missouri-default", 3], "fraction_hot": 0.39759036144578314}
+{"ctx": ["Missouri-default", 3], "fraction_hot": 0.3855421686746988}
+{"ctx": ["Missouri-default", 3], "time-explore": 70.93101501464844}
+{"ctx": ["Missouri-default", 3], "finished": {"precision": 9.982819751452881e-05, "p_property": 0, "num_explored": 609}}
+{"ctx": ["Missouri-default", 4], "rrs": [25, 53]}
+{"ctx": ["Missouri-default", 4], "brs": [8, 13, 35, 43, 18, 58, 6, 11, 19, 41]}
+{"ctx": ["Missouri-default", 4], "property": "Waypoint([src: 55, dst: XXX], 32)"}
+{"ctx": ["Missouri-default", 4], "fraction_hot": 0.4457831325301205}
+{"ctx": ["Missouri-default", 4], "fraction_hot": 0.4578313253012048}
+{"ctx": ["Missouri-default", 4], "fraction_hot": 0.39759036144578314}
+{"ctx": ["Missouri-default", 4], "fraction_hot": 0.4578313253012048}
+{"ctx": ["Missouri-default", 4], "fraction_hot": 0.4457831325301205}
+{"ctx": ["Missouri-default", 4], "fraction_hot": 0.46987951807228917}
+{"ctx": ["Missouri-default", 4], "fraction_hot": 0.4457831325301205}
+{"ctx": ["Missouri-default", 4], "fraction_hot": 0.4578313253012048}
+{"ctx": ["Missouri-default", 4], "fraction_hot": 0.42168674698795183}
+{"ctx": ["Missouri-default", 4], "fraction_hot": 0.4457831325301205}
+{"ctx": ["Missouri-default", 4], "time-explore": 133.4021327495575}
+{"ctx": ["Missouri-default", 4], "finished": {"precision": 9.96062120078855e-05, "p_property": 0, "num_explored": 870}}
+{"ctx": ["Missouri-default", 5], "rrs": [50, 20]}
+{"ctx": ["Missouri-default", 5], "brs": [8, 53, 43, 28, 47, 22, 30, 48, 11, 36]}
+{"ctx": ["Missouri-default", 5], "property": "Waypoint([src: 2, dst: XXX], 15)"}
+{"ctx": ["Missouri-default", 5], "fraction_hot": 0.5301204819277109}
+{"ctx": ["Missouri-default", 5], "fraction_hot": 0.5421686746987951}
+{"ctx": ["Missouri-default", 5], "fraction_hot": 0.5662650602409639}
+{"ctx": ["Missouri-default", 5], "fraction_hot": 0.4819277108433735}
+{"ctx": ["Missouri-default", 5], "fraction_hot": 0.5060240963855421}
+{"ctx": ["Missouri-default", 5], "fraction_hot": 0.5060240963855421}
+{"ctx": ["Missouri-default", 5], "fraction_hot": 0.5301204819277109}
+{"ctx": ["Missouri-default", 5], "fraction_hot": 0.5180722891566265}
+{"ctx": ["Missouri-default", 5], "fraction_hot": 0.4819277108433735}
+{"ctx": ["Missouri-default", 5], "fraction_hot": 0.5783132530120482}
+{"ctx": ["Missouri-default", 5], "time-explore": 276.2082540988922}
+{"ctx": ["Missouri-default", 5], "finished": {"precision": 9.992869058184079e-05, "p_property": 0, "num_explored": 1291}}
+{"ctx": ["Missouri-default", 6], "rrs": [2, 42]}
+{"ctx": ["Missouri-default", 6], "brs": [29, 26, 57, 11, 36, 28, 47, 12, 35, 58]}
+{"ctx": ["Missouri-default", 6], "property": "Waypoint([src: 9, dst: XXX], 60)"}
+{"ctx": ["Missouri-default", 6], "fraction_hot": 0.4819277108433735}
+{"ctx": ["Missouri-default", 6], "fraction_hot": 0.4939759036144578}
+{"ctx": ["Missouri-default", 6], "fraction_hot": 0.46987951807228917}
+{"ctx": ["Missouri-default", 6], "fraction_hot": 0.46987951807228917}
+{"ctx": ["Missouri-default", 6], "fraction_hot": 0.4457831325301205}
+{"ctx": ["Missouri-default", 6], "fraction_hot": 0.40963855421686746}
+{"ctx": ["Missouri-default", 6], "fraction_hot": 0.46987951807228917}
+{"ctx": ["Missouri-default", 6], "fraction_hot": 0.5060240963855421}
+{"ctx": ["Missouri-default", 6], "fraction_hot": 0.4819277108433735}
+{"ctx": ["Missouri-default", 6], "fraction_hot": 0.5180722891566265}
+{"ctx": ["Missouri-default", 6], "time-explore": 283.76596570014954}
+{"ctx": ["Missouri-default", 6], "finished": {"precision": 9.996605766493524e-05, "p_property": 0, "num_explored": 1396}}
+{"ctx": ["Missouri-default", 7], "rrs": [54, 1]}
+{"ctx": ["Missouri-default", 7], "brs": [18, 30, 0, 58, 9, 37, 6, 35, 11, 2]}
+{"ctx": ["Missouri-default", 7], "property": "Waypoint([src: 44, dst: XXX], 47)"}
+{"ctx": ["Missouri-default", 7], "fraction_hot": 0.5421686746987951}
+{"ctx": ["Missouri-default", 7], "fraction_hot": 0.5421686746987951}
+{"ctx": ["Missouri-default", 7], "fraction_hot": 0.5662650602409639}
+{"ctx": ["Missouri-default", 7], "fraction_hot": 0.5903614457831325}
+{"ctx": ["Missouri-default", 7], "fraction_hot": 0.5421686746987951}
+{"ctx": ["Missouri-default", 7], "fraction_hot": 0.4939759036144578}
+{"ctx": ["Missouri-default", 7], "fraction_hot": 0.4939759036144578}
+{"ctx": ["Missouri-default", 7], "fraction_hot": 0.4939759036144578}
+{"ctx": ["Missouri-default", 7], "fraction_hot": 0.5783132530120482}
+{"ctx": ["Missouri-default", 7], "fraction_hot": 0.5301204819277109}
+{"ctx": ["Missouri-default", 7], "time-explore": 310.81987142562866}
+{"ctx": ["Missouri-default", 7], "finished": {"precision": 9.990023797978868e-05, "p_property": 1.061143821590869e-07, "num_explored": 1377}}
+{"ctx": ["Missouri-default", 8], "rrs": [49, 63]}
+{"ctx": ["Missouri-default", 8], "brs": [65, 13, 12, 58, 41, 26, 31, 18, 34, 53]}
+{"ctx": ["Missouri-default", 8], "property": "Waypoint([src: 61, dst: XXX], 8)"}
+{"ctx": ["Missouri-default", 8], "fraction_hot": 0.3614457831325301}
+{"ctx": ["Missouri-default", 8], "fraction_hot": 0.3493975903614458}
+{"ctx": ["Missouri-default", 8], "fraction_hot": 0.3132530120481928}
+{"ctx": ["Missouri-default", 8], "fraction_hot": 0.37349397590361444}
+{"ctx": ["Missouri-default", 8], "fraction_hot": 0.3373493975903614}
+{"ctx": ["Missouri-default", 8], "fraction_hot": 0.30120481927710846}
+{"ctx": ["Missouri-default", 8], "fraction_hot": 0.3132530120481928}
+{"ctx": ["Missouri-default", 8], "fraction_hot": 0.3373493975903614}
+{"ctx": ["Missouri-default", 8], "fraction_hot": 0.25301204819277107}
+{"ctx": ["Missouri-default", 8], "fraction_hot": 0.5542168674698795}
+{"ctx": ["Missouri-default", 8], "time-explore": 41.560158252716064}
+{"ctx": ["Missouri-default", 8], "finished": {"precision": 9.998822948487092e-05, "p_property": 0, "num_explored": 440}}
+{"ctx": ["Missouri-default", 9], "rrs": [51, 42]}
+{"ctx": ["Missouri-default", 9], "brs": [35, 0, 59, 11, 30, 28, 53, 29, 5, 13]}
+{"ctx": ["Missouri-default", 9], "property": "Waypoint([src: 48, dst: XXX], 26)"}
+{"ctx": ["Missouri-default", 9], "fraction_hot": 0.5542168674698795}
+{"ctx": ["Missouri-default", 9], "fraction_hot": 0.6144578313253012}
+{"ctx": ["Missouri-default", 9], "fraction_hot": 0.5421686746987951}
+{"ctx": ["Missouri-default", 9], "fraction_hot": 0.5060240963855421}
+{"ctx": ["Missouri-default", 9], "fraction_hot": 0.5180722891566265}
+{"ctx": ["Missouri-default", 9], "fraction_hot": 0.46987951807228917}
+{"ctx": ["Missouri-default", 9], "fraction_hot": 0.5301204819277109}
+{"ctx": ["Missouri-default", 9], "fraction_hot": 0.5060240963855421}
+{"ctx": ["Missouri-default", 9], "fraction_hot": 0.5060240963855421}
+{"ctx": ["Missouri-default", 9], "fraction_hot": 0.4939759036144578}
+{"ctx": ["Missouri-default", 9], "time-explore": 251.79147577285767}
+{"ctx": ["Missouri-default", 9], "finished": {"precision": 9.999814393768512e-05, "p_property": 0, "num_explored": 1274}}
+{"ctx": ["Garr201004-default"], "topology": {"name": "Garr201004", "nof_nodes": 54, "nof_links": 71}}
+{"ctx": ["Garr201004-default", 0], "rrs": [37, 36]}
+{"ctx": ["Garr201004-default", 0], "brs": [27, 44, 40, 25, 42, 14, 19, 30, 51, 47]}
+{"ctx": ["Garr201004-default", 0], "property": "Waypoint([src: 35, dst: XXX], 7)"}
+{"ctx": ["Garr201004-default", 0], "fraction_hot": 0.29577464788732394}
+{"ctx": ["Garr201004-default", 0], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 0], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 0], "fraction_hot": 0.2676056338028169}
+{"ctx": ["Garr201004-default", 0], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 0], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 0], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 0], "fraction_hot": 0.28169014084507044}
+{"ctx": ["Garr201004-default", 0], "fraction_hot": 0.29577464788732394}
+{"ctx": ["Garr201004-default", 0], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 0], "time-explore": 8.761783123016357}
+{"ctx": ["Garr201004-default", 0], "finished": {"precision": 9.97715139987587e-05, "p_property": 0, "num_explored": 225}}
+{"ctx": ["Garr201004-default", 1], "rrs": [4, 6]}
+{"ctx": ["Garr201004-default", 1], "brs": [15, 41, 34, 33, 45, 21, 53, 29, 51, 25]}
+{"ctx": ["Garr201004-default", 1], "property": "Waypoint([src: 9, dst: XXX], 18)"}
+{"ctx": ["Garr201004-default", 1], "fraction_hot": 0.4084507042253521}
+{"ctx": ["Garr201004-default", 1], "fraction_hot": 0.39436619718309857}
+{"ctx": ["Garr201004-default", 1], "fraction_hot": 0.4084507042253521}
+{"ctx": ["Garr201004-default", 1], "fraction_hot": 0.38028169014084506}
+{"ctx": ["Garr201004-default", 1], "fraction_hot": 0.4084507042253521}
+{"ctx": ["Garr201004-default", 1], "fraction_hot": 0.4084507042253521}
+{"ctx": ["Garr201004-default", 1], "fraction_hot": 0.38028169014084506}
+{"ctx": ["Garr201004-default", 1], "fraction_hot": 0.38028169014084506}
+{"ctx": ["Garr201004-default", 1], "fraction_hot": 0.0}
+{"ctx": ["Garr201004-default", 1], "fraction_hot": 0.4084507042253521}
+{"ctx": ["Garr201004-default", 1], "time-explore": 30.67543601989746}
+{"ctx": ["Garr201004-default", 1], "finished": {"precision": 9.984011941577277e-05, "p_property": 0, "num_explored": 422}}
+{"ctx": ["Garr201004-default", 2], "rrs": [7, 4]}
+{"ctx": ["Garr201004-default", 2], "brs": [35, 27, 25, 45, 43, 53, 3, 51, 49, 21]}
+{"ctx": ["Garr201004-default", 2], "property": "Waypoint([src: 36, dst: XXX], 8)"}
+{"ctx": ["Garr201004-default", 2], "fraction_hot": 0.323943661971831}
+{"ctx": ["Garr201004-default", 2], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 2], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 2], "fraction_hot": 0.323943661971831}
+{"ctx": ["Garr201004-default", 2], "fraction_hot": 0.323943661971831}
+{"ctx": ["Garr201004-default", 2], "fraction_hot": 0.29577464788732394}
+{"ctx": ["Garr201004-default", 2], "fraction_hot": 0.0}
+{"ctx": ["Garr201004-default", 2], "fraction_hot": 0.29577464788732394}
+{"ctx": ["Garr201004-default", 2], "fraction_hot": 0.323943661971831}
+{"ctx": ["Garr201004-default", 2], "fraction_hot": 0.323943661971831}
+{"ctx": ["Garr201004-default", 2], "time-explore": 11.377497673034668}
+{"ctx": ["Garr201004-default", 2], "finished": {"precision": 9.958125782383305e-05, "p_property": 1.0680191141971332e-06, "num_explored": 241}}
+{"ctx": ["Garr201004-default", 3], "rrs": [1, 4]}
+{"ctx": ["Garr201004-default", 3], "brs": [41, 31, 38, 32, 25, 3, 18, 15, 24, 43]}
+{"ctx": ["Garr201004-default", 3], "property": "Waypoint([src: 6, dst: XXX], 40)"}
+{"ctx": ["Garr201004-default", 3], "fraction_hot": 0.2676056338028169}
+{"ctx": ["Garr201004-default", 3], "fraction_hot": 0.2535211267605634}
+{"ctx": ["Garr201004-default", 3], "fraction_hot": 0.28169014084507044}
+{"ctx": ["Garr201004-default", 3], "fraction_hot": 0.28169014084507044}
+{"ctx": ["Garr201004-default", 3], "fraction_hot": 0.28169014084507044}
+{"ctx": ["Garr201004-default", 3], "fraction_hot": 0.28169014084507044}
+{"ctx": ["Garr201004-default", 3], "fraction_hot": 0.29577464788732394}
+{"ctx": ["Garr201004-default", 3], "fraction_hot": 0.2535211267605634}
+{"ctx": ["Garr201004-default", 3], "fraction_hot": 0.29577464788732394}
+{"ctx": ["Garr201004-default", 3], "fraction_hot": 0.29577464788732394}
+{"ctx": ["Garr201004-default", 3], "time-explore": 8.410622358322144}
+{"ctx": ["Garr201004-default", 3], "finished": {"precision": 9.94476499420749e-05, "p_property": 0, "num_explored": 210}}
+{"ctx": ["Garr201004-default", 4], "rrs": [4, 28]}
+{"ctx": ["Garr201004-default", 4], "brs": [24, 29, 42, 26, 41, 15, 22, 40, 43, 0]}
+{"ctx": ["Garr201004-default", 4], "property": "Waypoint([src: 53, dst: XXX], 10)"}
+{"ctx": ["Garr201004-default", 4], "fraction_hot": 0.323943661971831}
+{"ctx": ["Garr201004-default", 4], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 4], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 4], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 4], "fraction_hot": 0.3380281690140845}
+{"ctx": ["Garr201004-default", 4], "fraction_hot": 0.3380281690140845}
+{"ctx": ["Garr201004-default", 4], "fraction_hot": 0.29577464788732394}
+{"ctx": ["Garr201004-default", 4], "fraction_hot": 0.0}
+{"ctx": ["Garr201004-default", 4], "fraction_hot": 0.28169014084507044}
+{"ctx": ["Garr201004-default", 4], "fraction_hot": 0.3380281690140845}
+{"ctx": ["Garr201004-default", 4], "time-explore": 12.005348443984985}
+{"ctx": ["Garr201004-default", 4], "finished": {"precision": 9.995593081724146e-05, "p_property": 0, "num_explored": 252}}
+{"ctx": ["Garr201004-default", 5], "rrs": [48, 7]}
+{"ctx": ["Garr201004-default", 5], "brs": [47, 51, 6, 14, 11, 52, 49, 18, 20, 3]}
+{"ctx": ["Garr201004-default", 5], "property": "Waypoint([src: 30, dst: XXX], 22)"}
+{"ctx": ["Garr201004-default", 5], "fraction_hot": 0.29577464788732394}
+{"ctx": ["Garr201004-default", 5], "fraction_hot": 0.2535211267605634}
+{"ctx": ["Garr201004-default", 5], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 5], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 5], "fraction_hot": 0.2676056338028169}
+{"ctx": ["Garr201004-default", 5], "fraction_hot": 0.28169014084507044}
+{"ctx": ["Garr201004-default", 5], "fraction_hot": 0.28169014084507044}
+{"ctx": ["Garr201004-default", 5], "fraction_hot": 0.29577464788732394}
+{"ctx": ["Garr201004-default", 5], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 5], "fraction_hot": 0.3380281690140845}
+{"ctx": ["Garr201004-default", 5], "time-explore": 10.70059609413147}
+{"ctx": ["Garr201004-default", 5], "finished": {"precision": 9.929077338910461e-05, "p_property": 0, "num_explored": 233}}
+{"ctx": ["Garr201004-default", 6], "rrs": [7, 8]}
+{"ctx": ["Garr201004-default", 6], "brs": [0, 47, 45, 23, 38, 46, 13, 26, 34, 53]}
+{"ctx": ["Garr201004-default", 6], "property": "Waypoint([src: 11, dst: XXX], 51)"}
+{"ctx": ["Garr201004-default", 6], "fraction_hot": 0.39436619718309857}
+{"ctx": ["Garr201004-default", 6], "fraction_hot": 0.352112676056338}
+{"ctx": ["Garr201004-default", 6], "fraction_hot": 0.39436619718309857}
+{"ctx": ["Garr201004-default", 6], "fraction_hot": 0.38028169014084506}
+{"ctx": ["Garr201004-default", 6], "fraction_hot": 0.38028169014084506}
+{"ctx": ["Garr201004-default", 6], "fraction_hot": 0.0}
+{"ctx": ["Garr201004-default", 6], "fraction_hot": 0.38028169014084506}
+{"ctx": ["Garr201004-default", 6], "fraction_hot": 0.38028169014084506}
+{"ctx": ["Garr201004-default", 6], "fraction_hot": 0.39436619718309857}
+{"ctx": ["Garr201004-default", 6], "fraction_hot": 0.38028169014084506}
+{"ctx": ["Garr201004-default", 6], "time-explore": 26.372001886367798}
+{"ctx": ["Garr201004-default", 6], "finished": {"precision": 9.940828154875181e-05, "p_property": 0, "num_explored": 381}}
+{"ctx": ["Garr201004-default", 7], "rrs": [8, 4]}
+{"ctx": ["Garr201004-default", 7], "brs": [10, 2, 3, 47, 0, 14, 46, 35, 51, 18]}
+{"ctx": ["Garr201004-default", 7], "property": "Waypoint([src: 30, dst: XXX], 34)"}
+{"ctx": ["Garr201004-default", 7], "fraction_hot": 0.323943661971831}
+{"ctx": ["Garr201004-default", 7], "fraction_hot": 0.323943661971831}
+{"ctx": ["Garr201004-default", 7], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 7], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 7], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 7], "fraction_hot": 0.323943661971831}
+{"ctx": ["Garr201004-default", 7], "fraction_hot": 0.2676056338028169}
+{"ctx": ["Garr201004-default", 7], "fraction_hot": 0.323943661971831}
+{"ctx": ["Garr201004-default", 7], "fraction_hot": 0.3380281690140845}
+{"ctx": ["Garr201004-default", 7], "fraction_hot": 0.3380281690140845}
+{"ctx": ["Garr201004-default", 7], "time-explore": 14.076473474502563}
+{"ctx": ["Garr201004-default", 7], "finished": {"precision": 9.910672749502411e-05, "p_property": 0, "num_explored": 289}}
+{"ctx": ["Garr201004-default", 8], "rrs": [8, 7]}
+{"ctx": ["Garr201004-default", 8], "brs": [34, 10, 28, 14, 41, 12, 24, 16, 31, 43]}
+{"ctx": ["Garr201004-default", 8], "property": "Waypoint([src: 17, dst: XXX], 23)"}
+{"ctx": ["Garr201004-default", 8], "fraction_hot": 0.323943661971831}
+{"ctx": ["Garr201004-default", 8], "fraction_hot": 0.28169014084507044}
+{"ctx": ["Garr201004-default", 8], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 8], "fraction_hot": 0.323943661971831}
+{"ctx": ["Garr201004-default", 8], "fraction_hot": 0.3380281690140845}
+{"ctx": ["Garr201004-default", 8], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 8], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 8], "fraction_hot": 0.28169014084507044}
+{"ctx": ["Garr201004-default", 8], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 8], "fraction_hot": 0.28169014084507044}
+{"ctx": ["Garr201004-default", 8], "time-explore": 10.650904178619385}
+{"ctx": ["Garr201004-default", 8], "finished": {"precision": 9.947418464895113e-05, "p_property": 0, "num_explored": 258}}
+{"ctx": ["Garr201004-default", 9], "rrs": [4, 48]}
+{"ctx": ["Garr201004-default", 9], "brs": [53, 43, 14, 2, 28, 32, 45, 46, 15, 5]}
+{"ctx": ["Garr201004-default", 9], "property": "Waypoint([src: 37, dst: XXX], 11)"}
+{"ctx": ["Garr201004-default", 9], "fraction_hot": 0.29577464788732394}
+{"ctx": ["Garr201004-default", 9], "fraction_hot": 0.2676056338028169}
+{"ctx": ["Garr201004-default", 9], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 9], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 9], "fraction_hot": 0.29577464788732394}
+{"ctx": ["Garr201004-default", 9], "fraction_hot": 0.28169014084507044}
+{"ctx": ["Garr201004-default", 9], "fraction_hot": 0.29577464788732394}
+{"ctx": ["Garr201004-default", 9], "fraction_hot": 0.30985915492957744}
+{"ctx": ["Garr201004-default", 9], "fraction_hot": 0.29577464788732394}
+{"ctx": ["Garr201004-default", 9], "fraction_hot": 0.23943661971830985}
+{"ctx": ["Garr201004-default", 9], "time-explore": 9.712660789489746}
+{"ctx": ["Garr201004-default", 9], "finished": {"precision": 9.904659599535577e-05, "p_property": 0, "num_explored": 224}}
+{"ctx": ["Ulaknet-default"], "topology": {"name": "Ulaknet", "nof_nodes": 82, "nof_links": 82}}
+{"ctx": ["Ulaknet-default", 0], "rrs": [47, 18]}
+{"ctx": ["Ulaknet-default", 0], "brs": [46, 65, 51, 0, 28, 39, 17, 30, 37, 70]}
+{"ctx": ["Ulaknet-default", 0], "property": "Waypoint([src: 45, dst: XXX], 14)"}
+{"ctx": ["Ulaknet-default", 0], "fraction_hot": 0.2073170731707317}
+{"ctx": ["Ulaknet-default", 0], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 0], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 0], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 0], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 0], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 0], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 0], "fraction_hot": 0.0}
+{"ctx": ["Ulaknet-default", 0], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 0], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 0], "time-explore": 1.191068410873413}
+{"ctx": ["Ulaknet-default", 0], "finished": {"precision": 9.883702828683559e-05, "p_property": 0, "num_explored": 58}}
+{"ctx": ["Ulaknet-default", 1], "rrs": [53, 16]}
+{"ctx": ["Ulaknet-default", 1], "brs": [14, 81, 1, 32, 39, 60, 10, 28, 4, 80]}
+{"ctx": ["Ulaknet-default", 1], "property": "Waypoint([src: 70, dst: XXX], 19)"}
+{"ctx": ["Ulaknet-default", 1], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 1], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 1], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 1], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 1], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 1], "fraction_hot": 0.0}
+{"ctx": ["Ulaknet-default", 1], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 1], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 1], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 1], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 1], "time-explore": 0.871445894241333}
+{"ctx": ["Ulaknet-default", 1], "finished": {"precision": 9.937895159350957e-05, "p_property": 0, "num_explored": 47}}
+{"ctx": ["Ulaknet-default", 2], "rrs": [42, 75]}
+{"ctx": ["Ulaknet-default", 2], "brs": [70, 11, 38, 67, 77, 58, 48, 24, 61, 80]}
+{"ctx": ["Ulaknet-default", 2], "property": "Waypoint([src: 14, dst: XXX], 39)"}
+{"ctx": ["Ulaknet-default", 2], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 2], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 2], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 2], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 2], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 2], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 2], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 2], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 2], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 2], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 2], "time-explore": 1.0535705089569092}
+{"ctx": ["Ulaknet-default", 2], "finished": {"precision": 9.929058026980639e-05, "p_property": 0, "num_explored": 55}}
+{"ctx": ["Ulaknet-default", 3], "rrs": [59, 56]}
+{"ctx": ["Ulaknet-default", 3], "brs": [39, 80, 55, 30, 9, 47, 40, 29, 0, 67]}
+{"ctx": ["Ulaknet-default", 3], "property": "Waypoint([src: 22, dst: XXX], 36)"}
+{"ctx": ["Ulaknet-default", 3], "fraction_hot": 0.2073170731707317}
+{"ctx": ["Ulaknet-default", 3], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 3], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 3], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 3], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 3], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 3], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 3], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 3], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 3], "fraction_hot": 0.0}
+{"ctx": ["Ulaknet-default", 3], "time-explore": 1.169285535812378}
+{"ctx": ["Ulaknet-default", 3], "finished": {"precision": 9.911837983700435e-05, "p_property": 0, "num_explored": 62}}
+{"ctx": ["Ulaknet-default", 4], "rrs": [22, 4]}
+{"ctx": ["Ulaknet-default", 4], "brs": [46, 71, 66, 26, 79, 51, 18, 81, 78, 57]}
+{"ctx": ["Ulaknet-default", 4], "property": "Waypoint([src: 15, dst: XXX], 48)"}
+{"ctx": ["Ulaknet-default", 4], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 4], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 4], "fraction_hot": 0.0}
+{"ctx": ["Ulaknet-default", 4], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 4], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 4], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 4], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 4], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 4], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 4], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 4], "time-explore": 0.4607832431793213}
+{"ctx": ["Ulaknet-default", 4], "finished": {"precision": 9.96873568043233e-05, "p_property": 0, "num_explored": 27}}
+{"ctx": ["Ulaknet-default", 5], "rrs": [26, 76]}
+{"ctx": ["Ulaknet-default", 5], "brs": [74, 28, 77, 58, 70, 3, 50, 6, 60, 52]}
+{"ctx": ["Ulaknet-default", 5], "property": "Waypoint([src: 17, dst: XXX], 41)"}
+{"ctx": ["Ulaknet-default", 5], "fraction_hot": 0.15853658536585366}
+{"ctx": ["Ulaknet-default", 5], "fraction_hot": 0.14634146341463414}
+{"ctx": ["Ulaknet-default", 5], "fraction_hot": 0.14634146341463414}
+{"ctx": ["Ulaknet-default", 5], "fraction_hot": 0.14634146341463414}
+{"ctx": ["Ulaknet-default", 5], "fraction_hot": 0.14634146341463414}
+{"ctx": ["Ulaknet-default", 5], "fraction_hot": 0.14634146341463414}
+{"ctx": ["Ulaknet-default", 5], "fraction_hot": 0.14634146341463414}
+{"ctx": ["Ulaknet-default", 5], "fraction_hot": 0.14634146341463414}
+{"ctx": ["Ulaknet-default", 5], "fraction_hot": 0.14634146341463414}
+{"ctx": ["Ulaknet-default", 5], "fraction_hot": 0.0}
+{"ctx": ["Ulaknet-default", 5], "time-explore": 0.3025076389312744}
+{"ctx": ["Ulaknet-default", 5], "finished": {"precision": 8.85149966172172e-05, "p_property": 0, "num_explored": 23}}
+{"ctx": ["Ulaknet-default", 6], "rrs": [21, 62]}
+{"ctx": ["Ulaknet-default", 6], "brs": [10, 0, 79, 29, 71, 40, 37, 15, 1, 67]}
+{"ctx": ["Ulaknet-default", 6], "property": "Waypoint([src: 69, dst: XXX], 55)"}
+{"ctx": ["Ulaknet-default", 6], "fraction_hot": 0.2073170731707317}
+{"ctx": ["Ulaknet-default", 6], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 6], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 6], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 6], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 6], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 6], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 6], "fraction_hot": 0.0}
+{"ctx": ["Ulaknet-default", 6], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 6], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 6], "time-explore": 1.2065412998199463}
+{"ctx": ["Ulaknet-default", 6], "finished": {"precision": 9.888597160589993e-05, "p_property": 0, "num_explored": 63}}
+{"ctx": ["Ulaknet-default", 7], "rrs": [46, 33]}
+{"ctx": ["Ulaknet-default", 7], "brs": [44, 37, 41, 0, 50, 14, 70, 11, 25, 38]}
+{"ctx": ["Ulaknet-default", 7], "property": "Waypoint([src: 69, dst: XXX], 5)"}
+{"ctx": ["Ulaknet-default", 7], "fraction_hot": 0.2073170731707317}
+{"ctx": ["Ulaknet-default", 7], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 7], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 7], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 7], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 7], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 7], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 7], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 7], "fraction_hot": 0.0}
+{"ctx": ["Ulaknet-default", 7], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 7], "time-explore": 1.165437936782837}
+{"ctx": ["Ulaknet-default", 7], "finished": {"precision": 9.9231178708914e-05, "p_property": 0, "num_explored": 61}}
+{"ctx": ["Ulaknet-default", 8], "rrs": [75, 9]}
+{"ctx": ["Ulaknet-default", 8], "brs": [46, 71, 33, 2, 0, 55, 21, 51, 65, 40]}
+{"ctx": ["Ulaknet-default", 8], "property": "Waypoint([src: 41, dst: XXX], 78)"}
+{"ctx": ["Ulaknet-default", 8], "fraction_hot": 0.1951219512195122}
+{"ctx": ["Ulaknet-default", 8], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 8], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 8], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 8], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 8], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 8], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 8], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 8], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 8], "fraction_hot": 0.0}
+{"ctx": ["Ulaknet-default", 8], "time-explore": 1.038686990737915}
+{"ctx": ["Ulaknet-default", 8], "finished": {"precision": 9.96069757270845e-05, "p_property": 0, "num_explored": 54}}
+{"ctx": ["Ulaknet-default", 9], "rrs": [76, 19]}
+{"ctx": ["Ulaknet-default", 9], "brs": [2, 4, 58, 53, 45, 81, 60, 39, 11, 57]}
+{"ctx": ["Ulaknet-default", 9], "property": "Waypoint([src: 35, dst: XXX], 23)"}
+{"ctx": ["Ulaknet-default", 9], "fraction_hot": 0.18292682926829268}
+{"ctx": ["Ulaknet-default", 9], "fraction_hot": 0.15853658536585366}
+{"ctx": ["Ulaknet-default", 9], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 9], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 9], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 9], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 9], "fraction_hot": 0.0}
+{"ctx": ["Ulaknet-default", 9], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 9], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 9], "fraction_hot": 0.17073170731707318}
+{"ctx": ["Ulaknet-default", 9], "time-explore": 0.5709230899810791}
+{"ctx": ["Ulaknet-default", 9], "finished": {"precision": 9.987603668570881e-05, "p_property": 0, "num_explored": 32}}
+{"ctx": ["Garr201107-default"], "topology": {"name": "Garr201107", "nof_nodes": 59, "nof_links": 85}}
+{"ctx": ["Garr201107-default", 0], "rrs": [56, 53]}
+{"ctx": ["Garr201107-default", 0], "brs": [25, 45, 39, 17, 2, 31, 22, 7, 3, 9]}
+{"ctx": ["Garr201107-default", 0], "property": "Waypoint([src: 27, dst: XXX], 43)"}
+{"ctx": ["Garr201107-default", 0], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201107-default", 0], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 0], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201107-default", 0], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 0], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201107-default", 0], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 0], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 0], "fraction_hot": 0.24705882352941178}
+{"ctx": ["Garr201107-default", 0], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201107-default", 0], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 0], "time-explore": 20.081785440444946}
+{"ctx": ["Garr201107-default", 0], "finished": {"precision": 9.957751518052671e-05, "p_property": 9.625034083476139e-22, "num_explored": 339}}
+{"ctx": ["Garr201107-default", 1], "rrs": [18, 10]}
+{"ctx": ["Garr201107-default", 1], "brs": [45, 12, 48, 37, 55, 31, 40, 52, 9, 51]}
+{"ctx": ["Garr201107-default", 1], "property": "Waypoint([src: 4, dst: XXX], 58)"}
+{"ctx": ["Garr201107-default", 1], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201107-default", 1], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 1], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201107-default", 1], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201107-default", 1], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201107-default", 1], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 1], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201107-default", 1], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201107-default", 1], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 1], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201107-default", 1], "time-explore": 23.40263271331787}
+{"ctx": ["Garr201107-default", 1], "finished": {"precision": 9.941672638369417e-05, "p_property": 0, "num_explored": 368}}
+{"ctx": ["Garr201107-default", 2], "rrs": [57, 44]}
+{"ctx": ["Garr201107-default", 2], "brs": [38, 51, 50, 30, 17, 15, 52, 58, 8, 29]}
+{"ctx": ["Garr201107-default", 2], "property": "Waypoint([src: 27, dst: XXX], 10)"}
+{"ctx": ["Garr201107-default", 2], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201107-default", 2], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201107-default", 2], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201107-default", 2], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201107-default", 2], "fraction_hot": 0.3411764705882353}
+{"ctx": ["Garr201107-default", 2], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201107-default", 2], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201107-default", 2], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201107-default", 2], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201107-default", 2], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201107-default", 2], "time-explore": 26.560323238372803}
+{"ctx": ["Garr201107-default", 2], "finished": {"precision": 9.934574455516815e-05, "p_property": 1.064392396424769e-21, "num_explored": 414}}
+{"ctx": ["Garr201107-default", 3], "rrs": [33, 11]}
+{"ctx": ["Garr201107-default", 3], "brs": [2, 52, 16, 50, 12, 13, 58, 54, 45, 40]}
+{"ctx": ["Garr201107-default", 3], "property": "Waypoint([src: 20, dst: XXX], 57)"}
+{"ctx": ["Garr201107-default", 3], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201107-default", 3], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201107-default", 3], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 3], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 3], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 3], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201107-default", 3], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201107-default", 3], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201107-default", 3], "fraction_hot": 0.3411764705882353}
+{"ctx": ["Garr201107-default", 3], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201107-default", 3], "time-explore": 26.15874171257019}
+{"ctx": ["Garr201107-default", 3], "finished": {"precision": 9.961943794456476e-05, "p_property": 0, "num_explored": 366}}
+{"ctx": ["Garr201107-default", 4], "rrs": [41, 3]}
+{"ctx": ["Garr201107-default", 4], "brs": [31, 0, 43, 20, 23, 34, 48, 12, 47, 38]}
+{"ctx": ["Garr201107-default", 4], "property": "Waypoint([src: 28, dst: XXX], 16)"}
+{"ctx": ["Garr201107-default", 4], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201107-default", 4], "fraction_hot": 0.23529411764705882}
+{"ctx": ["Garr201107-default", 4], "fraction_hot": 0.24705882352941178}
+{"ctx": ["Garr201107-default", 4], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 4], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 4], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201107-default", 4], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201107-default", 4], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 4], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 4], "fraction_hot": 0.2235294117647059}
+{"ctx": ["Garr201107-default", 4], "time-explore": 19.50479745864868}
+{"ctx": ["Garr201107-default", 4], "finished": {"precision": 9.936530823684292e-05, "p_property": 0, "num_explored": 324}}
+{"ctx": ["Garr201107-default", 5], "rrs": [56, 4]}
+{"ctx": ["Garr201107-default", 5], "brs": [35, 32, 17, 41, 19, 1, 55, 58, 12, 16]}
+{"ctx": ["Garr201107-default", 5], "property": "Waypoint([src: 20, dst: XXX], 46)"}
+{"ctx": ["Garr201107-default", 5], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 5], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 5], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 5], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 5], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 5], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201107-default", 5], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 5], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 5], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 5], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 5], "time-explore": 14.164574384689331}
+{"ctx": ["Garr201107-default", 5], "finished": {"precision": 9.952567613757948e-05, "p_property": 0, "num_explored": 294}}
+{"ctx": ["Garr201107-default", 6], "rrs": [6, 45]}
+{"ctx": ["Garr201107-default", 6], "brs": [36, 20, 37, 19, 11, 17, 23, 55, 50, 26]}
+{"ctx": ["Garr201107-default", 6], "property": "Waypoint([src: 58, dst: XXX], 52)"}
+{"ctx": ["Garr201107-default", 6], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201107-default", 6], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 6], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201107-default", 6], "fraction_hot": 0.3411764705882353}
+{"ctx": ["Garr201107-default", 6], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201107-default", 6], "fraction_hot": 0.36470588235294116}
+{"ctx": ["Garr201107-default", 6], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201107-default", 6], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201107-default", 6], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201107-default", 6], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201107-default", 6], "time-explore": 38.23225545883179}
+{"ctx": ["Garr201107-default", 6], "finished": {"precision": 9.9276532454895e-05, "p_property": 0, "num_explored": 482}}
+{"ctx": ["Garr201107-default", 7], "rrs": [13, 6]}
+{"ctx": ["Garr201107-default", 7], "brs": [2, 11, 20, 51, 31, 52, 41, 46, 8, 21]}
+{"ctx": ["Garr201107-default", 7], "property": "Waypoint([src: 14, dst: XXX], 33)"}
+{"ctx": ["Garr201107-default", 7], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201107-default", 7], "fraction_hot": 0.3411764705882353}
+{"ctx": ["Garr201107-default", 7], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201107-default", 7], "fraction_hot": 0.36470588235294116}
+{"ctx": ["Garr201107-default", 7], "fraction_hot": 0.3411764705882353}
+{"ctx": ["Garr201107-default", 7], "fraction_hot": 0.3411764705882353}
+{"ctx": ["Garr201107-default", 7], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201107-default", 7], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201107-default", 7], "fraction_hot": 0.36470588235294116}
+{"ctx": ["Garr201107-default", 7], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201107-default", 7], "time-explore": 41.68187689781189}
+{"ctx": ["Garr201107-default", 7], "finished": {"precision": 9.93581338404326e-05, "p_property": 0.9954301102314369, "num_explored": 498}}
+{"ctx": ["Garr201107-default", 8], "rrs": [33, 52]}
+{"ctx": ["Garr201107-default", 8], "brs": [16, 0, 13, 31, 30, 50, 38, 28, 45, 23]}
+{"ctx": ["Garr201107-default", 8], "property": "Waypoint([src: 5, dst: XXX], 29)"}
+{"ctx": ["Garr201107-default", 8], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 8], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201107-default", 8], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 8], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 8], "fraction_hot": 0.2235294117647059}
+{"ctx": ["Garr201107-default", 8], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201107-default", 8], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201107-default", 8], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 8], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201107-default", 8], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 8], "time-explore": 14.955400228500366}
+{"ctx": ["Garr201107-default", 8], "finished": {"precision": 9.970079065746422e-05, "p_property": 0, "num_explored": 284}}
+{"ctx": ["Garr201107-default", 9], "rrs": [21, 32]}
+{"ctx": ["Garr201107-default", 9], "brs": [26, 40, 7, 31, 29, 46, 30, 0, 22, 19]}
+{"ctx": ["Garr201107-default", 9], "property": "Waypoint([src: 11, dst: XXX], 37)"}
+{"ctx": ["Garr201107-default", 9], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201107-default", 9], "fraction_hot": 0.23529411764705882}
+{"ctx": ["Garr201107-default", 9], "fraction_hot": 0.0}
+{"ctx": ["Garr201107-default", 9], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201107-default", 9], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201107-default", 9], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201107-default", 9], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201107-default", 9], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201107-default", 9], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201107-default", 9], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201107-default", 9], "time-explore": 14.914931535720825}
+{"ctx": ["Garr201107-default", 9], "finished": {"precision": 9.91642757163235e-05, "p_property": 0, "num_explored": 276}}
+{"ctx": ["Surfnet-default"], "topology": {"name": "Surfnet", "nof_nodes": 50, "nof_links": 73}}
+{"ctx": ["Surfnet-default", 0], "rrs": [24, 14]}
+{"ctx": ["Surfnet-default", 0], "brs": [6, 7, 20, 28, 2, 45, 23, 34, 21, 48]}
+{"ctx": ["Surfnet-default", 0], "property": "Waypoint([src: 12, dst: XXX], 31)"}
+{"ctx": ["Surfnet-default", 0], "fraction_hot": 0.3698630136986301}
+{"ctx": ["Surfnet-default", 0], "fraction_hot": 0.3835616438356164}
+{"ctx": ["Surfnet-default", 0], "fraction_hot": 0.3835616438356164}
+{"ctx": ["Surfnet-default", 0], "fraction_hot": 0.3835616438356164}
+{"ctx": ["Surfnet-default", 0], "fraction_hot": 0.3835616438356164}
+{"ctx": ["Surfnet-default", 0], "fraction_hot": 0.3698630136986301}
+{"ctx": ["Surfnet-default", 0], "fraction_hot": 0.410958904109589}
+{"ctx": ["Surfnet-default", 0], "fraction_hot": 0.3698630136986301}
+{"ctx": ["Surfnet-default", 0], "fraction_hot": 0.410958904109589}
+{"ctx": ["Surfnet-default", 0], "fraction_hot": 0.3561643835616438}
+{"ctx": ["Surfnet-default", 0], "time-explore": 35.957176208496094}
+{"ctx": ["Surfnet-default", 0], "finished": {"precision": 9.944962116015255e-05, "p_property": 0, "num_explored": 451}}
+{"ctx": ["Surfnet-default", 1], "rrs": [5, 23]}
+{"ctx": ["Surfnet-default", 1], "brs": [49, 21, 9, 39, 43, 7, 41, 34, 26, 40]}
+{"ctx": ["Surfnet-default", 1], "property": "Waypoint([src: 38, dst: XXX], 47)"}
+{"ctx": ["Surfnet-default", 1], "fraction_hot": 0.4383561643835616}
+{"ctx": ["Surfnet-default", 1], "fraction_hot": 0.4383561643835616}
+{"ctx": ["Surfnet-default", 1], "fraction_hot": 0.4520547945205479}
+{"ctx": ["Surfnet-default", 1], "fraction_hot": 0.4246575342465753}
+{"ctx": ["Surfnet-default", 1], "fraction_hot": 0.4246575342465753}
+{"ctx": ["Surfnet-default", 1], "fraction_hot": 0.4246575342465753}
+{"ctx": ["Surfnet-default", 1], "fraction_hot": 0.5068493150684932}
+{"ctx": ["Surfnet-default", 1], "fraction_hot": 0.4657534246575342}
+{"ctx": ["Surfnet-default", 1], "fraction_hot": 0.4657534246575342}
+{"ctx": ["Surfnet-default", 1], "fraction_hot": 0.4794520547945205}
+{"ctx": ["Surfnet-default", 1], "time-explore": 151.39136266708374}
+{"ctx": ["Surfnet-default", 1], "finished": {"precision": 9.93663185900884e-05, "p_property": 9.646242217274668e-07, "num_explored": 699}}
+{"ctx": ["Surfnet-default", 2], "rrs": [5, 10]}
+{"ctx": ["Surfnet-default", 2], "brs": [41, 39, 40, 2, 7, 43, 8, 35, 46, 3]}
+{"ctx": ["Surfnet-default", 2], "property": "Waypoint([src: 42, dst: XXX], 33)"}
+{"ctx": ["Surfnet-default", 2], "fraction_hot": 0.3424657534246575}
+{"ctx": ["Surfnet-default", 2], "fraction_hot": 0.3698630136986301}
+{"ctx": ["Surfnet-default", 2], "fraction_hot": 0.3561643835616438}
+{"ctx": ["Surfnet-default", 2], "fraction_hot": 0.3424657534246575}
+{"ctx": ["Surfnet-default", 2], "fraction_hot": 0.2465753424657534}
+{"ctx": ["Surfnet-default", 2], "fraction_hot": 0.3424657534246575}
+{"ctx": ["Surfnet-default", 2], "fraction_hot": 0.4246575342465753}
+{"ctx": ["Surfnet-default", 2], "fraction_hot": 0.3287671232876712}
+{"ctx": ["Surfnet-default", 2], "fraction_hot": 0.3013698630136986}
+{"ctx": ["Surfnet-default", 2], "fraction_hot": 0.410958904109589}
+{"ctx": ["Surfnet-default", 2], "time-explore": 42.236114740371704}
+{"ctx": ["Surfnet-default", 2], "finished": {"precision": 9.957453415487817e-05, "p_property": 0, "num_explored": 344}}
+{"ctx": ["Surfnet-default", 3], "rrs": [12, 34]}
+{"ctx": ["Surfnet-default", 3], "brs": [15, 3, 40, 0, 45, 41, 42, 9, 7, 28]}
+{"ctx": ["Surfnet-default", 3], "property": "Waypoint([src: 20, dst: XXX], 10)"}
+{"ctx": ["Surfnet-default", 3], "fraction_hot": 0.5068493150684932}
+{"ctx": ["Surfnet-default", 3], "fraction_hot": 0.5205479452054794}
+{"ctx": ["Surfnet-default", 3], "fraction_hot": 0.5342465753424658}
+{"ctx": ["Surfnet-default", 3], "fraction_hot": 0.4931506849315068}
+{"ctx": ["Surfnet-default", 3], "fraction_hot": 0.4931506849315068}
+{"ctx": ["Surfnet-default", 3], "fraction_hot": 0.5068493150684932}
+{"ctx": ["Surfnet-default", 3], "fraction_hot": 0.4520547945205479}
+{"ctx": ["Surfnet-default", 3], "fraction_hot": 0.4794520547945205}
+{"ctx": ["Surfnet-default", 3], "fraction_hot": 0.4657534246575342}
+{"ctx": ["Surfnet-default", 3], "fraction_hot": 0.4657534246575342}
+{"ctx": ["Surfnet-default", 3], "time-explore": 183.23937320709229}
+{"ctx": ["Surfnet-default", 3], "finished": {"precision": 9.966300427155523e-05, "p_property": 0, "num_explored": 744}}
+{"ctx": ["Surfnet-default", 4], "rrs": [11, 25]}
+{"ctx": ["Surfnet-default", 4], "brs": [0, 9, 29, 21, 47, 43, 44, 39, 40, 2]}
+{"ctx": ["Surfnet-default", 4], "property": "Waypoint([src: 30, dst: XXX], 46)"}
+{"ctx": ["Surfnet-default", 4], "fraction_hot": 0.4657534246575342}
+{"ctx": ["Surfnet-default", 4], "fraction_hot": 0.4931506849315068}
+{"ctx": ["Surfnet-default", 4], "fraction_hot": 0.4520547945205479}
+{"ctx": ["Surfnet-default", 4], "fraction_hot": 0.4383561643835616}
+{"ctx": ["Surfnet-default", 4], "fraction_hot": 0.4520547945205479}
+{"ctx": ["Surfnet-default", 4], "fraction_hot": 0.4520547945205479}
+{"ctx": ["Surfnet-default", 4], "fraction_hot": 0.410958904109589}
+{"ctx": ["Surfnet-default", 4], "fraction_hot": 0.4794520547945205}
+{"ctx": ["Surfnet-default", 4], "fraction_hot": 0.4657534246575342}
+{"ctx": ["Surfnet-default", 4], "fraction_hot": 0.410958904109589}
+{"ctx": ["Surfnet-default", 4], "time-explore": 135.79931640625}
+{"ctx": ["Surfnet-default", 4], "finished": {"precision": 9.938025081790432e-05, "p_property": 0, "num_explored": 635}}
+{"ctx": ["Surfnet-default", 5], "rrs": [16, 14]}
+{"ctx": ["Surfnet-default", 5], "brs": [33, 21, 37, 25, 7, 34, 3, 42, 43, 12]}
+{"ctx": ["Surfnet-default", 5], "property": "Waypoint([src: 24, dst: XXX], 23)"}
+{"ctx": ["Surfnet-default", 5], "fraction_hot": 0.4383561643835616}
+{"ctx": ["Surfnet-default", 5], "fraction_hot": 0.4246575342465753}
+{"ctx": ["Surfnet-default", 5], "fraction_hot": 0.4520547945205479}
+{"ctx": ["Surfnet-default", 5], "fraction_hot": 0.4657534246575342}
+{"ctx": ["Surfnet-default", 5], "fraction_hot": 0.4520547945205479}
+{"ctx": ["Surfnet-default", 5], "fraction_hot": 0.4383561643835616}
+{"ctx": ["Surfnet-default", 5], "fraction_hot": 0.3972602739726027}
+{"ctx": ["Surfnet-default", 5], "fraction_hot": 0.4794520547945205}
+{"ctx": ["Surfnet-default", 5], "fraction_hot": 0.4383561643835616}
+{"ctx": ["Surfnet-default", 5], "fraction_hot": 0.4657534246575342}
+{"ctx": ["Surfnet-default", 5], "time-explore": 145.30382323265076}
+{"ctx": ["Surfnet-default", 5], "finished": {"precision": 9.96425519651511e-05, "p_property": 3.0720875378368145e-06, "num_explored": 671}}
+{"ctx": ["Surfnet-default", 6], "rrs": [17, 39]}
+{"ctx": ["Surfnet-default", 6], "brs": [27, 34, 36, 25, 40, 10, 43, 26, 33, 49]}
+{"ctx": ["Surfnet-default", 6], "property": "Waypoint([src: 48, dst: XXX], 11)"}
+{"ctx": ["Surfnet-default", 6], "fraction_hot": 0.4931506849315068}
+{"ctx": ["Surfnet-default", 6], "fraction_hot": 0.4657534246575342}
+{"ctx": ["Surfnet-default", 6], "fraction_hot": 0.4657534246575342}
+{"ctx": ["Surfnet-default", 6], "fraction_hot": 0.4520547945205479}
+{"ctx": ["Surfnet-default", 6], "fraction_hot": 0.5068493150684932}
+{"ctx": ["Surfnet-default", 6], "fraction_hot": 0.547945205479452}
+{"ctx": ["Surfnet-default", 6], "fraction_hot": 0.4931506849315068}
+{"ctx": ["Surfnet-default", 6], "fraction_hot": 0.4931506849315068}
+{"ctx": ["Surfnet-default", 6], "fraction_hot": 0.410958904109589}
+{"ctx": ["Surfnet-default", 6], "fraction_hot": 0.410958904109589}
+{"ctx": ["Surfnet-default", 6], "time-explore": 206.37822270393372}
+{"ctx": ["Surfnet-default", 6], "finished": {"precision": 9.976226873609212e-05, "p_property": 0.00019405704924369774, "num_explored": 764}}
+{"ctx": ["Surfnet-default", 7], "rrs": [30, 38]}
+{"ctx": ["Surfnet-default", 7], "brs": [41, 49, 28, 15, 47, 8, 40, 48, 26, 9]}
+{"ctx": ["Surfnet-default", 7], "property": "Waypoint([src: 4, dst: XXX], 2)"}
+{"ctx": ["Surfnet-default", 7], "fraction_hot": 0.3698630136986301}
+{"ctx": ["Surfnet-default", 7], "fraction_hot": 0.3698630136986301}
+{"ctx": ["Surfnet-default", 7], "fraction_hot": 0.3561643835616438}
+{"ctx": ["Surfnet-default", 7], "fraction_hot": 0.3698630136986301}
+{"ctx": ["Surfnet-default", 7], "fraction_hot": 0.3835616438356164}
+{"ctx": ["Surfnet-default", 7], "fraction_hot": 0.3287671232876712}
+{"ctx": ["Surfnet-default", 7], "fraction_hot": 0.3561643835616438}
+{"ctx": ["Surfnet-default", 7], "fraction_hot": 0.3424657534246575}
+{"ctx": ["Surfnet-default", 7], "fraction_hot": 0.3698630136986301}
+{"ctx": ["Surfnet-default", 7], "fraction_hot": 0.3835616438356164}
+{"ctx": ["Surfnet-default", 7], "time-explore": 49.44825744628906}
+{"ctx": ["Surfnet-default", 7], "finished": {"precision": 9.935293224605511e-05, "p_property": 1.937565980034757e-06, "num_explored": 373}}
+{"ctx": ["Surfnet-default", 8], "rrs": [12, 18]}
+{"ctx": ["Surfnet-default", 8], "brs": [41, 44, 40, 20, 7, 0, 9, 28, 6, 46]}
+{"ctx": ["Surfnet-default", 8], "property": "Waypoint([src: 26, dst: XXX], 5)"}
+{"ctx": ["Surfnet-default", 8], "fraction_hot": 0.4246575342465753}
+{"ctx": ["Surfnet-default", 8], "fraction_hot": 0.4246575342465753}
+{"ctx": ["Surfnet-default", 8], "fraction_hot": 0.4246575342465753}
+{"ctx": ["Surfnet-default", 8], "fraction_hot": 0.410958904109589}
+{"ctx": ["Surfnet-default", 8], "fraction_hot": 0.4246575342465753}
+{"ctx": ["Surfnet-default", 8], "fraction_hot": 0.3698630136986301}
+{"ctx": ["Surfnet-default", 8], "fraction_hot": 0.410958904109589}
+{"ctx": ["Surfnet-default", 8], "fraction_hot": 0.547945205479452}
+{"ctx": ["Surfnet-default", 8], "fraction_hot": 0.4657534246575342}
+{"ctx": ["Surfnet-default", 8], "fraction_hot": 0.4383561643835616}
+{"ctx": ["Surfnet-default", 8], "time-explore": 140.86072397232056}
+{"ctx": ["Surfnet-default", 8], "finished": {"precision": 9.996257449851329e-05, "p_property": 0, "num_explored": 578}}
+{"ctx": ["Surfnet-default", 9], "rrs": [27, 19]}
+{"ctx": ["Surfnet-default", 9], "brs": [28, 9, 45, 40, 29, 43, 46, 41, 21, 3]}
+{"ctx": ["Surfnet-default", 9], "property": "Waypoint([src: 4, dst: XXX], 35)"}
+{"ctx": ["Surfnet-default", 9], "fraction_hot": 0.3972602739726027}
+{"ctx": ["Surfnet-default", 9], "fraction_hot": 0.4246575342465753}
+{"ctx": ["Surfnet-default", 9], "fraction_hot": 0.3835616438356164}
+{"ctx": ["Surfnet-default", 9], "fraction_hot": 0.4246575342465753}
+{"ctx": ["Surfnet-default", 9], "fraction_hot": 0.3972602739726027}
+{"ctx": ["Surfnet-default", 9], "fraction_hot": 0.3150684931506849}
+{"ctx": ["Surfnet-default", 9], "fraction_hot": 0.410958904109589}
+{"ctx": ["Surfnet-default", 9], "fraction_hot": 0.3698630136986301}
+{"ctx": ["Surfnet-default", 9], "fraction_hot": 0.3835616438356164}
+{"ctx": ["Surfnet-default", 9], "fraction_hot": 0.3698630136986301}
+{"ctx": ["Surfnet-default", 9], "time-explore": 71.8622796535492}
+{"ctx": ["Surfnet-default", 9], "finished": {"precision": 9.945798645294436e-05, "p_property": 0, "num_explored": 448}}
+{"ctx": ["Syringa-default"], "topology": {"name": "Syringa", "nof_nodes": 74, "nof_links": 74}}
+{"ctx": ["Syringa-default", 0], "rrs": [15, 62]}
+{"ctx": ["Syringa-default", 0], "brs": [53, 11, 17, 25, 1, 41, 35, 50, 22, 4]}
+{"ctx": ["Syringa-default", 0], "property": "Waypoint([src: 71, dst: XXX], 45)"}
+{"ctx": ["Syringa-default", 0], "fraction_hot": 0.6891891891891891}
+{"ctx": ["Syringa-default", 0], "fraction_hot": 0.6756756756756757}
+{"ctx": ["Syringa-default", 0], "fraction_hot": 0.6621621621621622}
+{"ctx": ["Syringa-default", 0], "fraction_hot": 0.013513513513513514}
+{"ctx": ["Syringa-default", 0], "fraction_hot": 0.6081081081081081}
+{"ctx": ["Syringa-default", 0], "fraction_hot": 0.013513513513513514}
+{"ctx": ["Syringa-default", 0], "fraction_hot": 0.5405405405405406}
+{"ctx": ["Syringa-default", 0], "fraction_hot": 0.6081081081081081}
+{"ctx": ["Syringa-default", 0], "fraction_hot": 0.6756756756756757}
+{"ctx": ["Syringa-default", 0], "fraction_hot": 0.6621621621621622}
+{"ctx": ["Syringa-default", 0], "time-explore": 232.9796221256256}
+{"ctx": ["Syringa-default", 0], "finished": {"precision": 9.989215245576053e-05, "p_property": 0, "num_explored": 888}}
+{"ctx": ["Syringa-default", 1], "rrs": [46, 13]}
+{"ctx": ["Syringa-default", 1], "brs": [58, 50, 71, 9, 57, 25, 56, 11, 60, 12]}
+{"ctx": ["Syringa-default", 1], "property": "Waypoint([src: 72, dst: XXX], 7)"}
+{"ctx": ["Syringa-default", 1], "fraction_hot": 0.6486486486486487}
+{"ctx": ["Syringa-default", 1], "fraction_hot": 0.6351351351351351}
+{"ctx": ["Syringa-default", 1], "fraction_hot": 0.6081081081081081}
+{"ctx": ["Syringa-default", 1], "fraction_hot": 0.6351351351351351}
+{"ctx": ["Syringa-default", 1], "fraction_hot": 0.05405405405405406}
+{"ctx": ["Syringa-default", 1], "fraction_hot": 0.5945945945945946}
+{"ctx": ["Syringa-default", 1], "fraction_hot": 0.5675675675675675}
+{"ctx": ["Syringa-default", 1], "fraction_hot": 0.581081081081081}
+{"ctx": ["Syringa-default", 1], "fraction_hot": 0.5675675675675675}
+{"ctx": ["Syringa-default", 1], "fraction_hot": 0.5675675675675675}
+{"ctx": ["Syringa-default", 1], "time-explore": 226.44781351089478}
+{"ctx": ["Syringa-default", 1], "finished": {"precision": 9.909552892073407e-05, "p_property": 0.9919830676979905, "num_explored": 905}}
+{"ctx": ["Syringa-default", 2], "rrs": [17, 14]}
+{"ctx": ["Syringa-default", 2], "brs": [28, 1, 25, 23, 29, 37, 18, 6, 67, 71]}
+{"ctx": ["Syringa-default", 2], "property": "Waypoint([src: 7, dst: XXX], 48)"}
+{"ctx": ["Syringa-default", 2], "fraction_hot": 0.7162162162162162}
+{"ctx": ["Syringa-default", 2], "fraction_hot": 0.5405405405405406}
+{"ctx": ["Syringa-default", 2], "fraction_hot": 0.5405405405405406}
+{"ctx": ["Syringa-default", 2], "fraction_hot": 0.5405405405405406}
+{"ctx": ["Syringa-default", 2], "fraction_hot": 0.5405405405405406}
+{"ctx": ["Syringa-default", 2], "fraction_hot": 0.6216216216216216}
+{"ctx": ["Syringa-default", 2], "fraction_hot": 0.6216216216216216}
+{"ctx": ["Syringa-default", 2], "fraction_hot": 0.6891891891891891}
+{"ctx": ["Syringa-default", 2], "fraction_hot": 0.7027027027027027}
+{"ctx": ["Syringa-default", 2], "fraction_hot": 0.6891891891891891}
+{"ctx": ["Syringa-default", 2], "time-explore": 375.8292374610901}
+{"ctx": ["Syringa-default", 2], "finished": {"precision": 9.925387745612919e-05, "p_property": 0.9845705810877142, "num_explored": 1202}}
+{"ctx": ["Syringa-default", 3], "rrs": [32, 41]}
+{"ctx": ["Syringa-default", 3], "brs": [59, 29, 24, 56, 28, 22, 1, 68, 23, 72]}
+{"ctx": ["Syringa-default", 3], "property": "Waypoint([src: 3, dst: XXX], 21)"}
+{"ctx": ["Syringa-default", 3], "fraction_hot": 0.7162162162162162}
+{"ctx": ["Syringa-default", 3], "fraction_hot": 0.6081081081081081}
+{"ctx": ["Syringa-default", 3], "fraction_hot": 0.7027027027027027}
+{"ctx": ["Syringa-default", 3], "fraction_hot": 0.6351351351351351}
+{"ctx": ["Syringa-default", 3], "fraction_hot": 0.6756756756756757}
+{"ctx": ["Syringa-default", 3], "fraction_hot": 0.5675675675675675}
+{"ctx": ["Syringa-default", 3], "fraction_hot": 0.527027027027027}
+{"ctx": ["Syringa-default", 3], "fraction_hot": 0.527027027027027}
+{"ctx": ["Syringa-default", 3], "fraction_hot": 0.6756756756756757}
+{"ctx": ["Syringa-default", 3], "fraction_hot": 0.6756756756756757}
+{"ctx": ["Syringa-default", 3], "time-explore": 342.71191120147705}
+{"ctx": ["Syringa-default", 3], "finished": {"precision": 9.931052722422791e-05, "p_property": 0, "num_explored": 1142}}
+{"ctx": ["Syringa-default", 4], "rrs": [55, 26]}
+{"ctx": ["Syringa-default", 4], "brs": [16, 69, 49, 2, 18, 72, 63, 19, 70, 32]}
+{"ctx": ["Syringa-default", 4], "property": "Waypoint([src: 8, dst: XXX], 36)"}
+{"ctx": ["Syringa-default", 4], "fraction_hot": 0.7027027027027027}
+{"ctx": ["Syringa-default", 4], "fraction_hot": 0.527027027027027}
+{"ctx": ["Syringa-default", 4], "fraction_hot": 0.6891891891891891}
+{"ctx": ["Syringa-default", 4], "fraction_hot": 0.527027027027027}
+{"ctx": ["Syringa-default", 4], "fraction_hot": 0.6486486486486487}
+{"ctx": ["Syringa-default", 4], "fraction_hot": 0.6216216216216216}
+{"ctx": ["Syringa-default", 4], "fraction_hot": 0.6351351351351351}
+{"ctx": ["Syringa-default", 4], "fraction_hot": 0.6891891891891891}
+{"ctx": ["Syringa-default", 4], "fraction_hot": 0.527027027027027}
+{"ctx": ["Syringa-default", 4], "fraction_hot": 0.6351351351351351}
+{"ctx": ["Syringa-default", 4], "time-explore": 350.65265583992004}
+{"ctx": ["Syringa-default", 4], "finished": {"precision": 9.918651220230937e-05, "p_property": 0.01609925582673095, "num_explored": 1182}}
+{"ctx": ["Syringa-default", 5], "rrs": [43, 9]}
+{"ctx": ["Syringa-default", 5], "brs": [58, 16, 30, 63, 50, 45, 26, 66, 29, 70]}
+{"ctx": ["Syringa-default", 5], "property": "Waypoint([src: 64, dst: XXX], 42)"}
+{"ctx": ["Syringa-default", 5], "fraction_hot": 0.6756756756756757}
+{"ctx": ["Syringa-default", 5], "fraction_hot": 0.581081081081081}
+{"ctx": ["Syringa-default", 5], "fraction_hot": 0.6216216216216216}
+{"ctx": ["Syringa-default", 5], "fraction_hot": 0.6351351351351351}
+{"ctx": ["Syringa-default", 5], "fraction_hot": 0.5675675675675675}
+{"ctx": ["Syringa-default", 5], "fraction_hot": 0.6216216216216216}
+{"ctx": ["Syringa-default", 5], "fraction_hot": 0.6351351351351351}
+{"ctx": ["Syringa-default", 5], "fraction_hot": 0.6216216216216216}
+{"ctx": ["Syringa-default", 5], "fraction_hot": 0.6486486486486487}
+{"ctx": ["Syringa-default", 5], "fraction_hot": 0.6486486486486487}
+{"ctx": ["Syringa-default", 5], "time-explore": 289.0481262207031}
+{"ctx": ["Syringa-default", 5], "finished": {"precision": 9.919045235340371e-05, "p_property": 0, "num_explored": 1031}}
+{"ctx": ["Syringa-default", 6], "rrs": [61, 40]}
+{"ctx": ["Syringa-default", 6], "brs": [20, 24, 36, 1, 6, 57, 50, 70, 52, 27]}
+{"ctx": ["Syringa-default", 6], "property": "Waypoint([src: 12, dst: XXX], 0)"}
+{"ctx": ["Syringa-default", 6], "fraction_hot": 0.6621621621621622}
+{"ctx": ["Syringa-default", 6], "fraction_hot": 0.6486486486486487}
+{"ctx": ["Syringa-default", 6], "fraction_hot": 0.5}
+{"ctx": ["Syringa-default", 6], "fraction_hot": 0.6756756756756757}
+{"ctx": ["Syringa-default", 6], "fraction_hot": 0.5}
+{"ctx": ["Syringa-default", 6], "fraction_hot": 0.5945945945945946}
+{"ctx": ["Syringa-default", 6], "fraction_hot": 0.6486486486486487}
+{"ctx": ["Syringa-default", 6], "fraction_hot": 0.6486486486486487}
+{"ctx": ["Syringa-default", 6], "fraction_hot": 0.6756756756756757}
+{"ctx": ["Syringa-default", 6], "fraction_hot": 0.6621621621621622}
+{"ctx": ["Syringa-default", 6], "time-explore": 385.88758087158203}
+{"ctx": ["Syringa-default", 6], "finished": {"precision": 9.983003515567904e-05, "p_property": 3.533038306948327e-05, "num_explored": 1180}}
+{"ctx": ["Syringa-default", 7], "rrs": [67, 9]}
+{"ctx": ["Syringa-default", 7], "brs": [53, 58, 40, 28, 68, 37, 27, 41, 19, 73]}
+{"ctx": ["Syringa-default", 7], "property": "Waypoint([src: 7, dst: XXX], 51)"}
+{"ctx": ["Syringa-default", 7], "fraction_hot": 0.7162162162162162}
+{"ctx": ["Syringa-default", 7], "fraction_hot": 0.6621621621621622}
+{"ctx": ["Syringa-default", 7], "fraction_hot": 0.6216216216216216}
+{"ctx": ["Syringa-default", 7], "fraction_hot": 0.6486486486486487}
+{"ctx": ["Syringa-default", 7], "fraction_hot": 0.6216216216216216}
+{"ctx": ["Syringa-default", 7], "fraction_hot": 0.6081081081081081}
+{"ctx": ["Syringa-default", 7], "fraction_hot": 0.6486486486486487}
+{"ctx": ["Syringa-default", 7], "fraction_hot": 0.6891891891891891}
+{"ctx": ["Syringa-default", 7], "fraction_hot": 0.6621621621621622}
+{"ctx": ["Syringa-default", 7], "fraction_hot": 0.6756756756756757}
+{"ctx": ["Syringa-default", 7], "time-explore": 444.65330243110657}
+{"ctx": ["Syringa-default", 7], "finished": {"precision": 9.995783869354291e-05, "p_property": 0.00016339897635896507, "num_explored": 1268}}
+{"ctx": ["Syringa-default", 8], "rrs": [5, 46]}
+{"ctx": ["Syringa-default", 8], "brs": [17, 52, 54, 6, 35, 1, 73, 41, 64, 68]}
+{"ctx": ["Syringa-default", 8], "property": "Waypoint([src: 28, dst: XXX], 42)"}
+{"ctx": ["Syringa-default", 8], "fraction_hot": 0.7027027027027027}
+{"ctx": ["Syringa-default", 8], "fraction_hot": 0.6351351351351351}
+{"ctx": ["Syringa-default", 8], "fraction_hot": 0.5945945945945946}
+{"ctx": ["Syringa-default", 8], "fraction_hot": 0.6081081081081081}
+{"ctx": ["Syringa-default", 8], "fraction_hot": 0.5945945945945946}
+{"ctx": ["Syringa-default", 8], "fraction_hot": 0.5540540540540541}
+{"ctx": ["Syringa-default", 8], "fraction_hot": 0.6351351351351351}
+{"ctx": ["Syringa-default", 8], "fraction_hot": 0.6891891891891891}
+{"ctx": ["Syringa-default", 8], "fraction_hot": 0.6891891891891891}
+{"ctx": ["Syringa-default", 8], "fraction_hot": 0.6621621621621622}
+{"ctx": ["Syringa-default", 8], "time-explore": 344.3134551048279}
+{"ctx": ["Syringa-default", 8], "finished": {"precision": 9.995880791746625e-05, "p_property": 0, "num_explored": 1153}}
+{"ctx": ["Syringa-default", 9], "rrs": [46, 13]}
+{"ctx": ["Syringa-default", 9], "brs": [57, 19, 11, 56, 63, 49, 50, 39, 52, 1]}
+{"ctx": ["Syringa-default", 9], "property": "Waypoint([src: 71, dst: XXX], 35)"}
+{"ctx": ["Syringa-default", 9], "fraction_hot": 0.7162162162162162}
+{"ctx": ["Syringa-default", 9], "fraction_hot": 0.6756756756756757}
+{"ctx": ["Syringa-default", 9], "fraction_hot": 0.013513513513513514}
+{"ctx": ["Syringa-default", 9], "fraction_hot": 0.7027027027027027}
+{"ctx": ["Syringa-default", 9], "fraction_hot": 0.013513513513513514}
+{"ctx": ["Syringa-default", 9], "fraction_hot": 0.6351351351351351}
+{"ctx": ["Syringa-default", 9], "fraction_hot": 0.6351351351351351}
+{"ctx": ["Syringa-default", 9], "fraction_hot": 0.6621621621621622}
+{"ctx": ["Syringa-default", 9], "fraction_hot": 0.6756756756756757}
+{"ctx": ["Syringa-default", 9], "fraction_hot": 0.6351351351351351}
+{"ctx": ["Syringa-default", 9], "time-explore": 306.2215085029602}
+{"ctx": ["Syringa-default", 9], "finished": {"precision": 9.987146021439568e-05, "p_property": 0, "num_explored": 1009}}
+{"ctx": ["Garr201108-default"], "topology": {"name": "Garr201108", "nof_nodes": 59, "nof_links": 85}}
+{"ctx": ["Garr201108-default", 0], "rrs": [28, 14]}
+{"ctx": ["Garr201108-default", 0], "brs": [13, 9, 30, 58, 34, 25, 12, 50, 39, 43]}
+{"ctx": ["Garr201108-default", 0], "property": "Waypoint([src: 19, dst: XXX], 54)"}
+{"ctx": ["Garr201108-default", 0], "fraction_hot": 0.3411764705882353}
+{"ctx": ["Garr201108-default", 0], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201108-default", 0], "fraction_hot": 0.36470588235294116}
+{"ctx": ["Garr201108-default", 0], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 0], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201108-default", 0], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201108-default", 0], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201108-default", 0], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 0], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201108-default", 0], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201108-default", 0], "time-explore": 58.778624057769775}
+{"ctx": ["Garr201108-default", 0], "finished": {"precision": 9.906403863391146e-05, "p_property": 0, "num_explored": 404}}
+{"ctx": ["Garr201108-default", 1], "rrs": [11, 24]}
+{"ctx": ["Garr201108-default", 1], "brs": [13, 50, 31, 52, 9, 51, 46, 29, 23, 2]}
+{"ctx": ["Garr201108-default", 1], "property": "Waypoint([src: 42, dst: XXX], 34)"}
+{"ctx": ["Garr201108-default", 1], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201108-default", 1], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201108-default", 1], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201108-default", 1], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201108-default", 1], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201108-default", 1], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 1], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201108-default", 1], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 1], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 1], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201108-default", 1], "time-explore": 108.45973110198975}
+{"ctx": ["Garr201108-default", 1], "finished": {"precision": 9.986417169416387e-05, "p_property": 0, "num_explored": 470}}
+{"ctx": ["Garr201108-default", 2], "rrs": [34, 4]}
+{"ctx": ["Garr201108-default", 2], "brs": [47, 32, 22, 28, 8, 25, 49, 46, 16, 12]}
+{"ctx": ["Garr201108-default", 2], "property": "Waypoint([src: 3, dst: XXX], 14)"}
+{"ctx": ["Garr201108-default", 2], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201108-default", 2], "fraction_hot": 0.0}
+{"ctx": ["Garr201108-default", 2], "fraction_hot": 0.2235294117647059}
+{"ctx": ["Garr201108-default", 2], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201108-default", 2], "fraction_hot": 0.24705882352941178}
+{"ctx": ["Garr201108-default", 2], "fraction_hot": 0.24705882352941178}
+{"ctx": ["Garr201108-default", 2], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201108-default", 2], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201108-default", 2], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201108-default", 2], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201108-default", 2], "time-explore": 21.464696884155273}
+{"ctx": ["Garr201108-default", 2], "finished": {"precision": 9.982643060357788e-05, "p_property": 0, "num_explored": 241}}
+{"ctx": ["Garr201108-default", 3], "rrs": [10, 57]}
+{"ctx": ["Garr201108-default", 3], "brs": [8, 55, 12, 41, 49, 17, 3, 46, 37, 20]}
+{"ctx": ["Garr201108-default", 3], "property": "Waypoint([src: 4, dst: XXX], 5)"}
+{"ctx": ["Garr201108-default", 3], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201108-default", 3], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201108-default", 3], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201108-default", 3], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201108-default", 3], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201108-default", 3], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201108-default", 3], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201108-default", 3], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201108-default", 3], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201108-default", 3], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201108-default", 3], "time-explore": 38.2319974899292}
+{"ctx": ["Garr201108-default", 3], "finished": {"precision": 9.959090205757808e-05, "p_property": 0, "num_explored": 310}}
+{"ctx": ["Garr201108-default", 4], "rrs": [33, 57]}
+{"ctx": ["Garr201108-default", 4], "brs": [35, 8, 29, 41, 9, 26, 40, 31, 30, 46]}
+{"ctx": ["Garr201108-default", 4], "property": "Waypoint([src: 49, dst: XXX], 13)"}
+{"ctx": ["Garr201108-default", 4], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201108-default", 4], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201108-default", 4], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201108-default", 4], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201108-default", 4], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201108-default", 4], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201108-default", 4], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201108-default", 4], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201108-default", 4], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201108-default", 4], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201108-default", 4], "time-explore": 38.37387990951538}
+{"ctx": ["Garr201108-default", 4], "finished": {"precision": 9.992494525490335e-05, "p_property": 0, "num_explored": 363}}
+{"ctx": ["Garr201108-default", 5], "rrs": [18, 6]}
+{"ctx": ["Garr201108-default", 5], "brs": [29, 30, 45, 9, 19, 8, 46, 32, 58, 21]}
+{"ctx": ["Garr201108-default", 5], "property": "Waypoint([src: 10, dst: XXX], 11)"}
+{"ctx": ["Garr201108-default", 5], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201108-default", 5], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201108-default", 5], "fraction_hot": 0.24705882352941178}
+{"ctx": ["Garr201108-default", 5], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201108-default", 5], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201108-default", 5], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201108-default", 5], "fraction_hot": 0.24705882352941178}
+{"ctx": ["Garr201108-default", 5], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201108-default", 5], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201108-default", 5], "fraction_hot": 0.24705882352941178}
+{"ctx": ["Garr201108-default", 5], "time-explore": 25.041257858276367}
+{"ctx": ["Garr201108-default", 5], "finished": {"precision": 9.960152035060073e-05, "p_property": 0, "num_explored": 260}}
+{"ctx": ["Garr201108-default", 6], "rrs": [21, 43]}
+{"ctx": ["Garr201108-default", 6], "brs": [40, 13, 20, 49, 18, 8, 56, 50, 34, 16]}
+{"ctx": ["Garr201108-default", 6], "property": "Waypoint([src: 38, dst: XXX], 10)"}
+{"ctx": ["Garr201108-default", 6], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201108-default", 6], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 6], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201108-default", 6], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201108-default", 6], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 6], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 6], "fraction_hot": 0.32941176470588235}
+{"ctx": ["Garr201108-default", 6], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201108-default", 6], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 6], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 6], "time-explore": 47.89123725891113}
+{"ctx": ["Garr201108-default", 6], "finished": {"precision": 9.923444600190574e-05, "p_property": 9.99151837626388e-05, "num_explored": 400}}
+{"ctx": ["Garr201108-default", 7], "rrs": [3, 14]}
+{"ctx": ["Garr201108-default", 7], "brs": [37, 26, 30, 12, 19, 45, 48, 38, 55, 54]}
+{"ctx": ["Garr201108-default", 7], "property": "Waypoint([src: 2, dst: XXX], 41)"}
+{"ctx": ["Garr201108-default", 7], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201108-default", 7], "fraction_hot": 0.2235294117647059}
+{"ctx": ["Garr201108-default", 7], "fraction_hot": 0.24705882352941178}
+{"ctx": ["Garr201108-default", 7], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201108-default", 7], "fraction_hot": 0.27058823529411763}
+{"ctx": ["Garr201108-default", 7], "fraction_hot": 0.24705882352941178}
+{"ctx": ["Garr201108-default", 7], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201108-default", 7], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201108-default", 7], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 7], "fraction_hot": 0.3176470588235294}
+{"ctx": ["Garr201108-default", 7], "time-explore": 45.57546091079712}
+{"ctx": ["Garr201108-default", 7], "finished": {"precision": 9.927165122458608e-05, "p_property": 0, "num_explored": 344}}
+{"ctx": ["Garr201108-default", 8], "rrs": [15, 21]}
+{"ctx": ["Garr201108-default", 8], "brs": [49, 24, 22, 23, 36, 20, 48, 43, 9, 28]}
+{"ctx": ["Garr201108-default", 8], "property": "Waypoint([src: 14, dst: XXX], 58)"}
+{"ctx": ["Garr201108-default", 8], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 8], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 8], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201108-default", 8], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 8], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201108-default", 8], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 8], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201108-default", 8], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201108-default", 8], "fraction_hot": 0.3058823529411765}
+{"ctx": ["Garr201108-default", 8], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201108-default", 8], "time-explore": 35.913639307022095}
+{"ctx": ["Garr201108-default", 8], "finished": {"precision": 9.943950716928555e-05, "p_property": 0, "num_explored": 338}}
+{"ctx": ["Garr201108-default", 9], "rrs": [6, 47]}
+{"ctx": ["Garr201108-default", 9], "brs": [17, 9, 48, 39, 56, 30, 1, 20, 12, 3]}
+{"ctx": ["Garr201108-default", 9], "property": "Waypoint([src: 57, dst: XXX], 37)"}
+{"ctx": ["Garr201108-default", 9], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201108-default", 9], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201108-default", 9], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201108-default", 9], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201108-default", 9], "fraction_hot": 0.23529411764705882}
+{"ctx": ["Garr201108-default", 9], "fraction_hot": 0.24705882352941178}
+{"ctx": ["Garr201108-default", 9], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201108-default", 9], "fraction_hot": 0.2823529411764706}
+{"ctx": ["Garr201108-default", 9], "fraction_hot": 0.24705882352941178}
+{"ctx": ["Garr201108-default", 9], "fraction_hot": 0.25882352941176473}
+{"ctx": ["Garr201108-default", 9], "time-explore": 35.89876461029053}
+{"ctx": ["Garr201108-default", 9], "finished": {"precision": 9.978610198602139e-05, "p_property": 0, "num_explored": 319}}
+{"ctx": ["Garr201001-default"], "topology": {"name": "Garr201001", "nof_nodes": 54, "nof_links": 68}}
+{"ctx": ["Garr201001-default", 0], "rrs": [4, 13]}
+{"ctx": ["Garr201001-default", 0], "brs": [40, 2, 23, 11, 35, 6, 22, 52, 15, 39]}
+{"ctx": ["Garr201001-default", 0], "property": "Waypoint([src: 43, dst: XXX], 17)"}
+{"ctx": ["Garr201001-default", 0], "fraction_hot": 0.39705882352941174}
+{"ctx": ["Garr201001-default", 0], "fraction_hot": 0.0}
+{"ctx": ["Garr201001-default", 0], "fraction_hot": 0.39705882352941174}
+{"ctx": ["Garr201001-default", 0], "fraction_hot": 0.39705882352941174}
+{"ctx": ["Garr201001-default", 0], "fraction_hot": 0.36764705882352944}
+{"ctx": ["Garr201001-default", 0], "fraction_hot": 0.39705882352941174}
+{"ctx": ["Garr201001-default", 0], "fraction_hot": 0.36764705882352944}
+{"ctx": ["Garr201001-default", 0], "fraction_hot": 0.38235294117647056}
+{"ctx": ["Garr201001-default", 0], "fraction_hot": 0.38235294117647056}
+{"ctx": ["Garr201001-default", 0], "fraction_hot": 0.38235294117647056}
+{"ctx": ["Garr201001-default", 0], "time-explore": 48.617828369140625}
+{"ctx": ["Garr201001-default", 0], "finished": {"precision": 9.954020487601418e-05, "p_property": 0, "num_explored": 382}}
+{"ctx": ["Garr201001-default", 1], "rrs": [28, 19]}
+{"ctx": ["Garr201001-default", 1], "brs": [40, 38, 37, 32, 8, 11, 45, 25, 2, 13]}
+{"ctx": ["Garr201001-default", 1], "property": "Waypoint([src: 7, dst: XXX], 34)"}
+{"ctx": ["Garr201001-default", 1], "fraction_hot": 0.39705882352941174}
+{"ctx": ["Garr201001-default", 1], "fraction_hot": 0.0}
+{"ctx": ["Garr201001-default", 1], "fraction_hot": 0.4117647058823529}
+{"ctx": ["Garr201001-default", 1], "fraction_hot": 0.39705882352941174}
+{"ctx": ["Garr201001-default", 1], "fraction_hot": 0.4117647058823529}
+{"ctx": ["Garr201001-default", 1], "fraction_hot": 0.4117647058823529}
+{"ctx": ["Garr201001-default", 1], "fraction_hot": 0.4117647058823529}
+{"ctx": ["Garr201001-default", 1], "fraction_hot": 0.4264705882352941}
+{"ctx": ["Garr201001-default", 1], "fraction_hot": 0.39705882352941174}
+{"ctx": ["Garr201001-default", 1], "fraction_hot": 0.39705882352941174}
+{"ctx": ["Garr201001-default", 1], "time-explore": 39.988097190856934}
+{"ctx": ["Garr201001-default", 1], "finished": {"precision": 9.907142077814072e-05, "p_property": 0, "num_explored": 371}}
+{"ctx": ["Garr201001-default", 2], "rrs": [8, 1]}
+{"ctx": ["Garr201001-default", 2], "brs": [20, 46, 14, 29, 9, 40, 21, 41, 11, 3]}
+{"ctx": ["Garr201001-default", 2], "property": "Waypoint([src: 2, dst: XXX], 45)"}
+{"ctx": ["Garr201001-default", 2], "fraction_hot": 0.38235294117647056}
+{"ctx": ["Garr201001-default", 2], "fraction_hot": 0.38235294117647056}
+{"ctx": ["Garr201001-default", 2], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 2], "fraction_hot": 0.36764705882352944}
+{"ctx": ["Garr201001-default", 2], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 2], "fraction_hot": 0.36764705882352944}
+{"ctx": ["Garr201001-default", 2], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 2], "fraction_hot": 0.39705882352941174}
+{"ctx": ["Garr201001-default", 2], "fraction_hot": 0.38235294117647056}
+{"ctx": ["Garr201001-default", 2], "fraction_hot": 0.36764705882352944}
+{"ctx": ["Garr201001-default", 2], "time-explore": 38.35773706436157}
+{"ctx": ["Garr201001-default", 2], "finished": {"precision": 9.981941845715889e-05, "p_property": 0, "num_explored": 328}}
+{"ctx": ["Garr201001-default", 3], "rrs": [7, 48]}
+{"ctx": ["Garr201001-default", 3], "brs": [0, 26, 32, 42, 14, 41, 44, 17, 22, 10]}
+{"ctx": ["Garr201001-default", 3], "property": "Waypoint([src: 16, dst: XXX], 37)"}
+{"ctx": ["Garr201001-default", 3], "fraction_hot": 0.3088235294117647}
+{"ctx": ["Garr201001-default", 3], "fraction_hot": 0.2647058823529412}
+{"ctx": ["Garr201001-default", 3], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 3], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 3], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201001-default", 3], "fraction_hot": 0.3088235294117647}
+{"ctx": ["Garr201001-default", 3], "fraction_hot": 0.3088235294117647}
+{"ctx": ["Garr201001-default", 3], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201001-default", 3], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201001-default", 3], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 3], "time-explore": 16.63601326942444}
+{"ctx": ["Garr201001-default", 3], "finished": {"precision": 9.933829236019603e-05, "p_property": 0, "num_explored": 223}}
+{"ctx": ["Garr201001-default", 4], "rrs": [8, 12]}
+{"ctx": ["Garr201001-default", 4], "brs": [18, 2, 0, 14, 50, 19, 31, 5, 3, 41]}
+{"ctx": ["Garr201001-default", 4], "property": "Waypoint([src: 20, dst: XXX], 6)"}
+{"ctx": ["Garr201001-default", 4], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201001-default", 4], "fraction_hot": 0.29411764705882354}
+{"ctx": ["Garr201001-default", 4], "fraction_hot": 0.3088235294117647}
+{"ctx": ["Garr201001-default", 4], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 4], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 4], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 4], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 4], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 4], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 4], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 4], "time-explore": 16.816575050354004}
+{"ctx": ["Garr201001-default", 4], "finished": {"precision": 9.938406917475709e-05, "p_property": 0, "num_explored": 222}}
+{"ctx": ["Garr201001-default", 5], "rrs": [48, 8]}
+{"ctx": ["Garr201001-default", 5], "brs": [45, 11, 30, 14, 35, 31, 26, 20, 0, 51]}
+{"ctx": ["Garr201001-default", 5], "property": "Waypoint([src: 7, dst: XXX], 52)"}
+{"ctx": ["Garr201001-default", 5], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 5], "fraction_hot": 0.0}
+{"ctx": ["Garr201001-default", 5], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 5], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 5], "fraction_hot": 0.36764705882352944}
+{"ctx": ["Garr201001-default", 5], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 5], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 5], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 5], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 5], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 5], "time-explore": 24.06748104095459}
+{"ctx": ["Garr201001-default", 5], "finished": {"precision": 9.968767400747591e-05, "p_property": 0, "num_explored": 248}}
+{"ctx": ["Garr201001-default", 6], "rrs": [42, 48]}
+{"ctx": ["Garr201001-default", 6], "brs": [52, 28, 15, 34, 6, 32, 44, 29, 50, 24]}
+{"ctx": ["Garr201001-default", 6], "property": "Waypoint([src: 4, dst: XXX], 20)"}
+{"ctx": ["Garr201001-default", 6], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 6], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 6], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 6], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 6], "fraction_hot": 0.38235294117647056}
+{"ctx": ["Garr201001-default", 6], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 6], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 6], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 6], "fraction_hot": 0.3088235294117647}
+{"ctx": ["Garr201001-default", 6], "fraction_hot": 0.27941176470588236}
+{"ctx": ["Garr201001-default", 6], "time-explore": 19.13676619529724}
+{"ctx": ["Garr201001-default", 6], "finished": {"precision": 9.975634178294161e-05, "p_property": 0, "num_explored": 259}}
+{"ctx": ["Garr201001-default", 7], "rrs": [6, 4]}
+{"ctx": ["Garr201001-default", 7], "brs": [51, 2, 53, 15, 37, 46, 20, 50, 27, 35]}
+{"ctx": ["Garr201001-default", 7], "property": "Waypoint([src: 8, dst: XXX], 16)"}
+{"ctx": ["Garr201001-default", 7], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 7], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 7], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 7], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 7], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 7], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 7], "fraction_hot": 0.3088235294117647}
+{"ctx": ["Garr201001-default", 7], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 7], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 7], "fraction_hot": 0.36764705882352944}
+{"ctx": ["Garr201001-default", 7], "time-explore": 30.96221685409546}
+{"ctx": ["Garr201001-default", 7], "finished": {"precision": 9.983467175767038e-05, "p_property": 0, "num_explored": 321}}
+{"ctx": ["Garr201001-default", 8], "rrs": [6, 4]}
+{"ctx": ["Garr201001-default", 8], "brs": [40, 53, 0, 45, 18, 34, 10, 17, 24, 25]}
+{"ctx": ["Garr201001-default", 8], "property": "Waypoint([src: 47, dst: XXX], 12)"}
+{"ctx": ["Garr201001-default", 8], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 8], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 8], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 8], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 8], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 8], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 8], "fraction_hot": 0.0}
+{"ctx": ["Garr201001-default", 8], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 8], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 8], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 8], "time-explore": 28.50227642059326}
+{"ctx": ["Garr201001-default", 8], "finished": {"precision": 9.960719714396935e-05, "p_property": 0.0010868790856205584, "num_explored": 275}}
+{"ctx": ["Garr201001-default", 9], "rrs": [37, 30]}
+{"ctx": ["Garr201001-default", 9], "brs": [14, 0, 25, 2, 34, 45, 10, 19, 12, 47]}
+{"ctx": ["Garr201001-default", 9], "property": "Waypoint([src: 1, dst: XXX], 33)"}
+{"ctx": ["Garr201001-default", 9], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 9], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 9], "fraction_hot": 0.3235294117647059}
+{"ctx": ["Garr201001-default", 9], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 9], "fraction_hot": 0.39705882352941174}
+{"ctx": ["Garr201001-default", 9], "fraction_hot": 0.4117647058823529}
+{"ctx": ["Garr201001-default", 9], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 9], "fraction_hot": 0.36764705882352944}
+{"ctx": ["Garr201001-default", 9], "fraction_hot": 0.35294117647058826}
+{"ctx": ["Garr201001-default", 9], "fraction_hot": 0.3382352941176471}
+{"ctx": ["Garr201001-default", 9], "time-explore": 37.636704206466675}
+{"ctx": ["Garr201001-default", 9], "finished": {"precision": 9.930584375705814e-05, "p_property": 0, "num_explored": 345}}
+{"ctx": ["Latnet-default"], "topology": {"name": "Latnet", "nof_nodes": 69, "nof_links": 74}}
+{"ctx": ["Latnet-default", 0], "rrs": [13, 23]}
+{"ctx": ["Latnet-default", 0], "brs": [53, 40, 59, 5, 65, 8, 58, 55, 19, 1]}
+{"ctx": ["Latnet-default", 0], "property": "Waypoint([src: 22, dst: XXX], 17)"}
+{"ctx": ["Latnet-default", 0], "fraction_hot": 0.3783783783783784}
+{"ctx": ["Latnet-default", 0], "fraction_hot": 0.2972972972972973}
+{"ctx": ["Latnet-default", 0], "fraction_hot": 0.3918918918918919}
+{"ctx": ["Latnet-default", 0], "fraction_hot": 0.35135135135135137}
+{"ctx": ["Latnet-default", 0], "fraction_hot": 0.33783783783783783}
+{"ctx": ["Latnet-default", 0], "fraction_hot": 0.36486486486486486}
+{"ctx": ["Latnet-default", 0], "fraction_hot": 0.33783783783783783}
+{"ctx": ["Latnet-default", 0], "fraction_hot": 0.33783783783783783}
+{"ctx": ["Latnet-default", 0], "fraction_hot": 0.3918918918918919}
+{"ctx": ["Latnet-default", 0], "fraction_hot": 0.33783783783783783}
+{"ctx": ["Latnet-default", 0], "time-explore": 33.90429973602295}
+{"ctx": ["Latnet-default", 0], "finished": {"precision": 9.91857868677393e-05, "p_property": 0, "num_explored": 330}}
+{"ctx": ["Latnet-default", 1], "rrs": [43, 51]}
+{"ctx": ["Latnet-default", 1], "brs": [18, 7, 5, 45, 15, 6, 20, 17, 9, 55]}
+{"ctx": ["Latnet-default", 1], "property": "Waypoint([src: 47, dst: XXX], 57)"}
+{"ctx": ["Latnet-default", 1], "fraction_hot": 0.25675675675675674}
+{"ctx": ["Latnet-default", 1], "fraction_hot": 0.28378378378378377}
+{"ctx": ["Latnet-default", 1], "fraction_hot": 0.24324324324324326}
+{"ctx": ["Latnet-default", 1], "fraction_hot": 0.22972972972972974}
+{"ctx": ["Latnet-default", 1], "fraction_hot": 0.2702702702702703}
+{"ctx": ["Latnet-default", 1], "fraction_hot": 0.25675675675675674}
+{"ctx": ["Latnet-default", 1], "fraction_hot": 0.24324324324324326}
+{"ctx": ["Latnet-default", 1], "fraction_hot": 0.24324324324324326}
+{"ctx": ["Latnet-default", 1], "fraction_hot": 0.24324324324324326}
+{"ctx": ["Latnet-default", 1], "fraction_hot": 0.24324324324324326}
+{"ctx": ["Latnet-default", 1], "time-explore": 7.698308229446411}
+{"ctx": ["Latnet-default", 1], "finished": {"precision": 9.988142078110054e-05, "p_property": 0, "num_explored": 139}}
+{"ctx": ["Latnet-default", 2], "rrs": [13, 58]}
+{"ctx": ["Latnet-default", 2], "brs": [19, 34, 53, 15, 59, 46, 4, 48, 36, 57]}
+{"ctx": ["Latnet-default", 2], "property": "Waypoint([src: 17, dst: XXX], 12)"}
+{"ctx": ["Latnet-default", 2], "fraction_hot": 0.33783783783783783}
+{"ctx": ["Latnet-default", 2], "fraction_hot": 0.28378378378378377}
+{"ctx": ["Latnet-default", 2], "fraction_hot": 0.35135135135135137}
+{"ctx": ["Latnet-default", 2], "fraction_hot": 0.3108108108108108}
+{"ctx": ["Latnet-default", 2], "fraction_hot": 0.3108108108108108}
+{"ctx": ["Latnet-default", 2], "fraction_hot": 0.3108108108108108}
+{"ctx": ["Latnet-default", 2], "fraction_hot": 0.32432432432432434}
+{"ctx": ["Latnet-default", 2], "fraction_hot": 0.3108108108108108}
+{"ctx": ["Latnet-default", 2], "fraction_hot": 0.32432432432432434}
+{"ctx": ["Latnet-default", 2], "fraction_hot": 0.32432432432432434}
+{"ctx": ["Latnet-default", 2], "time-explore": 21.542839288711548}
+{"ctx": ["Latnet-default", 2], "finished": {"precision": 9.921454261907486e-05, "p_property": 0, "num_explored": 248}}
+{"ctx": ["Latnet-default", 3], "rrs": [29, 16]}
+{"ctx": ["Latnet-default", 3], "brs": [52, 26, 2, 67, 51, 19, 41, 45, 5, 44]}
+{"ctx": ["Latnet-default", 3], "property": "Waypoint([src: 10, dst: XXX], 43)"}
+{"ctx": ["Latnet-default", 3], "fraction_hot": 0.2702702702702703}
+{"ctx": ["Latnet-default", 3], "fraction_hot": 0.20270270270270271}
+{"ctx": ["Latnet-default", 3], "fraction_hot": 0.25675675675675674}
+{"ctx": ["Latnet-default", 3], "fraction_hot": 0.20270270270270271}
+{"ctx": ["Latnet-default", 3], "fraction_hot": 0.16216216216216217}
+{"ctx": ["Latnet-default", 3], "fraction_hot": 0.24324324324324326}
+{"ctx": ["Latnet-default", 3], "fraction_hot": 0.013513513513513514}
+{"ctx": ["Latnet-default", 3], "fraction_hot": 0.25675675675675674}
+{"ctx": ["Latnet-default", 3], "fraction_hot": 0.25675675675675674}
+{"ctx": ["Latnet-default", 3], "fraction_hot": 0.20270270270270271}
+{"ctx": ["Latnet-default", 3], "time-explore": 5.041057109832764}
+{"ctx": ["Latnet-default", 3], "finished": {"precision": 9.950749649512142e-05, "p_property": 0, "num_explored": 102}}
+{"ctx": ["Latnet-default", 4], "rrs": [13, 59]}
+{"ctx": ["Latnet-default", 4], "brs": [60, 27, 45, 23, 47, 11, 16, 17, 63, 55]}
+{"ctx": ["Latnet-default", 4], "property": "Waypoint([src: 29, dst: XXX], 18)"}
+{"ctx": ["Latnet-default", 4], "fraction_hot": 0.3108108108108108}
+{"ctx": ["Latnet-default", 4], "fraction_hot": 0.22972972972972974}
+{"ctx": ["Latnet-default", 4], "fraction_hot": 0.32432432432432434}
+{"ctx": ["Latnet-default", 4], "fraction_hot": 0.2972972972972973}
+{"ctx": ["Latnet-default", 4], "fraction_hot": 0.25675675675675674}
+{"ctx": ["Latnet-default", 4], "fraction_hot": 0.2702702702702703}
+{"ctx": ["Latnet-default", 4], "fraction_hot": 0.25675675675675674}
+{"ctx": ["Latnet-default", 4], "fraction_hot": 0.08108108108108109}
+{"ctx": ["Latnet-default", 4], "fraction_hot": 0.2702702702702703}
+{"ctx": ["Latnet-default", 4], "fraction_hot": 0.2972972972972973}
+{"ctx": ["Latnet-default", 4], "time-explore": 13.075135469436646}
+{"ctx": ["Latnet-default", 4], "finished": {"precision": 9.911519936223182e-05, "p_property": 0, "num_explored": 189}}
+{"ctx": ["Latnet-default", 5], "rrs": [39, 14]}
+{"ctx": ["Latnet-default", 5], "brs": [21, 47, 52, 36, 41, 8, 65, 25, 4, 7]}
+{"ctx": ["Latnet-default", 5], "property": "Waypoint([src: 38, dst: XXX], 1)"}
+{"ctx": ["Latnet-default", 5], "fraction_hot": 0.32432432432432434}
+{"ctx": ["Latnet-default", 5], "fraction_hot": 0.24324324324324326}
+{"ctx": ["Latnet-default", 5], "fraction_hot": 0.3108108108108108}
+{"ctx": ["Latnet-default", 5], "fraction_hot": 0.33783783783783783}
+{"ctx": ["Latnet-default", 5], "fraction_hot": 0.3108108108108108}
+{"ctx": ["Latnet-default", 5], "fraction_hot": 0.28378378378378377}
+{"ctx": ["Latnet-default", 5], "fraction_hot": 0.24324324324324326}
+{"ctx": ["Latnet-default", 5], "fraction_hot": 0.24324324324324326}
+{"ctx": ["Latnet-default", 5], "fraction_hot": 0.28378378378378377}
+{"ctx": ["Latnet-default", 5], "fraction_hot": 0.3108108108108108}
+{"ctx": ["Latnet-default", 5], "time-explore": 16.481181621551514}
+{"ctx": ["Latnet-default", 5], "finished": {"precision": 9.984752336544826e-05, "p_property": 0, "num_explored": 217}}
+{"ctx": ["Latnet-default", 6], "rrs": [59, 37]}
+{"ctx": ["Latnet-default", 6], "brs": [64, 56, 27, 48, 24, 1, 60, 63, 50, 17]}
+{"ctx": ["Latnet-default", 6], "property": "Waypoint([src: 61, dst: XXX], 21)"}
+{"ctx": ["Latnet-default", 6], "fraction_hot": 0.35135135135135137}
+{"ctx": ["Latnet-default", 6], "fraction_hot": 0.28378378378378377}
+{"ctx": ["Latnet-default", 6], "fraction_hot": 0.33783783783783783}
+{"ctx": ["Latnet-default", 6], "fraction_hot": 0.33783783783783783}
+{"ctx": ["Latnet-default", 6], "fraction_hot": 0.2972972972972973}
+{"ctx": ["Latnet-default", 6], "fraction_hot": 0.32432432432432434}
+{"ctx": ["Latnet-default", 6], "fraction_hot": 0.2702702702702703}
+{"ctx": ["Latnet-default", 6], "fraction_hot": 0.2702702702702703}
+{"ctx": ["Latnet-default", 6], "fraction_hot": 0.21621621621621623}
+{"ctx": ["Latnet-default", 6], "fraction_hot": 0.32432432432432434}
+{"ctx": ["Latnet-default", 6], "time-explore": 19.341031074523926}
+{"ctx": ["Latnet-default", 6], "finished": {"precision": 9.952658306044962e-05, "p_property": 0, "num_explored": 236}}
+{"ctx": ["Latnet-default", 7], "rrs": [14, 29]}
+{"ctx": ["Latnet-default", 7], "brs": [55, 66, 28, 5, 17, 9, 63, 6, 65, 2]}
+{"ctx": ["Latnet-default", 7], "property": "Waypoint([src: 12, dst: XXX], 18)"}
+{"ctx": ["Latnet-default", 7], "fraction_hot": 0.3108108108108108}
+{"ctx": ["Latnet-default", 7], "fraction_hot": 0.02702702702702703}
+{"ctx": ["Latnet-default", 7], "fraction_hot": 0.32432432432432434}
+{"ctx": ["Latnet-default", 7], "fraction_hot": 0.3108108108108108}
+{"ctx": ["Latnet-default", 7], "fraction_hot": 0.2972972972972973}
+{"ctx": ["Latnet-default", 7], "fraction_hot": 0.3108108108108108}
+{"ctx": ["Latnet-default", 7], "fraction_hot": 0.0}
+{"ctx": ["Latnet-default", 7], "fraction_hot": 0.05405405405405406}
+{"ctx": ["Latnet-default", 7], "fraction_hot": 0.2972972972972973}
+{"ctx": ["Latnet-default", 7], "fraction_hot": 0.2972972972972973}
+{"ctx": ["Latnet-default", 7], "time-explore": 13.84489369392395}
+{"ctx": ["Latnet-default", 7], "finished": {"precision": 9.993308999511903e-05, "p_property": 0, "num_explored": 179}}
+{"ctx": ["Latnet-default", 8], "rrs": [37, 30]}
+{"ctx": ["Latnet-default", 8], "brs": [63, 10, 11, 0, 4, 2, 36, 49, 58, 35]}
+{"ctx": ["Latnet-default", 8], "property": "Waypoint([src: 7, dst: XXX], 32)"}
+{"ctx": ["Latnet-default", 8], "fraction_hot": 0.24324324324324326}
+{"ctx": ["Latnet-default", 8], "fraction_hot": 0.21621621621621623}
+{"ctx": ["Latnet-default", 8], "fraction_hot": 0.22972972972972974}
+{"ctx": ["Latnet-default", 8], "fraction_hot": 0.22972972972972974}
+{"ctx": ["Latnet-default", 8], "fraction_hot": 0.21621621621621623}
+{"ctx": ["Latnet-default", 8], "fraction_hot": 0.21621621621621623}
+{"ctx": ["Latnet-default", 8], "fraction_hot": 0.17567567567567569}
+{"ctx": ["Latnet-default", 8], "fraction_hot": 0.25675675675675674}
+{"ctx": ["Latnet-default", 8], "fraction_hot": 0.22972972972972974}
+{"ctx": ["Latnet-default", 8], "fraction_hot": 0.22972972972972974}
+{"ctx": ["Latnet-default", 8], "time-explore": 3.9612233638763428}
+{"ctx": ["Latnet-default", 8], "finished": {"precision": 9.97042124031288e-05, "p_property": 0, "num_explored": 86}}
+{"ctx": ["Latnet-default", 9], "rrs": [9, 58]}
+{"ctx": ["Latnet-default", 9], "brs": [67, 50, 26, 15, 32, 57, 5, 4, 17, 1]}
+{"ctx": ["Latnet-default", 9], "property": "Waypoint([src: 3, dst: XXX], 16)"}
+{"ctx": ["Latnet-default", 9], "fraction_hot": 0.2972972972972973}
+{"ctx": ["Latnet-default", 9], "fraction_hot": 0.2702702702702703}
+{"ctx": ["Latnet-default", 9], "fraction_hot": 0.3108108108108108}
+{"ctx": ["Latnet-default", 9], "fraction_hot": 0.28378378378378377}
+{"ctx": ["Latnet-default", 9], "fraction_hot": 0.3108108108108108}
+{"ctx": ["Latnet-default", 9], "fraction_hot": 0.25675675675675674}
+{"ctx": ["Latnet-default", 9], "fraction_hot": 0.2972972972972973}
+{"ctx": ["Latnet-default", 9], "fraction_hot": 0.2972972972972973}
+{"ctx": ["Latnet-default", 9], "fraction_hot": 0.28378378378378377}
+{"ctx": ["Latnet-default", 9], "fraction_hot": 0.3108108108108108}
+{"ctx": ["Latnet-default", 9], "time-explore": 14.566384553909302}
+{"ctx": ["Latnet-default", 9], "finished": {"precision": 9.94931887390304e-05, "p_property": 0, "num_explored": 196}}
