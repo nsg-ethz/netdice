@@ -7,6 +7,14 @@ import netdice.experiments.sri_plot_helper.cdf
 import netdice.experiments.sri_plot_helper.heatmap
 
 
+def configure_plots_nolatex(font_size=12):
+    rc('font', **{'family': 'serif', 'serif': [], 'size': font_size})
+
+    # configure nice legend
+    rc('legend', fancybox=False)  # disable rounded corners
+    rc('legend', frameon=False)  # disable background
+
+
 # initial configuration for all plots
 #   font_style: 'IEEE' / 'ACM' / 'CM'
 #   font_size: the size of the text

@@ -21,7 +21,7 @@ class Analyzer:
 
         self.flierprops = dict(marker='.')  # configuration for outlier markers in boxplots
 
-        sph.configure_plots(font_style="ACM", font_size=12)
+        sph.configure_plots_nolatex(font_size=12)
 
     def analyze(self):
         if not os.path.exists(self.output_dir):
