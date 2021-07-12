@@ -180,6 +180,29 @@ class PropertiesTest(unittest.TestCase):
         p = EgressProperty(f, 2)
         self.assertFalse(p.check({f: fwg}))
 
+    def test_egress_3(self):
+        f = Flow(0, "X")
+        fwg = FwGraph(5, 0, "X")
+        fwg.add_fw_rule(0, 1)
+        fwg.add_fw_rule(1, 3)
+        fwg.add_fw_rule(1, 2)
+        fwg.add_fw_rule(2, 4)
+        fwg.add_fw_rule(3, 4)
+        fwg.add_fw_rule(4, -1)
+        p = EgressProperty(f, 4)
+        self.assertTrue(p.check({f: fwg}))
+
+    def test_egress_4(self):
+        f = Flow(0, "X")
+        fwg = FwGraph(5, 0, "X")
+        fwg.add_fw_rule(0, 1)
+        fwg.add_fw_rule(1, 3)
+        fwg.add_fw_rule(3, 1)
+        fwg.add_fw_rule(3, 4)
+        fwg.add_fw_rule(4, -1)
+        p = EgressProperty(f, 4)
+        self.assertFalse(p.check({f: fwg}))
+
     def test_loop(self):
         f = Flow(0, "X")
         fwg = FwGraph(5, 0, "X")
@@ -200,6 +223,29 @@ class PropertiesTest(unittest.TestCase):
         fwg.add_fw_rule(3, -1)
         p = LoopProperty(f)
         self.assertFalse(p.check({f: fwg}))
+
+    def test_loop_3(self):
+        f = Flow(0, "X")
+        fwg = FwGraph(5, 0, "X")
+        fwg.add_fw_rule(0, 1)
+        fwg.add_fw_rule(1, 3)
+        fwg.add_fw_rule(1, 2)
+        fwg.add_fw_rule(2, 4)
+        fwg.add_fw_rule(3, 4)
+        fwg.add_fw_rule(4, -1)
+        p = LoopProperty(f)
+        self.assertFalse(p.check({f: fwg}))
+
+    def test_loop_4(self):
+        f = Flow(0, "X")
+        fwg = FwGraph(5, 0, "X")
+        fwg.add_fw_rule(0, 1)
+        fwg.add_fw_rule(1, 3)
+        fwg.add_fw_rule(3, 1)
+        fwg.add_fw_rule(3, 4)
+        fwg.add_fw_rule(4, -1)
+        p = LoopProperty(f)
+        self.assertTrue(p.check({f: fwg}))
 
     def test_reachable(self):
         f = Flow(0, "X")
@@ -230,6 +276,29 @@ class PropertiesTest(unittest.TestCase):
         fwg.add_fw_rule(3, -1)
         p = ReachableProperty(f)
         self.assertTrue(p.check({f: fwg}))
+
+    def test_reachable_4(self):
+        f = Flow(0, "X")
+        fwg = FwGraph(5, 0, "X")
+        fwg.add_fw_rule(0, 1)
+        fwg.add_fw_rule(1, 3)
+        fwg.add_fw_rule(1, 2)
+        fwg.add_fw_rule(2, 4)
+        fwg.add_fw_rule(3, 4)
+        fwg.add_fw_rule(4, -1)
+        p = ReachableProperty(f)
+        self.assertTrue(p.check({f: fwg}))
+
+    def test_reachable_5(self):
+        f = Flow(0, "X")
+        fwg = FwGraph(5, 0, "X")
+        fwg.add_fw_rule(0, 1)
+        fwg.add_fw_rule(1, 3)
+        fwg.add_fw_rule(3, 1)
+        fwg.add_fw_rule(3, 4)
+        fwg.add_fw_rule(4, -1)
+        p = ReachableProperty(f)
+        self.assertFalse(p.check({f: fwg}))
 
     def test_balanced(self):
         f = Flow(0, "6")
@@ -271,3 +340,26 @@ class PropertiesTest(unittest.TestCase):
         fwg.add_fw_rule(2, -1)
         p = PathLengthProperty(f, 2)
         self.assertTrue(p.check({f: fwg}))
+
+    def test_path_length_3(self):
+        f = Flow(0, "X")
+        fwg = FwGraph(5, 0, "X")
+        fwg.add_fw_rule(0, 1)
+        fwg.add_fw_rule(1, 3)
+        fwg.add_fw_rule(1, 2)
+        fwg.add_fw_rule(2, 4)
+        fwg.add_fw_rule(3, 4)
+        fwg.add_fw_rule(4, -1)
+        p = PathLengthProperty(f, 3)
+        self.assertTrue(p.check({f: fwg}))
+
+    def test_path_length_4(self):
+        f = Flow(0, "X")
+        fwg = FwGraph(5, 0, "X")
+        fwg.add_fw_rule(0, 1)
+        fwg.add_fw_rule(1, 3)
+        fwg.add_fw_rule(3, 1)
+        fwg.add_fw_rule(3, 4)
+        fwg.add_fw_rule(4, -1)
+        p = PathLengthProperty(f, 3)
+        self.assertFalse(p.check({f: fwg}))

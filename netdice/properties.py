@@ -102,11 +102,15 @@ class EgressProperty(BaseProperty):
 
         # perform a DFS on the graph and check the egresses
         v = [False] * fwg.n
-        return self._check_rec(fwg, v, fwg.src)
+        w = [False] * fwg.n
+        return self._check_rec(fwg, v, w, fwg.src)
 
-    def _check_rec(self, fwg: FwGraph, visited: list, cur: int) -> bool:
+    def _check_rec(self, fwg: FwGraph, visited: list, on_current_path: list, cur: int) -> bool:
         if visited[cur]:
-            return False     # we are in a loop
+            if on_current_path[cur]:
+                return False  # we have a loop
+            return True
+        visited[cur] = True
 
         if fwg.exits_at(cur):
             return cur == self.egress
@@ -114,10 +118,11 @@ class EgressProperty(BaseProperty):
         if len(fwg.next[cur]) == 0:
             return False   # we have a black hole
 
-        visited[cur] = True
+        on_current_path[cur] = True
         for n in fwg.next[cur]:
-            if not self._check_rec(fwg, visited, n):
+            if not self._check_rec(fwg, visited, on_current_path, n):
                 return False
+        on_current_path[cur] = False
         return True
 
 
@@ -138,19 +143,24 @@ class LoopProperty(BaseProperty):
 
         # perform a DFS on the graph
         v = [False] * fwg.n
-        return self._check_rec(fwg, v, fwg.src)
+        w = [False] * fwg.n
+        return self._check_rec(fwg, v, w, fwg.src)
 
-    def _check_rec(self, fwg: FwGraph, visited: list, cur: int) -> bool:
+    def _check_rec(self, fwg: FwGraph, visited: list, on_current_path: list, cur: int) -> bool:
         if visited[cur]:
-            return True  # we are in a loop
+            if on_current_path[cur]:
+                return True  # we have a loop
+            return False
+        visited[cur] = True
 
         if fwg.exits_at(cur):
             return False
 
-        visited[cur] = True
+        on_current_path[cur] = True
         for n in fwg.next[cur]:
-            if self._check_rec(fwg, visited, n):
+            if self._check_rec(fwg, visited, on_current_path, n):
                 return True
+        on_current_path[cur] = False
         return False
 
 
@@ -171,11 +181,15 @@ class ReachableProperty(BaseProperty):
 
         # perform a DFS on the graph and check that there are no loops or black holes
         v = [False] * fwg.n
-        return self._check_rec(fwg, v, fwg.src)
+        w = [False] * fwg.n
+        return self._check_rec(fwg, v, w, fwg.src)
 
-    def _check_rec(self, fwg: FwGraph, visited: list, cur: int) -> bool:
+    def _check_rec(self, fwg: FwGraph, visited: list, on_current_path: list, cur: int) -> bool:
         if visited[cur]:
-            return False  # we are in a loop
+            if on_current_path[cur]:
+                return False  # we have a loop
+            return True
+        visited[cur] = True
 
         if fwg.exits_at(cur):
             return True     # traffic reaches its destination
@@ -183,10 +197,11 @@ class ReachableProperty(BaseProperty):
         if len(fwg.next[cur]) == 0:
             return False   # we have a black hole
 
-        visited[cur] = True
+        on_current_path[cur] = True
         for n in fwg.next[cur]:
-            if not self._check_rec(fwg, visited, n):
+            if not self._check_rec(fwg, visited, on_current_path, n):
                 return False
+        on_current_path[cur] = False
         return True
 
 
@@ -209,11 +224,15 @@ class PathLengthProperty(BaseProperty):
 
         # perform a DFS on the graph
         v = [False] * fwg.n
-        return self._check_rec(fwg, v, fwg.src, 0)
+        w = [False] * fwg.n
+        return self._check_rec(fwg, v, w, fwg.src, 0)
 
-    def _check_rec(self, fwg: FwGraph, visited: list, cur: int, n_traversed: int) -> bool:
+    def _check_rec(self, fwg: FwGraph, visited: list, on_current_path: list, cur: int, n_traversed: int) -> bool:
         if visited[cur]:
-            return False  # we are in a loop
+            if on_current_path[cur]:
+                return False  # we have a loop
+            return True
+        visited[cur] = True
 
         if fwg.exits_at(cur):
             return n_traversed == self.len
@@ -221,10 +240,11 @@ class PathLengthProperty(BaseProperty):
         if len(fwg.next[cur]) == 0:
             return n_traversed == self.len  # black hole (whether to ever return true here is arguable)
 
-        visited[cur] = True
+        on_current_path[cur] = True
         for n in fwg.next[cur]:
-            if not self._check_rec(fwg, visited, n, n_traversed+1):
+            if not self._check_rec(fwg, visited, on_current_path, n, n_traversed+1):
                 return False
+        on_current_path[cur] = False
         return True
 
 
@@ -263,11 +283,11 @@ class WaypointProperty(BaseProperty):
             if on_current_path[cur]:
                 return False    # we have a loop
             return True
+        visited[cur] = True
 
         if len(fwg.next[cur]) == 0:
             return False    # we have a black hole
 
-        visited[cur] = True
         on_current_path[cur] = True
         for n in fwg.next[cur]:
             if not self._check_all_traverse_waypoint(fwg, visited, on_current_path, n):
